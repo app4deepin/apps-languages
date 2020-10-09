@@ -4,296 +4,295 @@ msgstr ""
 "Project-Id-Version: Weather 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:31 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1 About.form:60 FMain.form:50
 msgid "Weather"
-msgstr ""
+msgstr "Погода"
 
 #: .project:2
 msgid "Weather App for Deepin v20"
-msgstr ""
+msgstr "Приложение Погода для Deepin v20"
 
 #: About.form:17 FMain.form:84
 msgid "About"
-msgstr ""
+msgstr Насчёт""
 
 #: About.form:50
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "http://app4deepin.com"
 
 #: About.form:86
 msgid "Weather app for Deepin"
-msgstr ""
+msgstr "Положение Погода для Deepin"
 
 #: FMain.form:57
 msgid "Menu1"
-msgstr ""
+msgstr "Меню1"
 
 #: FMain.form:61
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: FMain.form:65
 msgid "Refresh"
-msgstr ""
+msgstr "Обновить"
 
 #: FMain.form:72
 msgid "Report a bug"
-msgstr ""
+msgstr "Отчёт об ошибки"
 
 #: FMain.form:76
 msgid "Changelog"
-msgstr ""
+msgstr "Журнал изменений"
 
 #: FMain.form:80 Helper.form:30
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 #: FMain.form:88
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 #: FMain.form:110
 msgid "pm 2.5"
-msgstr ""
+msgstr "пм 2.5"
 
 #: FMain.form:181
 msgid "Humidity"
-msgstr ""
+msgstr "Влажность"
 
 #: FMain.form:209
 msgid "Wind (km/h)"
-msgstr ""
+msgstr "Ветер (км/ч)"
 
 #: FMain.form:270
 msgid "Sorry, we are running out of queries to the weather service at the moment.\n\nPlease try later"
-msgstr ""
+msgstr "К сожалению, в данный момент у нас заканчиваются запросы к службе погоды.\n\nПожалуйста, попробуйте позже"
 
 #: FMain.class:71
 msgid "Refreshing data ..."
-msgstr ""
+msgstr "Обновление данных"
 
 #: FMain.class:84
 msgid "Refreshing data for the first launch"
-msgstr ""
+msgstr "Обновление данных с первого запуска"
 
 #: FMain.class:87
 msgid "Refreshing data for the first launch ."
-msgstr ""
+msgstr "Обновление данных с первого запуска ."
 
 #: FMain.class:91
 msgid "Refreshing data for the first launch .."
-msgstr ""
+msgstr "Обновление данных с первого запуска.."
 
 #: FMain.class:95
 msgid "Refreshing data for the first launch ..."
-msgstr ""
+msgstr "Обновление данных с первого запуска..."
 
 #: FMain.class:99
 msgid "Refreshing data for the first launch ...."
-msgstr ""
+msgstr "Обновление данных с первого запуска...."
 
 #: FMain.class:242
 msgid "Good"
-msgstr ""
+msgstr "Хорошо"
 
 #: FMain.class:249
 msgid "Moderate"
-msgstr ""
+msgstr "Умеренный"
 
 #: FMain.class:256
 msgid "Unhealthy for Sensitive Groups"
-msgstr ""
+msgstr "Опасно для чувствительных групп"
 
 #: FMain.class:263
 msgid "Unhealthy"
-msgstr ""
+msgstr "Опасно"
 
 #: FMain.class:270
 msgid "Very Unhealthy"
-msgstr ""
+msgstr "Очень Опасно"
 
 #: FMain.class:277
 msgid "Hazardous"
-msgstr ""
+msgstr "Рискованно"
 
 #: FMain.class:299
 msgid "Clear"
-msgstr ""
+msgstr "Безоблачно"
 
 #: FMain.class:306
 msgid "Sunny"
-msgstr ""
+msgstr "Солнце"
 
 #: FMain.class:313
 msgid "Partly cloudy"
-msgstr ""
+msgstr "Переменная облачность"
 
 #: FMain.class:321
 msgid "Cloudy"
-msgstr ""
+msgstr "Облачность"
 
 #: FMain.class:329
 msgid "Overcast"
-msgstr ""
+msgstr "Пасмурная Погода"
 
 #: FMain.class:337
 msgid "Mist"
-msgstr ""
+msgstr "Туман"
 
 #: FMain.class:345
 msgid "Patchy rain possible"
-msgstr ""
+msgstr "Временами возможен дождь"
 
 #: FMain.class:353
 msgid "Patchy snow possible"
-msgstr ""
+msgstr "Временами возможен снег"
 
 #: FMain.class:361
 msgid "Patchy freezing drizzle possible"
-msgstr ""
+msgstr "Возможна местами замерзающая морось"
 
 #: FMain.class:369
 msgid "Thundery outbreaks possible"
-msgstr ""
+msgstr "Возможены грозы"
 
 #: FMain.class:377
 msgid "Blowing snow"
-msgstr ""
+msgstr "Низовая метель"
 
 #: FMain.class:385
 msgid "Blizzard"
-msgstr ""
+msgstr "Снежная буря"
 
 #: FMain.class:393
 msgid "Freezing fog"
-msgstr ""
+msgstr "Ледяной туман"
 
 #: FMain.class:401
 msgid "Fog"
-msgstr ""
+msgstr "Туман"
 
 #: FMain.class:409
 msgid "Patchy light rain"
-msgstr ""
+msgstr "Временами лёгкий дождь"
 
 #: FMain.class:417
 msgid "Heavy rain"
-msgstr ""
+msgstr "Сильный дождь"
 
 #: FMain.class:425
 msgid "Moderate freezing rain"
-msgstr ""
+msgstr "Умеренный ледяной дождь"
 
 #: FMain.class:433
 msgid "Moderate sleet"
-msgstr ""
+msgstr "Умеренный Мокрый снег"
 
 #: FMain.class:441
 msgid "Moderate snow"
-msgstr ""
+msgstr "Умеренный снег"
 
 #: FMain.class:449
 msgid "Heavy snow"
-msgstr ""
+msgstr "Сильный снег"
 
 #: FMain.class:457
 msgid "Light rain shower"
-msgstr ""
+msgstr "Лёгкий дождь"
 
 #: FMain.class:465
 msgid "Heavy rain shower"
-msgstr ""
+msgstr "Ливень"
 
 #: FMain.class:473
 msgid "Moderate sleet shower"
-msgstr ""
+msgstr "Слабый дождь со снегом"
 
 #: FMain.class:481
 msgid "Heavy snow shower"
-msgstr ""
+msgstr "Сильный снегопад"
 
 #: FMain.class:489
 msgid "Moderate rain with thunder"
-msgstr ""
+msgstr "Слабый дождь с грозами"
 
 #: FMain.class:497
 msgid "Moderate snow with thunder"
-msgstr ""
+msgstr "Слабый снегопад с грозами"
 
 #: FMain.class:996
 msgid "please"
-msgstr ""
+msgstr "Пожалуйста"
 
 #: FMain.class:2762 Setting.class:179
 msgid "Loading new data with the new settings..."
-msgstr ""
+msgstr "Загрузка новых данных с новыми настройками"
 
 #: Helper.form:36
 msgid "When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\nYou can change weather location in setting."
-msgstr ""
+msgstr "Когда вы запустите приложение, вы увидите местную погоду с полным набором дополнительной информации, такой как влажность, ветер (км/ч), направление ветра и качество воздуха. \nВы можете изменить местоположение погоды в настройках." 
 
 #: Helper.form:42
 msgid "Location"
-msgstr ""
+msgstr "Местоположение"
 
 #: Helper.form:49
 msgid "Weather data update"
-msgstr ""
+msgstr "Обновление погоды"
 
 #: Helper.form:55
 msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
-msgstr ""
+msgstr "Данные о погоде для главного окна и виджета обновляются каждые 30, 45 минут или 1 час, как вы выбираете при настройке."
 
 #: Helper.form:60
 msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
-msgstr ""
+msgstr "Вы можете обновить данные вручную, нажав кнопку «Обновить» в главном окне или в виджете рабочего стола."
 
 #: Setting.form:47
 msgid "Your city"
-msgstr ""
+msgstr "Ваш город"
 
 #: Setting.form:60
 msgid "30 minutes"
-msgstr ""
+msgstr "30 минут"
 
 #: Setting.form:60
 msgid "45 minutes"
-msgstr ""
+msgstr "45 минут"
 
 #: Setting.form:60
 msgid "1 hour"
-msgstr ""
+msgstr "1 час"
 
 #: Setting.form:60
 msgid "3 hours"
-msgstr ""
+msgstr "3 часа"
 
 #: Setting.form:60
 msgid "6 hours"
-msgstr ""
+msgstr "6 часов"
 
 #: Setting.form:60
 msgid "12 hours"
-msgstr ""
+msgstr "12 часов"
 
 #: Setting.form:67
 msgid "Frequency of updating weather data:"
-msgstr ""
+msgstr "Частота обновления данных о погоде:"
 
 #: Setting.form:74
 msgid "Localisation auto"
-msgstr ""
+msgstr "Автоматическое местоположение"
 
 #: Setting.form:100
 msgid "Show desktop Widget"
-msgstr ""
+msgstr "Показать виджет"
 
 #: Setting.form:107
 msgid "Show tray icon"
-msgstr ""
-
+msgstr "Показать значок в трее"
