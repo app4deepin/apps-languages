@@ -14,7 +14,9 @@ Change language in line 7 with the language code of your country
 Translate the filed like that :
 
 #: FMain.form:49
+
 msgid "Manage applications"
+
 msgstr ""   <--- translate the filed here
 
 
