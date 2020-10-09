@@ -5,7 +5,7 @@ You can help to translate App4Deepin apps in your language
 
 Download the file you want to translate, rename it with the letter of your language country :
 
-Ex : Weather-fr-3.6.1.po
+Ex : Weather-YOURLANGUAGE.po
 
 Open the file with a text editor
 
