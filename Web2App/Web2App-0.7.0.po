@@ -1,0 +1,271 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Web2App 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:58
+msgid "Web 2 App"
+msgstr ""
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr ""
+
+#: About.form:77
+msgid "Run websites as if they were apps"
+msgstr ""
+
+#: FMain.form:50
+msgid "Menu1"
+msgstr ""
+
+#: FMain.form:54
+msgid "Delete WebApp"
+msgstr ""
+
+#: FMain.form:58
+msgid "Report a bug"
+msgstr ""
+
+#: FMain.form:65
+msgid "Donate"
+msgstr ""
+
+#: FMain.form:69
+msgid "Changelog"
+msgstr ""
+
+#: FMain.form:73
+msgid "About"
+msgstr ""
+
+#: FMain.form:101
+msgid "Link "
+msgstr ""
+
+#: FMain.form:107
+msgid "App icon"
+msgstr ""
+
+#: FMain.form:113
+msgid "Enter the app name"
+msgstr ""
+
+#: FMain.form:142
+msgid "Only Letters and numbers"
+msgstr ""
+
+#: FMain.form:150
+msgid "Category"
+msgstr ""
+
+#: FMain.form:156
+msgid "Choose"
+msgstr ""
+
+#: FMain.form:164
+msgid "-"
+msgstr ""
+
+#: FMain.form:164
+msgid "Internet"
+msgstr ""
+
+#: FMain.form:164
+msgid "Chat"
+msgstr ""
+
+#: FMain.form:164
+msgid "Music"
+msgstr ""
+
+#: FMain.form:164
+msgid "Video"
+msgstr ""
+
+#: FMain.form:164
+msgid "Graphics"
+msgstr ""
+
+#: FMain.form:164
+msgid "Office"
+msgstr ""
+
+#: FMain.form:164
+msgid "Development"
+msgstr ""
+
+#: FMain.form:164
+msgid "System"
+msgstr ""
+
+#: FMain.form:164
+msgid "Others"
+msgstr ""
+
+#: FMain.form:227
+msgid "Invalid character"
+msgstr ""
+
+#: FMain.form:234
+msgid "* Web2App use Chrome technology to use Widevine DRM."
+msgstr ""
+
+#: FMain.form:240
+msgid "Widevine plugin (for Netflix, Amazon Prime Video...) *"
+msgstr ""
+
+#: FMain.form:248
+msgid "CREATE"
+msgstr ""
+
+#: FMain.form:268
+msgid "Invalid character : / , \" '"
+msgstr ""
+
+#: FMain.form:275
+msgid "without https:// (ex : app4deepin.com)"
+msgstr ""
+
+#: FMain.class:101 gerer.class:51
+msgid "Error"
+msgstr ""
+
+#: FMain.class:102
+msgid " Please give a name for the shortcut"
+msgstr ""
+
+#: FMain.class:105
+msgid " Please give select a Appimage or executable"
+msgstr ""
+
+#: FMain.class:108
+msgid " Please give select an icon"
+msgstr ""
+
+#: FMain.class:490
+msgid "Can't copy & paste a link !"
+msgstr ""
+
+#: FMain.class:496
+msgid "Info"
+msgstr ""
+
+#: FMain.class:497
+msgid " Please enter a name for the webapp !"
+msgstr ""
+
+#: FMain.class:503
+msgid " A webapp already exist with this name !"
+msgstr ""
+
+#: Help.form:45
+msgid "Help"
+msgstr ""
+
+#: Help.form:51
+msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
+msgstr ""
+
+#: Help.form:58
+msgid "3 - Choose an icon"
+msgstr ""
+
+#: Help.form:64
+msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
+msgstr ""
+
+#: Help.form:71
+msgid "1 - Type a name for the shortcut"
+msgstr ""
+
+#: Help.form:78
+msgid "2 - Choose the AppImage file"
+msgstr ""
+
+#: Help.form:85
+msgid "4 - Select a category and clic create button"
+msgstr ""
+
+#: Help.form:92
+msgid "1 - Manage your applications"
+msgstr ""
+
+#: Help.form:98
+msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
+msgstr ""
+
+#: Help.form:105
+msgid "Create a shorcut"
+msgstr ""
+
+#: Help.form:112
+msgid "Manage your applications"
+msgstr ""
+
+#: Help.form:119
+msgid "2 - Update your applications"
+msgstr ""
+
+#: Help.form:125
+msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
+msgstr ""
+
+#: appcreated.form:53
+msgid "Shortcut created !"
+msgstr ""
+
+#: appcreated.form:70
+msgid "New shortcut"
+msgstr ""
+
+#: appcreated.form:79
+msgid "Quit"
+msgstr ""
+
+#: donate.form:56
+msgid "Thank you for your support"
+msgstr ""
+
+#: gerer.form:56
+msgid "Applications folder"
+msgstr ""
+
+#: gerer.form:66
+msgid "DELETE"
+msgstr ""
+
+#: gerer.class:13
+msgid " webapp installed"
+msgstr ""
+
+#: gerer.class:21
+msgid " webapps installed"
+msgstr ""
+
+#: gerer.class:52
+msgid " Please select an app for deleting"
+msgstr ""
+
+#: gerer.class:62
+msgid "Done"
+msgstr ""
+
+#: gerer.class:63
+msgid " webApp deleted"
+msgstr ""
+
+#: imageselect.form:28
+msgid "Select"
+msgstr ""
+
+#: imageselect.form:34
+msgid "Cancel"
+msgstr ""
+
