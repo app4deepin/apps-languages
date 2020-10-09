@@ -15,7 +15,7 @@ Translate the filed like that :
 
 #: FMain.form:49
 msgid "Manage applications"
-msgstr "" <--- translate the filed here
+msgstr ""   <--- translate the filed here
 
 
 Thank you for your help
