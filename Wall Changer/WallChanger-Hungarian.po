@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WallChanger 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:32 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:33
+msgid "Wall Changer"
+msgstr "Háttérkép Váltó"
+
+#: About.form:58
+msgid "A new wallpaper every day"
+msgstr "Új háttérkép minden nap"
+
+#: About.form:75
+msgid "Based on Bing desktop wallpaper changer (link)"
+msgstr "A Bing asztali háttérkép váltó alapján (link)"
+
+#: About.form:91
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:36
+msgid "Menu1"
+msgstr "Menü1"
+
+#: FMain.form:40
+msgid "Changelog"
+msgstr "Fejlesztői napló"
+
+#: FMain.form:44
+msgid "Report a bug"
+msgstr "Hibajelentés küldése"
+
+#: FMain.form:51
+msgid "About"
+msgstr "Rólunk"
+
+#: FMain.form:55
+msgid "Quit"
+msgstr "Kilépés"
+
+#: FMain.form:75
+msgid "Max size of wallpapers folder : "
+msgstr "Háttérkép mappa maximális mérete: "
+
+#: FMain.form:115
+msgid "Wall Changer - Settings"
+msgstr "Háttérkép Váltó - Beállítások"
+
+#: FMain.form:124
+msgid "Delete downloaded wallpapers"
+msgstr "Letöltött háttérképek törlése"
+
+#: FMain.form:125 Suppress.form:40
+msgid "DELETE"
+msgstr "TÖRLÉS"
+
+#: FMain.form:132
+msgid "Bing Wallpaper - area : "
+msgstr "Bing Háttérkép - terület: "
+
+#: FMain.form:139
+msgid "Auto (Default)"
+msgstr "Automatikus (Alapértelmezett)"
+
+#: FMain.form:139
+msgid "Canada"
+msgstr "Kanada"
+
+#: FMain.form:139
+msgid "China"
+msgstr "Kína"
+
+#: FMain.form:139
+msgid "France"
+msgstr "Franciaország"
+
+#: FMain.form:139
+msgid "Germany"
+msgstr "Németország"
+
+#: FMain.form:139
+msgid "India"
+msgstr "India"
+
+#: FMain.form:139
+msgid "Japan"
+msgstr "Japán"
+
+#: FMain.form:139
+msgid "Spain"
+msgstr "Spanyolország"
+
+#: FMain.form:139
+msgid "Switzerland"
+msgstr "Svédország"
+
+#: FMain.form:139
+msgid "UK"
+msgstr "Egyesült Királyság"
+
+#: FMain.form:139
+msgid "US"
+msgstr "Egyesült Államok"
+
+#: FMain.form:155
+msgid "Apply new settings"
+msgstr "Új beállítások alkalmazása"
+
+#: FMain.form:156
+msgid "APPLY"
+msgstr "ALKALMAZÁS"
+
+#: FMain.form:162
+msgid "View wallpaper folder"
+msgstr "Háttérkép mappa megtekintése"
+
+#: FMain.form:174
+msgid "Applying new zone "
+msgstr "Új zóna alkalmazása"
+
+#: FMain.class:25
+msgid "~/Pictures/Wall-Changer"
+msgstr "~/Pictures/Wall-Changer"
+
+#: FMain.class:28 Suppress.class:12
+msgid "Downloaded wallpaper : "
+msgstr "Háttérkép letöltése"
+
+#: Suppress.form:54
+msgid "Please confirm the deletion of the downloaded wallpapers."
+msgstr "Kérjük erősítse meg a letöltött háttérképek törlését."
+
+#: Suppress.form:75
+msgid "Close"
+msgstr "Bezárás"
+
+#: Suppress.class:6
+msgid " wallpapers will be deleted !"
+msgstr "A háttérkép törlésre kerül!"
+
+#: Suppress.class:25
+msgid "Wallpaper deleted !"
+msgstr "A háttérkép törölve"
