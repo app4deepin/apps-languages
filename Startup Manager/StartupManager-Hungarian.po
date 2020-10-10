@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StartupManager 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:57 FMain.form:178
+msgid "Startup Manager"
+msgstr "Rendszerindító Kezelő"
+
+#: About.form:47
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:54
+msgid "Menu1"
+msgstr "Menü1"
+
+#: FMain.form:58
+msgid "Changelog"
+msgstr "Fejlesztői napló"
+
+#: FMain.form:62
+msgid "Report a bug"
+msgstr "Hibajelentés küldése"
+
+#: FMain.form:66
+msgid "Donate"
+msgstr "Támogatás"
+
+#: FMain.form:73
+msgid "About"
+msgstr "Rólunk"
+
+#: FMain.form:118
+msgid "Name"
+msgstr "Név"
+
+#: FMain.form:129
+msgid "Comment"
+msgstr "Megjegyzés"
+
+#: FMain.form:145
+msgid "Command"
+msgstr "Parancs"
+
+#: FMain.form:151
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: FMain.form:158
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: FMain.form:184
+msgid "Terminal"
+msgstr "Terminál"
+
+#: FMain.form:206
+msgid "Disable"
+msgstr "Letiltás"
+
+#: FMain.form:232
+msgid "Save"
+msgstr "Mentés"
+
+#: FMain.form:239
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: FMain.form:254
+msgid "User"
+msgstr "Felhasználó"
+
+#: FMain.form:263
+msgid "System "
+msgstr "Rendszer"
+
+#: FMain.form:279
+msgid "Unlock"
+msgstr "Feloldás"
+
+#: FMain.class:124
+msgid "Select an item before !"
+msgstr "Válasszon egy elemet előtte!"
+
+#: FMain.class:143
+msgid "Delete this item"
+msgstr "Ezen elem törlése"
+
+#: FMain.class:145
+msgid "Are you sure ?"
+msgstr "Biztos benne?"
+
+#: FMain.class:145
+msgid "Ok"
+msgstr "Ok"
+
+#: FMain.class:145 SelectDesktop.form:40 Selectcommand.form:40
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: FMain.class:317
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+#: FMain.class:319
+msgid "Please take care with this items !"
+msgstr "Kérjük legyen óvatos ezekkel az elemekkel!"
+
+#: SelectDesktop.form:34 Selectcommand.form:34
+msgid "Select"
+msgstr "Kiválasztás"
+
+#: Selectcommand.class:12
+msgid "/"
+msgstr "/"
