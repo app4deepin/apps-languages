@@ -1,0 +1,298 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:31 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:60 FMain.form:50
+msgid "Weather"
+msgstr "Időjárás"
+
+#: .project:2
+msgid "Weather App for Deepin v20"
+msgstr "Időjárás alkalmazás a Deepin v20 számára"
+
+#: About.form:17 FMain.form:84
+msgid "About"
+msgstr "Rólunk"
+
+#: About.form:50
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:86
+msgid "Weather app for Deepin"
+msgstr "Időjárás alkalmazás a Deepin számára"
+
+#: FMain.form:57
+msgid "Menu1"
+msgstr "Menü1"
+
+#: FMain.form:61
+msgid "Settings"
+msgstr "Beállítások"
+
+#: FMain.form:65
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: FMain.form:72
+msgid "Report a bug"
+msgstr "Hibajelentés küldése"
+
+#: FMain.form:76
+msgid "Changelog"
+msgstr "Fejlesztői napló"
+
+#: FMain.form:80 Helper.form:30
+msgid "Help"
+msgstr "Segítség"
+
+#: FMain.form:88
+msgid "Quit"
+msgstr "Kilépés"
+
+#: FMain.form:110
+msgid "pm 2.5"
+msgstr "du 2.5"
+
+#: FMain.form:181
+msgid "Humidity"
+msgstr "Páratartalom"
+
+#: FMain.form:209
+msgid "Wind (km/h)"
+msgstr "Szél (km/ó)"
+
+#: FMain.form:270
+msgid "Sorry, we are running out of queries to the weather service at the moment.\n\nPlease try later"
+msgstr "Sajnáljuk, jelenleg nem működnek az időjárási szolgálat iránti lekérdezések. \n\nKérjük próbálkozzon később"
+
+#: FMain.class:71
+msgid "Refreshing data ..."
+msgstr "Adatok frissítése..."
+
+#: FMain.class:84
+msgid "Refreshing data for the first launch"
+msgstr "Adatok frissítése az első indításhoz"
+
+#: FMain.class:87
+msgid "Refreshing data for the first launch ."
+msgstr "Adatok frissítése az első indításhoz."
+
+#: FMain.class:91
+msgid "Refreshing data for the first launch .."
+msgstr "Adatok frissítése az első indításhoz.."
+
+#: FMain.class:95
+msgid "Refreshing data for the first launch ..."
+msgstr "Adatok frissítése az első indításhoz..."
+
+#: FMain.class:99
+msgid "Refreshing data for the first launch ...."
+msgstr "Adatok frissítése az első indításhoz...."
+
+#: FMain.class:242
+msgid "Good"
+msgstr "Jó"
+
+#: FMain.class:249
+msgid "Moderate"
+msgstr "Mérsékelt"
+
+#: FMain.class:256
+msgid "Unhealthy for Sensitive Groups"
+msgstr "Egészségtelen az érzékenyek számára"
+
+#: FMain.class:263
+msgid "Unhealthy"
+msgstr "Egészségtelen"
+
+#: FMain.class:270
+msgid "Very Unhealthy"
+msgstr "Nagyon egészségtelen"
+
+#: FMain.class:277
+msgid "Hazardous"
+msgstr "Veszélyes"
+
+#: FMain.class:299
+msgid "Clear"
+msgstr "Tiszta"
+
+#: FMain.class:306
+msgid "Sunny"
+msgstr "Napos"
+
+#: FMain.class:313
+msgid "Partly cloudy"
+msgstr "Részben felhős"
+
+#: FMain.class:321
+msgid "Cloudy"
+msgstr "Felhős"
+
+#: FMain.class:329
+msgid "Overcast"
+msgstr "Borult"
+
+#: FMain.class:337
+msgid "Mist"
+msgstr "Ködös"
+
+#: FMain.class:345
+msgid "Patchy rain possible"
+msgstr "Elszórtan eső lehetséges"
+
+#: FMain.class:353
+msgid "Patchy snow possible"
+msgstr "Elszórtan havazás lehetséges"
+
+#: FMain.class:361
+msgid "Patchy freezing drizzle possible"
+msgstr "Elszórtan fagyos szitálás lehetséges"
+
+#: FMain.class:369
+msgid "Thundery outbreaks possible"
+msgstr "Mennydörgés lehetséges"
+
+#: FMain.class:377
+msgid "Blowing snow"
+msgstr "Hófúvás"
+
+#: FMain.class:385
+msgid "Blizzard"
+msgstr "Hóvihar"
+
+#: FMain.class:393
+msgid "Freezing fog"
+msgstr "Fagyos köd"
+
+#: FMain.class:401
+msgid "Fog"
+msgstr "Köd"
+
+#: FMain.class:409
+msgid "Patchy light rain"
+msgstr "Elszórtan gyenge eső"
+
+#: FMain.class:417
+msgid "Heavy rain"
+msgstr "Zápor"
+
+#: FMain.class:425
+msgid "Moderate freezing rain"
+msgstr "Mérsékelt fagyos eső"
+
+#: FMain.class:433
+msgid "Moderate sleet"
+msgstr "Mérsékelt havas eső"
+
+#: FMain.class:441
+msgid "Moderate snow"
+msgstr "Mérsékelt havazás"
+
+#: FMain.class:449
+msgid "Heavy snow"
+msgstr "Erős havazás"
+
+#: FMain.class:457
+msgid "Light rain shower"
+msgstr "Gyenge záporeső"
+
+#: FMain.class:465
+msgid "Heavy rain shower"
+msgstr "Erős zivatar"
+
+#: FMain.class:473
+msgid "Moderate sleet shower"
+msgstr "Mérsékelt havas eső"
+
+#: FMain.class:481
+msgid "Heavy snow shower"
+msgstr "Mérsékelt havazás"
+
+#: FMain.class:489
+msgid "Moderate rain with thunder"
+msgstr "Mérsékelt eső mennydörgéssel"
+
+#: FMain.class:497
+msgid "Moderate snow with thunder"
+msgstr "Mérsékelt havazás mennydörgéssel"
+
+#: FMain.class:996
+msgid "please"
+msgstr "kérjük"
+
+#: FMain.class:2762 Setting.class:179
+msgid "Loading new data with the new settings..."
+msgstr "Új adatok betöltése az új beállításokkal ..."
+
+#: Helper.form:36
+msgid "When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\nYou can change weather location in setting."
+msgstr "Az alkalmazás indításakor megtekintheti a helyi időjárást, és további információkkal gazdagodhat, mint például a páratartalom, a szélerősség (km/ó), a szél iránya, és a levegő minősége. \nA beállításokban megváltoztathatja az időjárási helyet."
+
+#: Helper.form:42
+msgid "Location"
+msgstr "Hely"
+
+#: Helper.form:49
+msgid "Weather data update"
+msgstr "Időjárási adatok frissítése"
+
+#: Helper.form:55
+msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
+msgstr "A főablak és a widget időjárási adatai 30, 45 percenként vagy 1 óránként frissülnek, ahogy a beállításnál választja."
+
+#: Helper.form:60
+msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
+msgstr "Az adatokat manuálisan frissítheti, ha a frissítés gombra kattint a főablakban vagy az asztali widgeten."
+
+#: Setting.form:47
+msgid "Your city"
+msgstr "Az Ön városa"
+
+#: Setting.form:60
+msgid "30 minutes"
+msgstr "30 perc"
+
+#: Setting.form:60
+msgid "45 minutes"
+msgstr "45 perc"
+
+#: Setting.form:60
+msgid "1 hour"
+msgstr "1 óra"
+
+#: Setting.form:60
+msgid "3 hours"
+msgstr "3 óra"
+
+#: Setting.form:60
+msgid "6 hours"
+msgstr "6 óra"
+
+#: Setting.form:60
+msgid "12 hours"
+msgstr "12 óra"
+
+#: Setting.form:67
+msgid "Frequency of updating weather data:"
+msgstr "Az időjárási adatok frissítésének gyakorisága:"
+
+#: Setting.form:74
+msgid "Localisation auto"
+msgstr "Automatikus helymeghatározás"
+
+#: Setting.form:100
+msgid "Show desktop Widget"
+msgstr "Asztali Widget megjelenítése"
+
+#: Setting.form:107
+msgid "Show tray icon"
+msgstr "Tálca ikon megjelenítése"
