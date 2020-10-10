@@ -11,85 +11,85 @@ msgstr ""
 
 #: .project:1 About.form:58
 msgid "Dynamic Wall"
-msgstr ""
+msgstr "Динамические обои"
 
 #: About.form:48
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: About.form:77
 msgid "Use dynamic wallpaper on Deepin"
-msgstr ""
+msgstr "Используйте динамические обои в Deepin"
 
 #: FMain.form:38
 msgid "Menu1"
-msgstr ""
+msgstr "Меню1"
 
 #: FMain.form:42
 msgid "Changelog"
-msgstr ""
+msgstr "Журнал изменений"
 
 #: FMain.form:46
 msgid "Report a bug"
-msgstr ""
+msgstr "Отчёт об ошибки"
 
 #: FMain.form:53
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 #: FMain.form:57
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 #: FMain.form:111
 msgid "Apply"
-msgstr ""
+msgstr "Применять"
 
 #: FMain.form:119
 msgid "Choose dynamic wallpaper"
-msgstr ""
+msgstr "Выберите динамические обои"
 
 #: FMain.form:127
 msgid "Activate"
-msgstr ""
+msgstr "Активировать"
 
 #: FMain.form:165
 msgid "Wall Changer is installed !\n\nThey can't work together at the same time.\n\nPlease delete it before to use Dynamic Wall."
-msgstr ""
+msgstr "Сменщик обои установлен ! \n\n\Они не могут работать вместе одновременно. \n\n\Пожалуйста, удалите его перед использованием Dynamic Wall."
 
 #: FMain.class:29
 msgid "Addon installed"
-msgstr ""
+msgstr "Addon установлен"
 
 #: FMain.class:37
 msgid "catalina.gif"
-msgstr ""
+msgstr "catalina.gif"
 
 #: FMain.class:41
 msgid "mojave.gif"
-msgstr ""
+msgstr "mojave.gif"
 
 #: FMain.class:45
 msgid "earth.gif"
-msgstr ""
+msgstr "earth.gif"
 
 #: FMain.class:49
 msgid "firewatch.gif"
-msgstr ""
+msgstr "firewatch.gif"
 
 #: FMain.class:56
 msgid "/usr/share/dynamicwall/Addon/Moon/gif.gif"
-msgstr ""
+msgstr "/usr/share/dynamicwall/Addon/Moon/gif.gif""
 
 #: FMain.class:60
 msgid "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
-msgstr ""
+msgstr "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
 
 #: FMain.class:64
 msgid "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
-msgstr ""
+msgstr "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
 
 #: FMain.class:68
 msgid "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
-msgstr ""
+msgstr "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
 
