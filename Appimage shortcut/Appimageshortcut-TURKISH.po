@@ -1,0 +1,238 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Appimageshortcut 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: Turko mturko2019@gmail.com\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1
+msgid "Appimage Shortcut Creator"
+msgstr "Appimage Shortcut Creator"
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:58
+msgid "AppImage Shortcut Creator"
+msgstr "Appimage Shortcut Creator"
+
+#: About.form:77
+msgid "Easily create shortcuts for AppImage"
+msgstr "AppImage için hızlıca kısayollar oluşturun"
+
+#: FMain.form:45
+msgid "Menu1"
+msgstr "Menü"
+
+#: FMain.form:49
+msgid "Manage applications"
+msgstr "Uygulamaları yönet"
+
+#: FMain.form:53 Help.form:45
+msgid "Help"
+msgstr "Yardım"
+
+#: FMain.form:57
+msgid "Report a bug"
+msgstr "Hata bildir"
+
+#: FMain.form:64
+msgid "Donate"
+msgstr "Bağış"
+
+#: FMain.form:68
+msgid "Changelog"
+msgstr "Güncelleme geçimişi"
+
+#: FMain.form:72
+msgid "About"
+msgstr "Hakkımızda"
+
+#: FMain.form:76 appcreated.form:79
+msgid "Quit"
+msgstr "Çıkış"
+
+#: FMain.form:104
+msgid "Appimage or executable"
+msgstr "Appimage veya çalıştırılabilir"
+
+#: FMain.form:110
+msgid "App icon"
+msgstr "Uygulama simgesi"
+
+#: FMain.form:116
+msgid "Enter the app name for the shortcut"
+msgstr "Kısayol için uygulama adını girin"
+
+#: FMain.form:153
+msgid "Category"
+msgstr "Kategori"
+
+#: FMain.form:159
+msgid "Choose"
+msgstr "Seç"
+
+#: FMain.form:172
+msgid "-"
+msgstr "-"
+
+#: FMain.form:172
+msgid "Internet"
+msgstr "İnternet"
+
+#: FMain.form:172
+msgid "Chat"
+msgstr "Sohbet"
+
+#: FMain.form:172
+msgid "Music"
+msgstr "Müzik"
+
+#: FMain.form:172
+msgid "Video"
+msgstr "Video"
+
+#: FMain.form:172
+msgid "Graphics"
+msgstr "Grafikler"
+
+#: FMain.form:172
+msgid "Office"
+msgstr "Office"
+
+#: FMain.form:172
+msgid "Development"
+msgstr "Geliştirme"
+
+#: FMain.form:172
+msgid "System"
+msgstr "Sistem"
+
+#: FMain.form:172
+msgid "Others"
+msgstr "Diğerleri"
+
+#: FMain.form:224
+msgid "CREATE"
+msgstr "Oluştur"
+
+#: FMain.class:116 gerer.class:48
+msgid "Error"
+msgstr "Hata"
+
+#: FMain.class:117
+msgid " Please give a name for the shortcut"
+msgstr " Lütfen kısayol için bir isim verin"
+
+#: FMain.class:120
+msgid " Please give select a Appimage or executable"
+msgstr " Lütfen bir Appimage veya çalıştırılabilir dosya seçin"
+
+#: FMain.class:123
+msgid " Please give select an icon"
+msgstr " Lütfen bir simge seçin"
+
+#: Help.form:51
+msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
+msgstr "AppImage dosyası, AppImages'ınızı gruplamak için özel olarak oluşturulmuş bir uygulama klasörüne otomatik olarak taşınacaktır."
+
+#: Help.form:58
+msgid "3 - Choose an icon"
+msgstr "3 - Bir simge seçin"
+
+#: Help.form:64
+msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
+msgstr "Bir resim seçin (PNG, JPG veya SVG). Simge, simgeleriniz için özel olarak oluşturulmuş bir simge klasörüne otomatik olarak kopyalanacaktır."
+
+#: Help.form:71
+msgid "1 - Type a name for the shortcut"
+msgstr "1 - Kısayol için bir isim yazın"
+
+#: Help.form:78
+msgid "2 - Choose the AppImage file"
+msgstr "2 - AppImage dosyasını seçin"
+
+#: Help.form:85
+msgid "4 - Select a category and clic create button"
+msgstr "4 - Bir kategori seçin ve oluştura tıklayın"
+
+#: Help.form:92
+msgid "1 - Manage your applications"
+msgstr "1 - Uygulamalarınızı yönetin"
+
+#: Help.form:98
+msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
+msgstr "Sağ üstteki menüye giderek kurulu AppImage uygulamanızı yönetebilirsiniz. Yüklü uygulamaları görebilir ve artık kullanmadığınız uygulamaları silebilirsiniz. "
+
+#: Help.form:105
+msgid "Create a shorcut"
+msgstr "Kısayol oluştur"
+
+#: Help.form:112
+msgid "Manage your applications"
+msgstr "Uygulamalarınızı yönetin"
+
+#: Help.form:119
+msgid "2 - Update your applications"
+msgstr "2 - Uygulamalarınızı güncelleyin"
+
+#: Help.form:125
+msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
+msgstr ""
+
+#: appcreated.form:53
+msgid "Shortcut created !"
+msgstr "Kısayol oluşturuldu"
+
+#: appcreated.form:70
+msgid "New shortcut"
+msgstr "Yeni kısayol"
+
+#: appimage.form:44 imageselect.form:42
+msgid "Cancel"
+msgstr "iptal"
+
+#: appimage.form:50 imageselect.form:36
+msgid "Select"
+msgstr "Seçiniz"
+
+#: donate.form:56
+msgid "Thank you for your support"
+msgstr "Desteğin için teşekkürler"
+
+#: gerer.form:66
+msgid "Applications folder"
+msgstr "Uygulamalar klasörü"
+
+#: gerer.form:76
+msgid "DELETE"
+msgstr "SİL"
+
+#: gerer.form:85
+msgid "Icons folder"
+msgstr "Simgeler klasörü"
+
+#: gerer.class:9
+msgid " application installed"
+msgstr " uygulama yüklendi"
+
+#: gerer.class:17
+msgid " applications installed"
+msgstr " uygulamalar yüklendi"
+
+#: gerer.class:49
+msgid " Please select an app for deleting"
+msgstr " Lütfen silmek için bir uygulama seçin"
+
+#: gerer.class:57
+msgid "Done"
+msgstr "Bitti"
+
+#: gerer.class:58
+msgid " App deleted"
+msgstr " Uygulama silindi"
