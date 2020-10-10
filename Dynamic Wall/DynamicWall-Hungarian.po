@@ -1,0 +1,94 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DynamicWall 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:32 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:58
+msgid "Dynamic Wall"
+msgstr "Váltakozó Háttérkép"
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:77
+msgid "Use dynamic wallpaper on Deepin"
+msgstr "Használja a Váltakozó Háttérképet a Deepin rendszeren"
+
+#: FMain.form:38
+msgid "Menu1"
+msgstr "Menü1"
+
+#: FMain.form:42
+msgid "Changelog"
+msgstr "Fejlesztési napló"
+
+#: FMain.form:46
+msgid "Report a bug"
+msgstr "Hibajelentés küldése"
+
+#: FMain.form:53
+msgid "About"
+msgstr "Rólunk"
+
+#: FMain.form:57
+msgid "Quit"
+msgstr "Kilépés"
+
+#: FMain.form:111
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: FMain.form:119
+msgid "Choose dynamic wallpaper"
+msgstr "Válasszon váltakozó háttérképet"
+
+#: FMain.form:127
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: FMain.form:165
+msgid "Wall Changer is installed !\n\nThey can't work together at the same time.\n\nPlease delete it before to use Dynamic Wall."
+msgstr "A Wall Changer már telepítve van! \n\nA két alkalmazás nem tud egyszerre működni.\n\nKérjük törölje le, mielőtt használná a Váltakozó Háttérkép alkalmazást."
+
+#: FMain.class:29
+msgid "Addon installed"
+msgstr "A bővítmény telepítve"
+
+#: FMain.class:37
+msgid "catalina.gif"
+msgstr "catalina.gif"
+
+#: FMain.class:41
+msgid "mojave.gif"
+msgstr "mojave.gif"
+
+#: FMain.class:45
+msgid "earth.gif"
+msgstr "earth.gif"
+
+#: FMain.class:49
+msgid "firewatch.gif"
+msgstr "firewatch.gif"
+
+#: FMain.class:56
+msgid "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+
+#: FMain.class:60
+msgid "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+
+#: FMain.class:64
+msgid "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+
+#: FMain.class:68
+msgid "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
