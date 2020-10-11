@@ -43,7 +43,7 @@ msgstr "Журнал изменений"
 
 #: FMain.form:73
 msgid "About"
-msgstr ""О программе
+msgstr "О программе"
 
 #: FMain.form:101
 msgid "Link "
@@ -115,7 +115,7 @@ msgstr "Неправильный символ"
 
 #: FMain.form:234
 msgid "* Web2App use Chrome technology to use Widevine DRM."
-msgstr "Web2App использует технологию Chrome для использования Widevine DRM"
+msgstr "* Web2App использует технологию Chrome для использования Widevine DRM."
 
 #: FMain.form:240
 msgid "Widevine plugin (for Netflix, Amazon Prime Video...) *"
@@ -139,15 +139,15 @@ msgstr "Ошибка"
 
 #: FMain.class:102
 msgid " Please give a name for the shortcut"
-msgstr "Пожалуйста выберите имя для ярлыка"
+msgstr " Пожалуйста выберите имя для ярлыка"
 
 #: FMain.class:105
 msgid " Please give select a Appimage or executable"
-msgstr "Пожалуйста, выберите Appimage или исполняемый файл"
+msgstr " Пожалуйста, выберите Appimage или исполняемый файл"
 
 #: FMain.class:108
 msgid " Please give select an icon"
-msgstr "Пожалуйста выберите значок"
+msgstr " Пожалуйста выберите значок"
 
 #: FMain.class:490
 msgid "Can't copy & paste a link !"
@@ -159,11 +159,11 @@ msgstr "Информация"
 
 #: FMain.class:497
 msgid " Please enter a name for the webapp !"
-msgstr "Пожалуйста введите имя для веб-приложение !"
+msgstr " Пожалуйста введите имя для веб-приложение !"
 
 #: FMain.class:503
 msgid " A webapp already exist with this name !"
-msgstr "Веб-приложение с таким именем уже существует !"
+msgstr " Веб-приложение с таким именем уже существует !"
 
 #: Help.form:45
 msgid "Help"
@@ -183,7 +183,7 @@ msgstr "Выберите изображение (PNG, JPG или SVG).  Знач
 
 #: Help.form:71
 msgid "1 - Type a name for the shortcut"
-msgstr "1 - Введите имя для ярлыка
+msgstr "1 - Введите имя для ярлыка"
 
 #: Help.form:78
 msgid "2 - Choose the AppImage file"
@@ -243,19 +243,19 @@ msgstr "УДАЛИТЬ"
 
 #: gerer.class:13
 msgid " webapp installed"
-msgstr "Веб-Приложение установлено"
+msgstr " Веб-Приложение установлено"
 
 #: gerer.class:21
 msgid " webapps installed"
-msgstr "Веб-Приложения установлены"
+msgstr " Веб-Приложения установлены"
 
 #: gerer.class:52
 msgid " Please select an app for deleting"
-msgstr "Пожалуйста выберите приложение для удаления"
+msgstr " Пожалуйста выберите приложение для удаления"
 
 #: gerer.class:62
 msgid "Done"
-msgstr "Пожертвовать"
+msgstr "Сделано"
 
 #: gerer.class:63
 msgid " webApp deleted"
