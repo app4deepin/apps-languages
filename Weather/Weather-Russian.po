@@ -19,7 +19,7 @@ msgstr "Приложение Погода для Deepin v20"
 
 #: About.form:17 FMain.form:84
 msgid "About"
-msgstr Насчёт""
+msgstr " О программе"
 
 #: About.form:50
 msgid "https://app4deepin.com"
@@ -71,7 +71,7 @@ msgstr "Ветер (км/ч)"
 
 #: FMain.form:270
 msgid "Sorry, we are running out of queries to the weather service at the moment.\n\nPlease try later"
-msgstr "К сожалению, в данный момент у нас заканчиваются запросы к службе погоды.\n\nПожалуйста, попробуйте позже"
+msgstr "К сожалению, в данный момент у нас закончились запросы к службе погоды.\n\nПожалуйста, попробуйте позже"
 
 #: FMain.class:71
 msgid "Refreshing data ..."
