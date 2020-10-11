@@ -43,7 +43,7 @@ msgstr "Состояние: Недоступно"
 
 #: Batteryinfo.class:64
 msgid "Design capacity : "
-msgstr "Заводской уровень заряда : "
+msgstr "Ёмкость аккумулятора : "
 
 #: Batteryinfo.class:65
 msgid "Current capacity : "
@@ -131,15 +131,15 @@ msgstr "cat /proc/cpuinfo | grep -i '^model name' | head -1 | sed 's/model name:
 
 #: CpuInfo.class:34
 msgid "CPU : "
-msgstr "Процессорр : "
+msgstr "ЦП : "
 
 #: CpuInfo.class:35
 msgid "Max : "
-msgstr "Максимально"
+msgstr "Макс :"
 
 #: CpuInfo.class:36
 msgid "Min : "
-msgstr "Минимально"
+msgstr "Мин :"
 
 #: CpuInfo.form:54
 msgid "Core 0 : -"
@@ -175,15 +175,15 @@ msgstr "Ядро 7 : -"
 
 #: CpuInfo.form:114
 msgid "CPU"
-msgstr "Процессорр"
+msgstr "ЦП"
 
 #: CpuInfo.form:121
 msgid "CPU Max"
-msgstr "Процессорр Максимально"
+msgstr "ЦП Макс"
 
 #: CpuInfo.form:128
 msgid "CPU Mini"
-msgstr "Процессорр Минимально"
+msgstr "ЦП Мин"
 
 #: FMain.class:61
 msgid "notify-send --icon=app4deepin-eyesafe \"Eyes Protect : The long break will begin in 5 seconds\""
@@ -235,15 +235,15 @@ msgstr "Не беспокоить"
 
 #: OnOff.class:564 OnOff2.class:560 OnOff3.class:560
 msgid "Night Shift"
-msgstr "Ночной Shift"
+msgstr "Night Shift"
 
 #: OnOff.class:625 OnOff2.class:621 OnOff3.class:621
 msgid "File Drop"
-msgstr "Перетащите сюда
+msgstr "File Drop"
 
 #: OnOff.class:682 OnOff2.class:678 OnOff3.class:678
 msgid "Eye Safe"
-msgstr "Безопасность для глаз"
+msgstr "Eye Safe"
 
 #: OnOff.class:1054 OnOff2.class:1045 OnOff3.class:1045
 msgid "Send file"
@@ -255,7 +255,7 @@ msgstr "Принять файл"
 
 #: OnOff.class:1089 OnOff2.class:1081 OnOff3.class:1081
 msgid "Eyes Safe settings"
-msgstr "Настройки Безопасность для глаз"
+msgstr "Настройки Eyes Safe"
 
 #: OnOff.class:1101 OnOff2.class:1093 OnOff3.class:1093
 msgid "Battery info : click here"
@@ -483,7 +483,7 @@ msgstr "Попробуйте звук"
 
 #: Safeeyessettings.form:446
 msgid "The whole purpose of Eyes Safe is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI."
-msgstr "Вся цель Eyes Safe - напоминать вам делать перерывы при работе за компьютером в течение длительного времени.  На экране перерыва вас попросят выполнить несколько упражнений, которые уменьшат ваш RSI"
+msgstr "Вся цель Eyes Safe - напоминать вам делать перерывы при работе за компьютером в течение длительного времени.  На экране перерыва вас попросят выполнить несколько упражнений, которые уменьшат ваш RSI."
 
 #: Sharewifi.form:42
 msgid "To share, scan the QR Code with your phone."
