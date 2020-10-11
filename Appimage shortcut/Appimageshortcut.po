@@ -55,7 +55,7 @@ msgstr "О программе"
 
 #: FMain.form:76 appcreated.form:79
 msgid "Quit"
-msgstr Выход""
+msgstr "Выход"
 
 #: FMain.form:104
 msgid "Appimage or executable"
@@ -131,7 +131,7 @@ msgstr " Пожалуйста дайте имя для ярлыка"
 
 #: FMain.class:120
 msgid " Please give select a Appimage or executable"
-msgstr " Пожалуйста выберите Appimage или исполняющий "
+msgstr " Пожалуйста выберите Appimage или исполняющий"
 
 #: FMain.class:123
 msgid " Please give select an icon"
@@ -159,7 +159,7 @@ msgstr "2 - Выберите Appimage файл"
 
 #: Help.form:85
 msgid "4 - Select a category and clic create button"
-msgstr "4 - Выберите категорию и нажмите кнопку создать "
+msgstr "4 - Выберите категорию и нажмите кнопку создать"
 
 #: Help.form:92
 msgid "1 - Manage your applications"
