@@ -75,27 +75,27 @@ msgstr "К сожалению, в данный момент у нас закон
 
 #: FMain.class:71
 msgid "Refreshing data ..."
-msgstr "Обновление данных"
+msgstr "Обновление данных ..."
 
 #: FMain.class:84
 msgid "Refreshing data for the first launch"
-msgstr "Обновление данных с первого запуска"
+msgstr "Обновление данных для первого запуска"
 
 #: FMain.class:87
 msgid "Refreshing data for the first launch ."
-msgstr "Обновление данных с первого запуска ."
+msgstr "Обновление данных для первого запуска ."
 
 #: FMain.class:91
 msgid "Refreshing data for the first launch .."
-msgstr "Обновление данных с первого запуска.."
+msgstr "Обновление данных для первого запуска.."
 
 #: FMain.class:95
 msgid "Refreshing data for the first launch ..."
-msgstr "Обновление данных с первого запуска..."
+msgstr "Обновление данных для первого запуска..."
 
 #: FMain.class:99
 msgid "Refreshing data for the first launch ...."
-msgstr "Обновление данных с первого запуска...."
+msgstr "Обновление данных для первого запуска...."
 
 #: FMain.class:242
 msgid "Good"
@@ -191,7 +191,7 @@ msgstr "Умеренный ледяной дождь"
 
 #: FMain.class:433
 msgid "Moderate sleet"
-msgstr "Умеренный Мокрый снег"
+msgstr "Умеренный мокрый снег"
 
 #: FMain.class:441
 msgid "Moderate snow"
@@ -291,7 +291,7 @@ msgstr "Автоматическое местоположение"
 
 #: Setting.form:100
 msgid "Show desktop Widget"
-msgstr "Показать виджет"
+msgstr "Показать виджет на рабочем столе"
 
 #: Setting.form:107
 msgid "Show tray icon"
