@@ -4,120 +4,120 @@ msgstr ""
 "Project-Id-Version: StartupManager 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:30 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1 About.form:57 FMain.form:178
 msgid "Startup Manager"
-msgstr ""
+msgstr "Менеджер автозагрузки"
 
 #: About.form:47
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: FMain.form:54
 msgid "Menu1"
-msgstr ""
+msgstr "Меню1"
 
 #: FMain.form:58
 msgid "Changelog"
-msgstr ""
+msgstr "Журнал изменений"
 
 #: FMain.form:62
 msgid "Report a bug"
-msgstr ""
+msgstr "Отчёт об ошибки"
 
 #: FMain.form:66
 msgid "Donate"
-msgstr ""
+msgstr "Пожертвовать"
 
 #: FMain.form:73
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 #: FMain.form:118
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #: FMain.form:129
 msgid "Comment"
-msgstr ""
+msgstr "Комментарии"
 
 #: FMain.form:145
 msgid "Command"
-msgstr ""
+msgstr "Команда"
 
 #: FMain.form:151
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #: FMain.form:158
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: FMain.form:184
 msgid "Terminal"
-msgstr ""
+msgstr "Терминал"
 
 #: FMain.form:206
 msgid "Disable"
-msgstr ""
+msgstr "Отметить"
 
 #: FMain.form:232
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #: FMain.form:239
 msgid "Edit"
-msgstr ""
+msgstr "Редактировать"
 
 #: FMain.form:254
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
 #: FMain.form:263
 msgid "System "
-msgstr ""
+msgstr "Система"
 
 #: FMain.form:279
 msgid "Unlock"
-msgstr ""
+msgstr "Разблокировать"
 
 #: FMain.class:124
 msgid "Select an item before !"
-msgstr ""
+msgstr "Выберите элемент перед !"
 
 #: FMain.class:143
 msgid "Delete this item"
-msgstr ""
+msgstr "Удалить этот элемент"
 
 #: FMain.class:145
 msgid "Are you sure ?"
-msgstr ""
+msgstr "Вы уверены ?"
 
 #: FMain.class:145
 msgid "Ok"
-msgstr ""
+msgstr "Ок"
 
 #: FMain.class:145 SelectDesktop.form:40 Selectcommand.form:40
 msgid "Cancel"
-msgstr ""
+msgstr "Отменить"
 
 #: FMain.class:317
 msgid "Warning"
-msgstr ""
+msgstr "Предупреждение"
 
 #: FMain.class:319
 msgid "Please take care with this items !"
-msgstr ""
+msgstr "Пожалуйста будьте внимательны с этим элементом"
 
 #: SelectDesktop.form:34 Selectcommand.form:34
 msgid "Select"
-msgstr ""
+msgstr "Выбрать"
 
 #: Selectcommand.class:12
 msgid "/"
-msgstr ""
+msgstr "/"
 
