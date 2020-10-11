@@ -31,7 +31,7 @@ msgstr "Отправить 1 файл"
 
 #: Aide.form:47
 msgid "Receive file(s)"
-msgstr "Получить файл (ы)"
+msgstr "Получить файл(ы)"
 
 #: Aide.form:54
 msgid "Send files or folders"
