@@ -4,296 +4,296 @@ msgstr ""
 "Project-Id-Version: Weather 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:31 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1 About.form:60 FMain.form:50
 msgid "Weather"
-msgstr ""
+msgstr "Meteo"
 
 #: .project:2
 msgid "Weather App for Deepin v20"
-msgstr ""
+msgstr "Aplicație meteo pentru Deepin v20"
 
 #: About.form:17 FMain.form:84
 msgid "About"
-msgstr ""
+msgstr "Despre"
 
 #: About.form:50
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: About.form:86
 msgid "Weather app for Deepin"
-msgstr ""
+msgstr "Aplicație meteo pentru Deepin"
 
 #: FMain.form:57
 msgid "Menu1"
-msgstr ""
+msgstr "Meniul1"
 
 #: FMain.form:61
 msgid "Settings"
-msgstr ""
+msgstr "Setări"
 
 #: FMain.form:65
 msgid "Refresh"
-msgstr ""
+msgstr "Reîncărcare"
 
 #: FMain.form:72
 msgid "Report a bug"
-msgstr ""
+msgstr "Raporteaza o eroare"
 
 #: FMain.form:76
 msgid "Changelog"
-msgstr ""
+msgstr "Jurnal de schimbări"
 
 #: FMain.form:80 Helper.form:30
 msgid "Help"
-msgstr ""
+msgstr "Ajutor"
 
 #: FMain.form:88
 msgid "Quit"
-msgstr ""
+msgstr "Ieșire"
 
 #: FMain.form:110
 msgid "pm 2.5"
-msgstr ""
+msgstr "pm 2.5"
 
 #: FMain.form:181
 msgid "Humidity"
-msgstr ""
+msgstr "Umiditate"
 
 #: FMain.form:209
 msgid "Wind (km/h)"
-msgstr ""
+msgstr "Vînt (km/h)"
 
 #: FMain.form:270
 msgid "Sorry, we are running out of queries to the weather service at the moment.\n\nPlease try later"
-msgstr ""
+msgstr "Ne pare rău, momentan nu avem acces la serviciul meteorologic.\n\nVă rugăm să încercați mai târziu"
 
 #: FMain.class:71
 msgid "Refreshing data ..."
-msgstr ""
+msgstr "Se actualizează datele ..."
 
 #: FMain.class:84
 msgid "Refreshing data for the first launch"
-msgstr ""
+msgstr "Date actualizate pentru prima lansare"
 
 #: FMain.class:87
 msgid "Refreshing data for the first launch ."
-msgstr ""
+msgstr "Date actualizate pentru prima lansareb."
 
 #: FMain.class:91
 msgid "Refreshing data for the first launch .."
-msgstr ""
+msgstr "Date actualizate pentru prima lansare .."
 
 #: FMain.class:95
 msgid "Refreshing data for the first launch ..."
-msgstr ""
+msgstr "Date actualizate pentru prima lansare ..."
 
 #: FMain.class:99
 msgid "Refreshing data for the first launch ...."
-msgstr ""
+msgstr "Date actualizate pentru prima lansare ...."
 
 #: FMain.class:242
 msgid "Good"
-msgstr ""
+msgstr "Bine"
 
 #: FMain.class:249
 msgid "Moderate"
-msgstr ""
+msgstr "Moderat"
 
 #: FMain.class:256
 msgid "Unhealthy for Sensitive Groups"
-msgstr ""
+msgstr "Nesănătos pentru Grupurile Sensibile"
 
 #: FMain.class:263
 msgid "Unhealthy"
-msgstr ""
+msgstr "Nesănătos"
 
 #: FMain.class:270
 msgid "Very Unhealthy"
-msgstr ""
+msgstr "Foarte Nesănătos"
 
 #: FMain.class:277
 msgid "Hazardous"
-msgstr ""
+msgstr "Riscant"
 
 #: FMain.class:299
 msgid "Clear"
-msgstr ""
+msgstr "Clar"
 
 #: FMain.class:306
 msgid "Sunny"
-msgstr ""
+msgstr "Soare"
 
 #: FMain.class:313
 msgid "Partly cloudy"
-msgstr ""
+msgstr "Parțial înnourat"
 
 #: FMain.class:321
 msgid "Cloudy"
-msgstr ""
+msgstr "Înnourat"
 
 #: FMain.class:329
 msgid "Overcast"
-msgstr ""
+msgstr "Posomorât"
 
 #: FMain.class:337
 msgid "Mist"
-msgstr ""
+msgstr "Negură"
 
 #: FMain.class:345
 msgid "Patchy rain possible"
-msgstr ""
+msgstr "Posibilă ploaie"
 
 #: FMain.class:353
 msgid "Patchy snow possible"
-msgstr ""
+msgstr "Posibil zăpadă"
 
 #: FMain.class:361
 msgid "Patchy freezing drizzle possible"
-msgstr ""
+msgstr "Posibilă ploaie înghețată"
 
 #: FMain.class:369
 msgid "Thundery outbreaks possible"
-msgstr ""
+msgstr "Posibile focare de tunete"
 
 #: FMain.class:377
 msgid "Blowing snow"
-msgstr ""
+msgstr "Viscol"
 
 #: FMain.class:385
 msgid "Blizzard"
-msgstr ""
+msgstr "Spulber"
 
 #: FMain.class:393
 msgid "Freezing fog"
-msgstr ""
+msgstr "Ceață înghețată"
 
 #: FMain.class:401
 msgid "Fog"
-msgstr ""
+msgstr "Ceață"
 
 #: FMain.class:409
 msgid "Patchy light rain"
-msgstr ""
+msgstr "Ploaie ușoară"
 
 #: FMain.class:417
 msgid "Heavy rain"
-msgstr ""
+msgstr "Ploaie torentiala"
 
 #: FMain.class:425
 msgid "Moderate freezing rain"
-msgstr ""
+msgstr "Ploaie înghețată moderată"
 
 #: FMain.class:433
 msgid "Moderate sleet"
-msgstr ""
+msgstr "Lapoviță moderată"
 
 #: FMain.class:441
 msgid "Moderate snow"
-msgstr ""
+msgstr "Zăpadă moderată"
 
 #: FMain.class:449
 msgid "Heavy snow"
-msgstr ""
+msgstr "Zăpadă grea"
 
 #: FMain.class:457
 msgid "Light rain shower"
-msgstr ""
+msgstr "Pe alocuri ploaie ușoară"
 
 #: FMain.class:465
 msgid "Heavy rain shower"
-msgstr ""
+msgstr "Pe alocuri ploaie grea"
 
 #: FMain.class:473
 msgid "Moderate sleet shower"
-msgstr ""
+msgstr "Pe alocuri lapoviță"
 
 #: FMain.class:481
 msgid "Heavy snow shower"
-msgstr ""
+msgstr "Pe alocuri zăpadă grea"
 
 #: FMain.class:489
 msgid "Moderate rain with thunder"
-msgstr ""
+msgstr "Ploaie moderată cu tunete"
 
 #: FMain.class:497
 msgid "Moderate snow with thunder"
-msgstr ""
+msgstr "Zăpadă moderată cu tunete"
 
 #: FMain.class:996
 msgid "please"
-msgstr ""
+msgstr "Vă rog"
 
 #: FMain.class:2762 Setting.class:179
 msgid "Loading new data with the new settings..."
-msgstr ""
+msgstr "Se încarcă date noi cu noile setări ..."
 
 #: Helper.form:36
 msgid "When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\nYou can change weather location in setting."
-msgstr ""
+msgstr "Când lansați aplicația, veți vedea vremea locală cu un set complet de informații suplimentare, cum ar fi umiditatea, vântul (km/h), direcția vântului și calitatea aerului.\nPuteți schimba locația vremii în setări."
 
 #: Helper.form:42
 msgid "Location"
-msgstr ""
+msgstr "Locație"
 
 #: Helper.form:49
 msgid "Weather data update"
-msgstr ""
+msgstr "Actualizare date meteo"
 
 #: Helper.form:55
 msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
-msgstr ""
+msgstr "Datele meteo pentru fereastra principală și widget sunt actualizate la fiecare 30, 45 de minute sau 1 oră, așa cum alegeți la setare."
 
 #: Helper.form:60
 msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
-msgstr ""
+msgstr "Puteți actualiza manual datele făcând clic pe butonul Reîmprospătare din fereastra principală sau de pe widgetul desktop."
 
 #: Setting.form:47
 msgid "Your city"
-msgstr ""
+msgstr "Orașul dvs"
 
 #: Setting.form:60
 msgid "30 minutes"
-msgstr ""
+msgstr "30 minute"
 
 #: Setting.form:60
 msgid "45 minutes"
-msgstr ""
+msgstr "45 minute"
 
 #: Setting.form:60
 msgid "1 hour"
-msgstr ""
+msgstr "1 oră"
 
 #: Setting.form:60
 msgid "3 hours"
-msgstr ""
+msgstr "3 ore"
 
 #: Setting.form:60
 msgid "6 hours"
-msgstr ""
+msgstr "6 ore"
 
 #: Setting.form:60
 msgid "12 hours"
-msgstr ""
+msgstr "12 ore"
 
 #: Setting.form:67
 msgid "Frequency of updating weather data:"
-msgstr ""
+msgstr "Frecvența actualizării datelor meteo:"
 
 #: Setting.form:74
 msgid "Localisation auto"
-msgstr ""
+msgstr "Localizare automată"
 
 #: Setting.form:100
 msgid "Show desktop Widget"
-msgstr ""
+msgstr "Afișați widgetul pentru desktop"
 
 #: Setting.form:107
 msgid "Show tray icon"
-msgstr ""
+msgstr "Afișează pictograma pentru tray"
 
