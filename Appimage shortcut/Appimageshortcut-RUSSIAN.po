@@ -39,7 +39,7 @@ msgstr "Помощь"
 
 #: FMain.form:57
 msgid "Report a bug"
-msgstr "Отправить отчёт об ошибки"
+msgstr "Отчёт об ошибки"
 
 #: FMain.form:64
 msgid "Donate"
