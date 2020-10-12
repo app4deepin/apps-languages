@@ -4,168 +4,168 @@ msgstr ""
 "Project-Id-Version: Filetransfert 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:32 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
 msgid "File Drop"
-msgstr ""
+msgstr "File Drop"
 
 #: About.form:64
 msgid "Send or receive file to your phone with wifi"
-msgstr ""
+msgstr "Отправить или получить файл на ваш телефон с помощью Wi-Fi"
 
 #: About.form:87
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: About.form:105
 msgid "Based on qrcp software : <p>\nhttps://github.com/claudiodangelis/qrcp"
-msgstr ""
+msgstr "На основе программного обеспечения qrcp: <p> \ nhttps: //github.com/claudiodangelis/qrcp"
 
 #: Aide.form:40
 msgid "Send 1 file"
-msgstr ""
+msgstr "Отправить 1 файл"
 
 #: Aide.form:47
 msgid "Receive file(s)"
-msgstr ""
+msgstr "Получить файл(ы)"
 
 #: Aide.form:54
 msgid "Send files or folders"
-msgstr ""
+msgstr "Отправить файлы или папки"
 
 #: Aide.form:61
 msgid "Zip files or folders"
-msgstr ""
+msgstr "Zip файлы или папки"
 
 #: Aide.form:68 start.form:39
 msgid "How to send or receive"
-msgstr ""
+msgstr "Как отправить или получить"
 
 #: Aide.form:104
 msgid "Click on Send icon and Drag and drop the file to drop zone. When it's done, scan the QR Code with your phone. Check the transfer on your phone."
-msgstr ""
+msgstr "Щелкните значок «Отправить» и перетащите файл в зону размещения.  Когда это будет сделано, отсканируйте QR-код своим телефоном.  Проверьте передачу в телефоне."
 
 #: Aide.form:111
 msgid "Click on Receive icon and scan the QR Code with your phone. Select on your phone the files to send to your computer"
-msgstr ""
+msgstr "Щелкните значок «Получить» и отсканируйте QR-код своим телефоном.  Выберите на телефоне файлы для отправки на компьютер"
 
 #: Aide.form:118
 msgid "Click on Multi-Send icon. Drag and Drop your files or folders. When done, clic on Send button and scan the QR Code with your phone. You will receive a ZIP file. Check the transfer on your phone."
-msgstr ""
+msgstr "Щелкните значок множественной отправки.  Перетащите свои файлы или папки.  Когда закончите, нажмите кнопку «Отправить» и отсканируйте QR-код своим телефоном.  Вы получите ZIP-файл.  Проверить передачу на телефоне"
 
 #: Aide.form:125
 msgid "Before sending your file or folder, you can tell File Drop to compress (ZIP) them."
-msgstr ""
+msgstr "Перед отправкой файла или папки вы можете указать File Drop сжать их (ZIP)."
 
 #: MultiSend.form:86 Send.form:204 start.form:98
 msgid "Send"
-msgstr ""
+msgstr "Отправить"
 
 #: MultiSend.form:111 start.form:114
 msgid "Multi-Send"
-msgstr ""
+msgstr "Множественная отправка"
 
 #: MultiSend.form:128
 msgid ">>   Drag one file or folder at a time   <<"
-msgstr ""
+msgstr ">> Перетаскивайте по одному файлу или папке за раз <<"
 
 #: MultiSend.form:136
 msgid "Files/Folders will be compressed (ZIP) before sent."
-msgstr ""
+msgstr "Файлы/Папки будут зжаты (ZIP) перед отправкой."
 
 #: MultiSend.form:167
 msgid "1 - Turn the wifi on your phone \n\n2 - Scan the QR code\n\n3 - Check the transfer on your phone"
-msgstr ""
+msgstr "1 - Включите Wi-Fi на вашем телефоне. \n\n2 - Отсканируйте QR-код \n\n3 - Проверьте передачу на своем телефоне."
 
 #: MultiSend.form:182
 msgid "FileDrop is preparing your zip file "
-msgstr ""
+msgstr "FileDrop готовит ваш ZIP файл"
 
 #: MultiSend.class:9
 msgid "Files/Folders to send : "
-msgstr ""
+msgstr "Файлы/Папки для отправки"
 
 #: Option.form:34
 msgid "Allways compress the file (ZIP) before sending it"
-msgstr ""
+msgstr "Всегда сжимайте файл (ZIP) перед его отправкой"
 
 #: Option.form:40
 msgid "Show File Drop Widget"
-msgstr ""
+msgstr "Показать виджет File Drop"
 
 #: Receive.form:143 Send.form:122
 msgid "1 - Turn the wifi on your phone \n\n2 - Scan the QR code"
-msgstr ""
+msgstr "1 - Включите Wi-Fi на телефоне \n\n2 - Отсканируйте QR-код"
 
 #: Receive.form:172
 msgid "Receiving your files ...\n\nWait for the confirmation message on your phone."
-msgstr ""
+msgstr "Получение файлов ... \n\nДождитесь подтверждающего сообщения на вашем телефоне."
 
 #: Receive.form:179
 msgid "Open folder"
-msgstr ""
+msgstr "Открыть папку"
 
 #: Receive.form:209 start.form:106
 msgid "Receive"
-msgstr ""
+msgstr "Получение"
 
 #: Send.form:99
 msgid "Drop your file here"
-msgstr ""
+msgstr "Перетащите ваш файл сюда"
 
 #: Send.form:133
 msgid "Compress the file (ZIP) before sending it"
-msgstr ""
+msgstr "Перед отправкой сжимайте файл (ZIP)"
 
 #: Send.class:194
 msgid "cut -c8- /tmp/filetmp.rtf | tr -d '\\n' > /tmp/filetmp2.rtf"
-msgstr ""
+msgstr "cut -c8- /tmp/filetmp.rtf | tr -d '\\n' > /tmp/filetmp2.rtf"
 
 #: start.form:29
 msgid "FileDrop"
-msgstr ""
+msgstr "FileDrop"
 
 #: start.form:35
 msgid "Menu1"
-msgstr ""
+msgstr "Меню1"
 
 #: start.form:43
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: start.form:47
 msgid "Changelog"
-msgstr ""
+msgstr "Журнал событий"
 
 #: start.form:51
 msgid "Report a bug"
-msgstr ""
+msgstr "Отчёт об ошибки"
 
 #: start.form:58
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 #: start.form:62
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 #: start.form:125
 msgid "Send file"
-msgstr ""
+msgstr "Отправка файла"
 
 #: start.form:131
 msgid "Receive file"
-msgstr ""
+msgstr "Получение файла"
 
 #: start.form:137
 msgid "Send multiple files or folders"
-msgstr ""
+msgstr "Отправка множественных файлов или папок"
 
 #: start.form:156
 msgid "Please check your network connection"
-msgstr ""
+msgstr "Пожалуйста проверьте ваше подключение к сети"
 
