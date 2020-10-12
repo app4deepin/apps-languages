@@ -2,238 +2,238 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Appimageshortcut 3.13.0\n"
-"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"PO-Revision-Date: 2020-10-12 14:08 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: ru\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
 msgid "Appimage Shortcut Creator"
-msgstr "Создатель ярлыков Appimage"
+msgstr ""
 
 #: About.form:48
 msgid "https://app4deepin.com"
-msgstr "https://app4deepin.com"
+msgstr ""
 
 #: About.form:58
 msgid "AppImage Shortcut Creator"
-msgstr "Создатель ярлыков Appimage"
+msgstr ""
 
 #: About.form:77
 msgid "Easily create shortcuts for AppImage"
-msgstr "Простое создание ярлыков для AppImage"
+msgstr ""
 
 #: FMain.form:45
 msgid "Menu1"
-msgstr "Меню1"
+msgstr ""
 
 #: FMain.form:49
 msgid "Manage applications"
-msgstr "Управление приложениями"
+msgstr ""
 
 #: FMain.form:53 Help.form:45
 msgid "Help"
-msgstr "Помощь"
+msgstr ""
 
 #: FMain.form:57
 msgid "Report a bug"
-msgstr "Отправить отчёт об ошибки"
+msgstr ""
 
 #: FMain.form:64
 msgid "Donate"
-msgstr "Пожертвовать"
+msgstr ""
 
 #: FMain.form:68
 msgid "Changelog"
-msgstr "Журнал изменений"
+msgstr ""
 
 #: FMain.form:72
 msgid "About"
-msgstr "О программе"
+msgstr ""
 
 #: FMain.form:76 appcreated.form:79
 msgid "Quit"
-msgstr "Выход"
+msgstr ""
 
 #: FMain.form:104
 msgid "Appimage or executable"
-msgstr "Appimage или исполняющий"
+msgstr ""
 
 #: FMain.form:110
 msgid "App icon"
-msgstr "Значок приложения"
+msgstr ""
 
 #: FMain.form:116
 msgid "Enter the app name for the shortcut"
-msgstr "Введите имя приложения для ярлыка"
+msgstr ""
 
 #: FMain.form:153
 msgid "Category"
-msgstr "Категория"
+msgstr ""
 
 #: FMain.form:159
 msgid "Choose"
-msgstr "Выберите"
+msgstr ""
 
 #: FMain.form:172
 msgid "-"
-msgstr "_"
+msgstr ""
 
 #: FMain.form:172
 msgid "Internet"
-msgstr "Интернет"
+msgstr ""
 
 #: FMain.form:172
 msgid "Chat"
-msgstr "Чат"
+msgstr ""
 
 #: FMain.form:172
 msgid "Music"
-msgstr "Музыка"
+msgstr ""
 
 #: FMain.form:172
 msgid "Video"
-msgstr "Видео"
+msgstr ""
 
 #: FMain.form:172
 msgid "Graphics"
-msgstr "Графика"
+msgstr ""
 
 #: FMain.form:172
 msgid "Office"
-msgstr "Офис"
+msgstr ""
 
 #: FMain.form:172
 msgid "Development"
-msgstr "Разработка"
+msgstr ""
 
 #: FMain.form:172
 msgid "System"
-msgstr "Система"
+msgstr ""
 
 #: FMain.form:172
 msgid "Others"
-msgstr "Прочее"
+msgstr ""
 
 #: FMain.form:224
 msgid "CREATE"
-msgstr "СОЗДАТЬ"
+msgstr ""
 
 #: FMain.class:116 gerer.class:48
 msgid "Error"
-msgstr "Ошибка"
+msgstr ""
 
 #: FMain.class:117
 msgid " Please give a name for the shortcut"
-msgstr " Пожалуйста дайте имя для ярлыка"
+msgstr ""
 
 #: FMain.class:120
 msgid " Please give select a Appimage or executable"
-msgstr " Пожалуйста выберите Appimage или исполняющий"
+msgstr ""
 
 #: FMain.class:123
 msgid " Please give select an icon"
-msgstr " Пожалуйста выберите значок"
+msgstr ""
 
 #: Help.form:51
 msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
-msgstr "Файл AppImage будет автоматически перемещен в папку приложения специально созданную для группировки ваших изображений AppImages."
+msgstr ""
 
 #: Help.form:58
 msgid "3 - Choose an icon"
-msgstr "3 - Выберите значок"
+msgstr ""
 
 #: Help.form:64
 msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
-msgstr "Выберите изображение (PNG, JPG или SVG).  Значок будет автоматически скопирован в папку значков, специально созданную для ваших значков."
+msgstr ""
 
 #: Help.form:71
 msgid "1 - Type a name for the shortcut"
-msgstr "1 - Напишите имя для ярлыка"
+msgstr ""
 
 #: Help.form:78
 msgid "2 - Choose the AppImage file"
-msgstr "2 - Выберите Appimage файл"
+msgstr ""
 
 #: Help.form:85
 msgid "4 - Select a category and clic create button"
-msgstr "4 - Выберите категорию и нажмите кнопку создать"
+msgstr ""
 
 #: Help.form:92
 msgid "1 - Manage your applications"
-msgstr "1 - Управления вашими приложениями"
+msgstr ""
 
 #: Help.form:98
 msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
-msgstr "Вы можете управлять установленным приложением AppImage, перейдя в меню в правом верхнем углу.  Вы сможете увидеть установленные приложения и удалить то, которое больше не используете."
+msgstr ""
 
 #: Help.form:105
 msgid "Create a shorcut"
-msgstr "Создать ярлык"
+msgstr ""
 
 #: Help.form:112
 msgid "Manage your applications"
-msgstr "Управления вашими приложениями"
+msgstr ""
 
 #: Help.form:119
 msgid "2 - Update your applications"
-msgstr "2 - Обновите ваши приложения"
+msgstr ""
 
 #: Help.form:125
 msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
-msgstr "Если ваш appimage не обновляется сам по себе, и вы загрузили новую версию, вам придется удалить установленную версию перед созданием нового ярлыка для новой версии."
+msgstr ""
 
 #: appcreated.form:53
 msgid "Shortcut created !"
-msgstr "Ярлык создан !"
+msgstr ""
 
 #: appcreated.form:70
 msgid "New shortcut"
-msgstr "Новый ярлык"
+msgstr ""
 
 #: appimage.form:44 imageselect.form:42
 msgid "Cancel"
-msgstr "Отменить"
+msgstr ""
 
 #: appimage.form:50 imageselect.form:36
 msgid "Select"
-msgstr "Выберите"
+msgstr ""
 
 #: donate.form:56
 msgid "Thank you for your support"
-msgstr "Спасибо за вашу поддержку"
+msgstr ""
 
 #: gerer.form:66
 msgid "Applications folder"
-msgstr "Папка приложений"
+msgstr ""
 
 #: gerer.form:76
 msgid "DELETE"
-msgstr "УДАЛИТЬ"
+msgstr ""
 
 #: gerer.form:85
 msgid "Icons folder"
-msgstr "Папка значков"
+msgstr ""
 
 #: gerer.class:9
 msgid " application installed"
-msgstr "Приложение установлено"
+msgstr ""
 
 #: gerer.class:17
 msgid " applications installed"
-msgstr "Приложения установлены"
+msgstr ""
 
 #: gerer.class:49
 msgid " Please select an app for deleting"
-msgstr "Пожалуйста выберите приложение для удаления"
+msgstr ""
 
 #: gerer.class:57
 msgid "Done"
-msgstr "Готова"
+msgstr ""
 
 #: gerer.class:58
 msgid " App deleted"
-msgstr "Приложение удаленно"
+msgstr ""
 
