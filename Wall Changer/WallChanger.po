@@ -4,148 +4,148 @@ msgstr ""
 "Project-Id-Version: WallChanger 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:32 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1 About.form:33
 msgid "Wall Changer"
-msgstr ""
+msgstr "Сменщик обоев"
 
 #: About.form:58
 msgid "A new wallpaper every day"
-msgstr ""
+msgstr "Каждый день новые обои"
 
 #: About.form:75
 msgid "Based on Bing desktop wallpaper changer (link)"
-msgstr ""
+msgstr "На основе программы смены обоев рабочего стола Bing (ссылка)"
 
 #: About.form:91
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: FMain.form:36
 msgid "Menu1"
-msgstr ""
+msgstr "Меню1"
 
 #: FMain.form:40
 msgid "Changelog"
-msgstr ""
+msgstr "Журнал изменений"
 
 #: FMain.form:44
 msgid "Report a bug"
-msgstr ""
+msgstr "Отчёт об ошибки"
 
 #: FMain.form:51
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 #: FMain.form:55
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 #: FMain.form:75
 msgid "Max size of wallpapers folder : "
-msgstr ""
+msgstr "Максимальный размер папки обоев : "
 
 #: FMain.form:115
 msgid "Wall Changer - Settings"
-msgstr ""
+msgstr "Сменщик обоев - Настройки"
 
 #: FMain.form:124
 msgid "Delete downloaded wallpapers"
-msgstr ""
+msgstr "Удалить загруженные обои"
 
 #: FMain.form:125 Suppress.form:40
 msgid "DELETE"
-msgstr ""
+msgstr "УДАЛИТЬ"
 
 #: FMain.form:132
 msgid "Bing Wallpaper - area : "
-msgstr ""
+msgstr "Bing Обои - область"
 
 #: FMain.form:139
 msgid "Auto (Default)"
-msgstr ""
+msgstr "Автоматически (По умолчанию)"
 
 #: FMain.form:139
 msgid "Canada"
-msgstr ""
+msgstr "Канада"
 
 #: FMain.form:139
 msgid "China"
-msgstr ""
+msgstr "Китай"
 
 #: FMain.form:139
 msgid "France"
-msgstr ""
+msgstr "Франция"
 
 #: FMain.form:139
 msgid "Germany"
-msgstr ""
+msgstr "Германия"
 
 #: FMain.form:139
 msgid "India"
-msgstr ""
+msgstr "Индия"
 
 #: FMain.form:139
 msgid "Japan"
-msgstr ""
+msgstr "Япония"
 
 #: FMain.form:139
 msgid "Spain"
-msgstr ""
+msgstr "Испания"
 
 #: FMain.form:139
 msgid "Switzerland"
-msgstr ""
+msgstr "Швейцария"
 
 #: FMain.form:139
 msgid "UK"
-msgstr ""
+msgstr "Великобритания"
 
 #: FMain.form:139
 msgid "US"
-msgstr ""
+msgstr "США"
 
 #: FMain.form:155
 msgid "Apply new settings"
-msgstr ""
+msgstr "Применить новые настройки"
 
 #: FMain.form:156
 msgid "APPLY"
-msgstr ""
+msgstr "Применить"
 
 #: FMain.form:162
 msgid "View wallpaper folder"
-msgstr ""
+msgstr "Просмотр папки обоев"
 
 #: FMain.form:174
 msgid "Applying new zone "
-msgstr ""
+msgstr "Применение новой зоны"
 
 #: FMain.class:25
 msgid "~/Pictures/Wall-Changer"
-msgstr ""
+msgstr "~/Pictures/Wall-Changer"
 
 #: FMain.class:28 Suppress.class:12
 msgid "Downloaded wallpaper : "
-msgstr ""
+msgstr "Загруженные обои"
 
 #: Suppress.form:54
 msgid "Please confirm the deletion of the downloaded wallpapers."
-msgstr ""
+msgstr "Подтвердите удаление загруженных обоев"
 
 #: Suppress.form:75
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #: Suppress.class:6
 msgid " wallpapers will be deleted !"
-msgstr ""
+msgstr "Обои будут удалены"
 
 #: Suppress.class:25
 msgid "Wallpaper deleted !"
-msgstr ""
+msgstr "Обои удалены"
 
