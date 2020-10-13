@@ -1,0 +1,95 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DynamicWall 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:32 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:58
+msgid "Dynamic Wall"
+msgstr ""
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr ""
+
+#: About.form:77
+msgid "Use dynamic wallpaper on Deepin"
+msgstr ""
+
+#: FMain.form:38
+msgid "Menu1"
+msgstr ""
+
+#: FMain.form:42
+msgid "Changelog"
+msgstr ""
+
+#: FMain.form:46
+msgid "Report a bug"
+msgstr ""
+
+#: FMain.form:53
+msgid "About"
+msgstr ""
+
+#: FMain.form:57
+msgid "Quit"
+msgstr ""
+
+#: FMain.form:111
+msgid "Apply"
+msgstr ""
+
+#: FMain.form:119
+msgid "Choose dynamic wallpaper"
+msgstr ""
+
+#: FMain.form:127
+msgid "Activate"
+msgstr ""
+
+#: FMain.form:165
+msgid "Wall Changer is installed !\n\nThey can't work together at the same time.\n\nPlease delete it before to use Dynamic Wall."
+msgstr ""
+
+#: FMain.class:29
+msgid "Addon installed"
+msgstr ""
+
+#: FMain.class:37
+msgid "catalina.gif"
+msgstr ""
+
+#: FMain.class:41
+msgid "mojave.gif"
+msgstr ""
+
+#: FMain.class:45
+msgid "earth.gif"
+msgstr ""
+
+#: FMain.class:49
+msgid "firewatch.gif"
+msgstr ""
+
+#: FMain.class:56
+msgid "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+msgstr ""
+
+#: FMain.class:60
+msgid "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+msgstr ""
+
+#: FMain.class:64
+msgid "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+msgstr ""
+
+#: FMain.class:68
+msgid "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
+msgstr ""
+
