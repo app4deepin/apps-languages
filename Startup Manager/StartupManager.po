@@ -1,0 +1,123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StartupManager 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:57 FMain.form:178
+msgid "Startup Manager"
+msgstr ""
+
+#: About.form:47
+msgid "https://app4deepin.com"
+msgstr ""
+
+#: FMain.form:54
+msgid "Menu1"
+msgstr ""
+
+#: FMain.form:58
+msgid "Changelog"
+msgstr ""
+
+#: FMain.form:62
+msgid "Report a bug"
+msgstr ""
+
+#: FMain.form:66
+msgid "Donate"
+msgstr ""
+
+#: FMain.form:73
+msgid "About"
+msgstr ""
+
+#: FMain.form:118
+msgid "Name"
+msgstr ""
+
+#: FMain.form:129
+msgid "Comment"
+msgstr ""
+
+#: FMain.form:145
+msgid "Command"
+msgstr ""
+
+#: FMain.form:151
+msgid "Add"
+msgstr ""
+
+#: FMain.form:158
+msgid "Remove"
+msgstr ""
+
+#: FMain.form:184
+msgid "Terminal"
+msgstr ""
+
+#: FMain.form:206
+msgid "Disable"
+msgstr ""
+
+#: FMain.form:232
+msgid "Save"
+msgstr ""
+
+#: FMain.form:239
+msgid "Edit"
+msgstr ""
+
+#: FMain.form:254
+msgid "User"
+msgstr ""
+
+#: FMain.form:263
+msgid "System "
+msgstr ""
+
+#: FMain.form:279
+msgid "Unlock"
+msgstr ""
+
+#: FMain.class:124
+msgid "Select an item before !"
+msgstr ""
+
+#: FMain.class:143
+msgid "Delete this item"
+msgstr ""
+
+#: FMain.class:145
+msgid "Are you sure ?"
+msgstr ""
+
+#: FMain.class:145
+msgid "Ok"
+msgstr ""
+
+#: FMain.class:145 SelectDesktop.form:40 Selectcommand.form:40
+msgid "Cancel"
+msgstr ""
+
+#: FMain.class:317
+msgid "Warning"
+msgstr ""
+
+#: FMain.class:319
+msgid "Please take care with this items !"
+msgstr ""
+
+#: SelectDesktop.form:34 Selectcommand.form:34
+msgid "Select"
+msgstr ""
+
+#: Selectcommand.class:12
+msgid "/"
+msgstr ""
+
