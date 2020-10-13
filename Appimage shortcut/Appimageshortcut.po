@@ -4,236 +4,236 @@ msgstr ""
 "Project-Id-Version: Appimageshortcut 3.13.0\n"
 "PO-Revision-Date: 2020-10-12 14:08 UTC\n"
 "Last-Translator: david <david@david-PC>\n"
-"Language: en\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .project:1
 msgid "Appimage Shortcut Creator"
-msgstr ""
+msgstr "Creatorul de comenzi rapide Appimage"
 
 #: About.form:48
 msgid "https://app4deepin.com"
-msgstr ""
+msgstr "https://app4deepin.com"
 
 #: About.form:58
 msgid "AppImage Shortcut Creator"
-msgstr ""
+msgstr "Creatorul de comenzi rapide Appimage"
 
 #: About.form:77
 msgid "Easily create shortcuts for AppImage"
-msgstr ""
+msgstr "Creați cu ușurință comenzi rapide pentru AppImage"
 
 #: FMain.form:45
 msgid "Menu1"
-msgstr ""
+msgstr "Meniu 1"
 
 #: FMain.form:49
 msgid "Manage applications"
-msgstr ""
+msgstr "Gestionați aplicațiile"
 
 #: FMain.form:53 Help.form:45
 msgid "Help"
-msgstr ""
+msgstr "Ajutor"
 
 #: FMain.form:57
 msgid "Report a bug"
-msgstr ""
+msgstr "Raporteaza o eroare"
 
 #: FMain.form:64
 msgid "Donate"
-msgstr ""
+msgstr "Donații"
 
 #: FMain.form:68
 msgid "Changelog"
-msgstr ""
+msgstr "Jurnal de schimbări"
 
 #: FMain.form:72
 msgid "About"
-msgstr ""
+msgstr "Despre program"
 
 #: FMain.form:76 appcreated.form:79
 msgid "Quit"
-msgstr ""
+msgstr "Ieșire"
 
 #: FMain.form:104
 msgid "Appimage or executable"
-msgstr ""
+msgstr "Appimage sau executabil"
 
 #: FMain.form:110
 msgid "App icon"
-msgstr ""
+msgstr "Pictograma aplicației"
 
 #: FMain.form:116
 msgid "Enter the app name for the shortcut"
-msgstr ""
+msgstr "Introduceți numele aplicației pentru comanda rapidă"
 
 #: FMain.form:153
 msgid "Category"
-msgstr ""
+msgstr "Categorie"
 
 #: FMain.form:159
 msgid "Choose"
-msgstr ""
+msgstr "Selectați"
 
 #: FMain.form:172
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: FMain.form:172
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #: FMain.form:172
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: FMain.form:172
 msgid "Music"
-msgstr ""
+msgstr "Musică"
 
 #: FMain.form:172
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: FMain.form:172
 msgid "Graphics"
-msgstr ""
+msgstr "Grafică"
 
 #: FMain.form:172
 msgid "Office"
-msgstr ""
+msgstr "Oficiu"
 
 #: FMain.form:172
 msgid "Development"
-msgstr ""
+msgstr "Dezvoltare"
 
 #: FMain.form:172
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 #: FMain.form:172
 msgid "Others"
-msgstr ""
+msgstr "Alte"
 
 #: FMain.form:224
 msgid "CREATE"
-msgstr ""
+msgstr "CREAREA"
 
 #: FMain.class:116 gerer.class:48
 msgid "Error"
-msgstr ""
+msgstr "Eroare"
 
 #: FMain.class:117
 msgid " Please give a name for the shortcut"
-msgstr ""
+msgstr "Vă rugăm să dați un nume pentru comanda rapidă"
 
 #: FMain.class:120
 msgid " Please give select a Appimage or executable"
-msgstr ""
+msgstr "Vă rugăm să selectați un Appimage sau un fișier executabil"
 
 #: FMain.class:123
 msgid " Please give select an icon"
-msgstr ""
+msgstr "Vă rugăm să selectați o pictogramă"
 
 #: Help.form:51
 msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
-msgstr ""
+msgstr "Fișierul AppImage va fi mutat automat într-un dosar de aplicație care a fost special creat pentru a grupa imaginile dvs Appimages."
 
 #: Help.form:58
 msgid "3 - Choose an icon"
-msgstr ""
+msgstr "3 - Alegeți o pictogramă"
 
 #: Help.form:64
 msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
-msgstr ""
+msgstr "Alegeți o imagine (PNG, JPG sau SVG).  Pictograma va fi copiată automat într-un folder cu pictograme care a fost creat special pentru pictograme."
 
 #: Help.form:71
 msgid "1 - Type a name for the shortcut"
-msgstr ""
+msgstr "1 - Tastați un nume pentru comanda rapidă"
 
 #: Help.form:78
 msgid "2 - Choose the AppImage file"
-msgstr ""
+msgstr "2 - Alegeți fișierul AppImage"
 
 #: Help.form:85
 msgid "4 - Select a category and clic create button"
-msgstr ""
+msgstr "4 - Selectați o categorie și faceți clic pe butonul de creare"
 
 #: Help.form:92
 msgid "1 - Manage your applications"
-msgstr ""
+msgstr "1 - Gestionați aplicațiile"
 
 #: Help.form:98
 msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
-msgstr ""
+msgstr "Puteți gestiona aplicația AppImage instalată accesând meniul din dreapta sus.  Veți putea vedea aplicațiile instalate și șterge pe cea pe care nu o mai folosiți."
 
 #: Help.form:105
 msgid "Create a shorcut"
-msgstr ""
+msgstr "Creaza o comandă rapidă"
 
 #: Help.form:112
 msgid "Manage your applications"
-msgstr ""
+msgstr "Gestionați-vă aplicațiile"
 
 #: Help.form:119
 msgid "2 - Update your applications"
-msgstr ""
+msgstr "2 - Actualizați aplicațiile"
 
 #: Help.form:125
 msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
-msgstr ""
+msgstr "dacă appimage-ul dvs. nu se actualizează singur și trebuie să descărcați noua versiune, va trebui să o ștergeți pe cea instalată înainte de a crea o nouă comandă rapidă pentru noua versiune."
 
 #: appcreated.form:53
 msgid "Shortcut created !"
-msgstr ""
+msgstr "Comandă rapidă creată !"
 
 #: appcreated.form:70
 msgid "New shortcut"
-msgstr ""
+msgstr "Comandă rapidă nouă"
 
 #: appimage.form:44 imageselect.form:42
 msgid "Cancel"
-msgstr ""
+msgstr "Anulare"
 
 #: appimage.form:50 imageselect.form:36
 msgid "Select"
-msgstr ""
+msgstr "Selectați"
 
 #: donate.form:56
 msgid "Thank you for your support"
-msgstr ""
+msgstr "Vă multumesc pentru suport"
 
 #: gerer.form:66
 msgid "Applications folder"
-msgstr ""
+msgstr "Dosar aplicații"
 
 #: gerer.form:76
 msgid "DELETE"
-msgstr ""
+msgstr "ȘTERGE"
 
 #: gerer.form:85
 msgid "Icons folder"
-msgstr ""
+msgstr "Dosarul de pictograme"
 
 #: gerer.class:9
 msgid " application installed"
-msgstr ""
+msgstr "aplicația instalată"
 
 #: gerer.class:17
 msgid " applications installed"
-msgstr ""
+msgstr "aplicațiile instalate"
 
 #: gerer.class:49
 msgid " Please select an app for deleting"
-msgstr ""
+msgstr "Vă rugăm să selectați o aplicație pentru ștergere"
 
 #: gerer.class:57
 msgid "Done"
-msgstr ""
+msgstr "Terminat"
 
 #: gerer.class:58
 msgid " App deleted"
-msgstr ""
+msgstr "Aplicația a fost ștearsă"
 
