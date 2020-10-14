@@ -1,0 +1,270 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Web2App 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:58
+msgid "Web 2 App"
+msgstr "Web 2 App"
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:77
+msgid "Run websites as if they were apps"
+msgstr "Rulați site-uri web ca și cum ar fi aplicații"
+
+#: FMain.form:50
+msgid "Menu1"
+msgstr "Meniul1"
+
+#: FMain.form:54
+msgid "Delete WebApp"
+msgstr "Ștergeți WebApp"
+
+#: FMain.form:58
+msgid "Report a bug"
+msgstr "Raportați o eroare"
+
+#: FMain.form:65
+msgid "Donate"
+msgstr "Donații"
+
+#: FMain.form:69
+msgid "Changelog"
+msgstr "Jurnalul de schimbări"
+
+#: FMain.form:73
+msgid "About"
+msgstr "Despre"
+
+#: FMain.form:101
+msgid "Link "
+msgstr "Link"
+
+#: FMain.form:107
+msgid "App icon"
+msgstr "Pictograma aplicației"
+
+#: FMain.form:113
+msgid "Enter the app name"
+msgstr "Introduceți numele aplicației"
+
+#: FMain.form:142
+msgid "Only Letters and numbers"
+msgstr "Numai litere și cifre"
+
+#: FMain.form:150
+msgid "Category"
+msgstr "Categorie"
+
+#: FMain.form:156
+msgid "Choose"
+msgstr "Alege"
+
+#: FMain.form:164
+msgid "-"
+msgstr "-"
+
+#: FMain.form:164
+msgid "Internet"
+msgstr "Internet"
+
+#: FMain.form:164
+msgid "Chat"
+msgstr "Chat"
+
+#: FMain.form:164
+msgid "Music"
+msgstr "Musică"
+
+#: FMain.form:164
+msgid "Video"
+msgstr "Video"
+
+#: FMain.form:164
+msgid "Graphics"
+msgstr "Grafică"
+
+#: FMain.form:164
+msgid "Office"
+msgstr "Oficiu"
+
+#: FMain.form:164
+msgid "Development"
+msgstr "Dezvoltare"
+
+#: FMain.form:164
+msgid "System"
+msgstr "Sistem"
+
+#: FMain.form:164
+msgid "Others"
+msgstr "Alte"
+
+#: FMain.form:227
+msgid "Invalid character"
+msgstr "Caracter incorect"
+
+#: FMain.form:234
+msgid "* Web2App use Chrome technology to use Widevine DRM."
+msgstr "* Web2App utilizează tehnologia Chrome pentru a utiliza Widevine DRM."
+
+#: FMain.form:240
+msgid "Widevine plugin (for Netflix, Amazon Prime Video...) *"
+msgstr "Plugin Widevine (pentru Netflix, Amazon Prime Video ...) *"
+
+#: FMain.form:248
+msgid "CREATE"
+msgstr "CREAREA"
+
+#: FMain.form:268
+msgid "Invalid character : / , \" '"
+msgstr "Caracter incorect : / , \" '"
+
+#: FMain.form:275
+msgid "without https:// (ex : app4deepin.com)"
+msgstr "fără https:// (ex : app4deepin.com)"
+
+#: FMain.class:101 gerer.class:51
+msgid "Error"
+msgstr "Eroare"
+
+#: FMain.class:102
+msgid " Please give a name for the shortcut"
+msgstr " Vă rugăm să dați un nume pentru comanda rapidă"
+
+#: FMain.class:105
+msgid " Please give select a Appimage or executable"
+msgstr " Vă rugăm să selectați un Appimage sau un executabil"
+
+#: FMain.class:108
+msgid " Please give select an icon"
+msgstr " Vă rugăm să selectați o pictogramă"
+
+#: FMain.class:490
+msgid "Can't copy & paste a link !"
+msgstr "Nu se poate copia și lipi un link !"
+
+#: FMain.class:496
+msgid "Info"
+msgstr "Informații"
+
+#: FMain.class:497
+msgid " Please enter a name for the webapp !"
+msgstr " Vă rugăm să introduceți un nume pentru aplicația web !"
+
+#: FMain.class:503
+msgid " A webapp already exist with this name !"
+msgstr " Există deja o aplicație web cu acest nume !"
+
+#: Help.form:45
+msgid "Help"
+msgstr "Ajutor"
+
+#: Help.form:51
+msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
+msgstr "Fișierul AppImage va fi mutat automat într-un folder de aplicație care a fost special creat pentru a grupa imaginile dvs. AppImages."
+
+#: Help.form:58
+msgid "3 - Choose an icon"
+msgstr "3 - Alege o pictograma"
+
+#: Help.form:64
+msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
+msgstr "Alegeți o imagine (PNG, JPG sau SVG). Pictograma va fi copiată automat într-un folder cu pictograme care a fost creat special pentru pictograme."
+
+#: Help.form:71
+msgid "1 - Type a name for the shortcut"
+msgstr "1 - Introduceți un nume pentru comanda rapidă"
+
+#: Help.form:78
+msgid "2 - Choose the AppImage file"
+msgstr "2 - Alegeți fișierul AppImage"
+
+#: Help.form:85
+msgid "4 - Select a category and clic create button"
+msgstr "4 - Selectați o categorie și faceți clic pe butonul Creați"
+
+#: Help.form:92
+msgid "1 - Manage your applications"
+msgstr "1 - Gestionați-vă aplicațiile"
+
+#: Help.form:98
+msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
+msgstr "Puteți gestiona aplicația AppImage instalată accesând meniul din dreapta sus. Veți putea vedea aplicațiile instalate și șterge pe cea pe care nu o mai folosiți."
+
+#: Help.form:105
+msgid "Create a shorcut"
+msgstr "Creaza o comandă rapidă"
+
+#: Help.form:112
+msgid "Manage your applications"
+msgstr "Gestionați-vă aplicațiile"
+
+#: Help.form:119
+msgid "2 - Update your applications"
+msgstr "2 - Actualizați-vă aplicațiile"
+
+#: Help.form:125
+msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
+msgstr "dacă appimage-ul dvs. nu se actualizează singur și trebuie să descărcați noua versiune, va trebui să o ștergeți pe cea instalată înainte de a crea o nouă comandă rapidă pentru noua versiune."
+
+#: appcreated.form:53
+msgid "Shortcut created !"
+msgstr "Comandă rapidă creată !"
+
+#: appcreated.form:70
+msgid "New shortcut"
+msgstr "Comandă rapidă nouă"
+
+#: appcreated.form:79
+msgid "Quit"
+msgstr "Ieșire"
+
+#: donate.form:56
+msgid "Thank you for your support"
+msgstr "Iti multumesc pentru sprijin"
+
+#: gerer.form:56
+msgid "Applications folder"
+msgstr "Fișier aplicații"
+
+#: gerer.form:66
+msgid "DELETE"
+msgstr "ȘTERGE"
+
+#: gerer.class:13
+msgid " webapp installed"
+msgstr "aplicația web instalată"
+
+#: gerer.class:21
+msgid " webapps installed"
+msgstr " aplicația web instalată"
+
+#: gerer.class:52
+msgid " Please select an app for deleting"
+msgstr "Vă rugăm să selectați o aplicație pentru ștergere"
+
+#: gerer.class:62
+msgid "Done"
+msgstr "Terminat"
+
+#: gerer.class:63
+msgid " webApp deleted"
+msgstr " aplicația web ștearsă"
+
+#: imageselect.form:28
+msgid "Select"
+msgstr "Selectați"
+
+#: imageselect.form:34
+msgid "Cancel"
+msgstr "Anulare"
