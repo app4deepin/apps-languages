@@ -1,0 +1,535 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OnOff 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:28 UTC\n"
+"Last-Translator: Bajza Béla\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:35 Startapp.form:22
+msgid "Control Center Tray"
+msgstr "Tálcai Vezérlőközpont"
+
+#: About.form:44
+msgid "Version : 0.9.0-BETA"
+msgstr "Verzió: 0.9.0. - BÉTA"
+
+#: About.form:73
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: AssistSettings.class:21
+msgid "Choose your shortcuts"
+msgstr "Válassza ki a parancsikonokat"
+
+#: AssistSettings.form:150
+msgid "Shortcut Assist appearance"
+msgstr "Parancsikon Asszisztens megjelenése"
+
+#: Batteryinfo.class:53
+msgid "State : charging"
+msgstr "Állapot: Töltés"
+
+#: Batteryinfo.class:56
+msgid "State : discharging"
+msgstr "Állapot: Kisütés"
+
+#: Batteryinfo.class:59
+msgid "State : Not available"
+msgstr "Állapot: Nem elérhető "
+
+#: Batteryinfo.class:64
+msgid "Design capacity : "
+msgstr "Tervezési kapacitás:"
+
+#: Batteryinfo.class:65
+msgid "Current capacity : "
+msgstr "Jelenlegi kapacitás:"
+
+#: Batteryinfo.class:66
+msgid "Energy : "
+msgstr "Energia:"
+
+#: Batteryinfo.class:67
+msgid "Energy Full : "
+msgstr "Teljes energia"
+
+#: Batteryinfo.class:68
+msgid "Health : "
+msgstr "Életciklus:"
+
+#: Batteryinfo.class:69
+msgid "Voltage : "
+msgstr "Feszültség:"
+
+#: Batteryinfo.class:72
+msgid "Time to full : "
+msgstr "Teljes feltöltődés:"
+
+#: Batteryinfo.class:74
+msgid "Time to empty : "
+msgstr "Teljes ürítés:"
+
+#: Batteryinfo.class:78
+msgid "Technology : Not available"
+msgstr "Technolódia: Nem elérhető"
+
+#: Batteryinfo.class:80
+msgid "Technology : "
+msgstr "Technológia:"
+
+#: Batteryinfo.class:142
+msgid "Battery level : "
+msgstr "Töltöttségi szint:"
+
+#: Batteryinfo.form:52
+msgid "Capacity :"
+msgstr "Kapacitás:"
+
+#: Batteryinfo.form:59
+msgid "Size :"
+msgstr "Méret:"
+
+#: Batteryinfo.form:66
+msgid "Voltage :"
+msgstr "Feszültség:"
+
+#: Batteryinfo.form:73
+msgid "Energy :"
+msgstr "Energia:"
+
+#: Batteryinfo.form:80
+msgid "Energy full :"
+msgstr "Teljes energia:"
+
+#: Batteryinfo.form:87
+msgid "Technology :"
+msgstr "Technológia:"
+
+#: Batteryinfo.form:94
+msgid "State :"
+msgstr "Állapot:"
+
+#: Batteryinfo.form:108
+msgid "Battery level :"
+msgstr "Töltöttségi szint:"
+
+#: Batteryinfo.form:121
+msgid "Time to empty :"
+msgstr "Teljes ürítés:"
+
+#: Batteryinfo.form:145 OnOff.form:450 OnOff2.form:391 OnOff3.form:398
+msgid "Mouse"
+msgstr "Egér"
+
+#: CpuInfo.class:11
+msgid "cat /proc/cpuinfo | grep -i '^model name' | head -1 | sed 's/model name:*.//' | sed 's/:*.//' | sed 's/@.*//'"
+msgstr "cat /proc/cpuinfo | grep -i '^model name' | head -1 | sed 's/model name:*.//' | sed 's/:*.//' | sed 's/@.*//'"
+
+#: CpuInfo.class:34
+msgid "CPU : "
+msgstr "Processzor:"
+
+#: CpuInfo.class:35
+msgid "Max : "
+msgstr "Maximum:"
+
+#: CpuInfo.class:36
+msgid "Min : "
+msgstr "Minimum:"
+
+#: CpuInfo.form:54
+msgid "Core 0 : -"
+msgstr "Mag 0:"
+
+#: CpuInfo.form:61
+msgid "Core 1 : -"
+msgstr "Mag 1:"
+
+#: CpuInfo.form:68
+msgid "Core 2 : -"
+msgstr "Mag 2:"
+
+#: CpuInfo.form:75
+msgid "Core 3 : -"
+msgstr "Mag 3:"
+
+#: CpuInfo.form:82
+msgid "Core 4 : -"
+msgstr "Mag 4:"
+
+#: CpuInfo.form:89
+msgid "Core 5 : -"
+msgstr "Mag 5:"
+
+#: CpuInfo.form:96
+msgid "Core 6 : -"
+msgstr "Mag 6:"
+
+#: CpuInfo.form:103
+msgid "Core 7 : -"
+msgstr "Mag 7:"
+
+#: CpuInfo.form:114
+msgid "CPU"
+msgstr "Processzor"
+
+#: CpuInfo.form:121
+msgid "CPU Max"
+msgstr "Processzor Maximuma"
+
+#: CpuInfo.form:128
+msgid "CPU Mini"
+msgstr "Processzor Minimuma"
+
+#: FMain.class:61
+msgid "notify-send --icon=app4deepin-eyesafe \"Szemek védelme : The long break will begin in 5 seconds\""
+msgstr "értesítés-küldés --ikon=app4deepin-eyesafe \"Eyes Protect : A hosszú szünet 5 másodperc múlva kezdődik\""
+
+#: FMain.form:25 Options.form:74 Safeeyessettings.form:70 Startapp.form:30
+msgid "Menu1"
+msgstr "Menü1"
+
+#: FMain.form:29
+msgid "Setting"
+msgstr "Beállítások"
+
+#: FMain.form:33 Options.form:93 Safeeyessettings.form:78 Startapp.form:52
+msgid "About"
+msgstr "Rólunk"
+
+#: FMain.form:37 Startapp.form:56
+msgid "Quit"
+msgstr "Kilépés"
+
+#: FMain.form:43
+msgid "Eyes Protect"
+msgstr "Szemek Védelme"
+
+#: OnOff.class:214 OnOff2.class:212 OnOff3.class:212 Startapp.class:228
+msgid "On"
+msgstr "Be"
+
+#: OnOff.class:244 OnOff2.class:242 OnOff3.class:242 Startapp.class:249
+msgid "Dark"
+msgstr "Sötét"
+
+#: OnOff.class:252 OnOff2.class:250 OnOff3.class:250 Options.form:327 Startapp.class:236
+msgid "Light"
+msgstr "Világos"
+
+#: OnOff.class:276 OnOff2.class:274 OnOff3.class:274 Startapp.class:243
+msgid "Auto"
+msgstr "Automatikus"
+
+#: OnOff.class:387 OnOff2.class:383 OnOff3.class:383
+msgid "Lock screen"
+msgstr "Képernyő zárolása"
+
+#: OnOff.class:440 OnOff2.class:436 OnOff3.class:436
+msgid "Do Not Disturb"
+msgstr "Ne zavarjanak"
+
+#: OnOff.class:564 OnOff2.class:560 OnOff3.class:560
+msgid "Night Shift"
+msgstr "Éjszakai üzemmód"
+
+#: OnOff.class:625 OnOff2.class:621 OnOff3.class:621
+msgid "File Drop"
+msgstr "Fájl Küldő"
+
+#: OnOff.class:682 OnOff2.class:678 OnOff3.class:678
+msgid "Eye Safe"
+msgstr "Szem Kimélő"
+
+#: OnOff.class:1054 OnOff2.class:1045 OnOff3.class:1045
+msgid "Send file"
+msgstr "Fájl küldése"
+
+#: OnOff.class:1064 OnOff2.class:1055 OnOff3.class:1055
+msgid "Receive file"
+msgstr "Fájl fogadása"
+
+#: OnOff.class:1089 OnOff2.class:1081 OnOff3.class:1081
+msgid "Eyes Safe settings"
+msgstr "Szem Kímélő beállításai"
+
+#: OnOff.class:1101 OnOff2.class:1093 OnOff3.class:1093
+msgid "Battery info : click here"
+msgstr "Akkumulátor információk:Kattintson ide"
+
+#: OnOff.class:1137 OnOff2.class:1129 OnOff3.class:1129
+msgid "No update available."
+msgstr "Nem érhető el frissítés."
+
+#: OnOff.class:1140 OnOff2.class:1132 OnOff3.class:1132
+msgid " update available."
+msgstr "Frissítések érhetők el."
+
+#: OnOff.form:152 OnOff2.form:147 OnOff3.form:147
+msgid "Wifi"
+msgstr "WiFi"
+
+#: OnOff.form:160
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: OnOff.form:168
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: OnOff.form:183 OnOff2.form:155 OnOff3.form:155 Startapp.class:199
+msgid "Off"
+msgstr "Ki"
+
+#: OnOff.form:349
+msgid "Sound"
+msgstr "Hang"
+
+#: OnOff.form:365
+msgid "Display"
+msgstr "Kijelző"
+
+#: OnOff.form:473 OnOff2.form:414 OnOff3.form:421
+msgid "Computer"
+msgstr "Számítógép"
+
+#: OnOff.form:497 OnOff2.form:438 OnOff3.form:591
+msgid "Auto mode"
+msgstr "Automatikus mód"
+
+#: OnOff.form:635 OnOff2.form:584 OnOff3.form:566
+msgid "Share Wifi"
+msgstr "WiFi megosztása"
+
+#: OnOff.form:652 OnOff2.form:601 OnOff3.form:608
+msgid "Wifi info"
+msgstr "WiFi információk"
+
+#: Options.form:78 Safeeyessettings.form:74 Startapp.form:41
+msgid "Changelog"
+msgstr "Fejlesztési napló"
+
+#: Options.form:82 Startapp.form:45
+msgid "Report a bug"
+msgstr "Hibajelentés küldése"
+
+#: Options.form:86 Safeeyessettings.form:110
+msgid "Donate"
+msgstr "Támogatás"
+
+#: Options.form:116
+msgid "Hide dock wifi & bluetooth icons"
+msgstr "WiFi és Bluetooth tálca ikonjainak elrejtése "
+
+#: Options.form:125
+msgid "Hide dock Sound icon"
+msgstr "Hang tálca ikonjainak elrejtése"
+
+#: Options.form:161
+msgid "On power plug"
+msgstr "Hálózati töltőn"
+
+#: Options.form:169
+msgid "On battery"
+msgstr "Akkumulátoron"
+
+#: Options.form:199
+msgid "Battery charge notification"
+msgstr "Akkumulátor töltési értesítés"
+
+#: Options.form:215
+msgid "Show notification when battery reaches the minimum level of 25% and maximum of 85%. This helps maintain a better battery life."
+msgstr "Értesítés megjelenítése, ha az akkumulátor eléri a minimum 25% -os és a maximum 85% -os szintet. Ez hozzájárul az akkumulátor jobb élettartamának fenntartásához."
+
+#: Options.form:223
+msgid "Display brightness"
+msgstr "Kijelző fényerőssége"
+
+#: Options.form:253
+msgid "Mi Air Earphone popup"
+msgstr "MI Air Fülhalgató felugró értesítés"
+
+#: Options.form:290
+msgid "System update notification"
+msgstr "Rendszerfrissítés értesítés"
+
+#: Options.form:298
+msgid "SOON"
+msgstr "HAMAROSAN"
+
+#: Options.form:307
+msgid "Control Center appearance"
+msgstr "Vezérlőközpont megjelenése"
+
+#: Options.form:315
+msgid "Dock"
+msgstr "Dokk"
+
+#: Options.form:321 Safeeyessettings.form:296
+msgid "Default"
+msgstr "Alap"
+
+#: Options.form:333
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: Options.form:354
+msgid "Animated icons"
+msgstr "Animált ikonok"
+
+#: Options.form:385
+msgid "Show CPU Temp icon"
+msgstr "Processzor hőmérsékletének megjelenítése"
+
+#: Options.form:408
+msgid "Show a notification when CPU reaches this temp limit."
+msgstr "Értesítés megjelenítése, amikor a Processzor eléri ezt a hőmérsékleti határt."
+
+#: Options.form:421
+msgid "°C"
+msgstr "°C"
+
+#: Options.form:430
+msgid "Shorcut Assist"
+msgstr "Parancsikon Asszisztens"
+
+#: Safeeyes.form:51
+msgid "1 - Roll your eyes\n<br><br>\n2 - Tightly close your eyes\n<br><br>\n3 - Rotate your eyes in clockwise direction"
+msgstr "1. - Forgassa a szemét\n<br><br>\n2. - Szorosan csukja be a szemét\ n<br><br>\n3. - Forgassa a szemét az óramutató járásával megegyező irányba"
+
+#: Safeeyessettings.form:158 Startapp.form:34
+msgid "Settings"
+msgstr "Beállítások"
+
+#: Safeeyessettings.form:203
+msgid "Short break duration"
+msgstr "Rövid szünet időtartama"
+
+#: Safeeyessettings.form:215
+msgid "Wechat Pay"
+msgstr "Wechat Fizetés"
+
+#: Safeeyessettings.form:222
+msgid "AliPay"
+msgstr "AliPay Fizetés"
+
+#: Safeeyessettings.form:230
+msgid "For donation with Paypal, click here"
+msgstr "A Paypal támogatáshoz kattintson ide"
+
+#: Safeeyessettings.form:255
+msgid "Thank you for your support"
+msgstr "Köszönjük a támogatását"
+
+#: Safeeyessettings.form:286
+msgid "Play a relaxing sound"
+msgstr "Relaxációs hang lejátszása"
+
+#: Safeeyessettings.form:296
+msgid "Beach"
+msgstr "Tengerpart"
+
+#: Safeeyessettings.form:296
+msgid "Drizzle"
+msgstr "Szemerkélés"
+
+#: Safeeyessettings.form:296
+msgid "Forest"
+msgstr "Erdő"
+
+#: Safeeyessettings.form:296
+msgid "Stove fire"
+msgstr "Kályha tüze"
+
+#: Safeeyessettings.form:296
+msgid "Summer night"
+msgstr "Nyári éjjszaka"
+
+#: Safeeyessettings.form:304
+msgid "Background"
+msgstr "Háttér"
+
+#: Safeeyessettings.form:320
+msgid "Long break"
+msgstr "Hosszú szünet"
+
+#: Safeeyessettings.form:338
+msgid "(mini 10s - max 30s)"
+msgstr "(minimum 10 mp - maximum 30 mp)"
+
+#: Safeeyessettings.form:352
+msgid "(no way to skip breaks)"
+msgstr "(nincs lehetőség a szünetek kihagyására)"
+
+#: Safeeyessettings.form:370
+msgid "(mini 60s - max 120s)"
+msgstr "(minimum 60 mp - maximum 120 mp)"
+
+#: Safeeyessettings.form:379
+msgid "Duration"
+msgstr "Időtartam"
+
+#: Safeeyessettings.form:388
+msgid "Strict break"
+msgstr "Szigorú szünet"
+
+#: Safeeyessettings.form:411
+msgid "Try sound"
+msgstr "Hang kipróbálása"
+
+#: Safeeyessettings.form:446
+msgid "The whole purpose of Eyes Safe is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI."
+msgstr "A Szem Kímélő célja az, hogy szünetet tartson, miközben hosszú ideig dolgozik a számítógépen. A szünet képernyőn néhány olyan gyakorlatot kérünk, amelyek csökkentik az RSI-t."
+
+#: Sharewifi.form:42
+msgid "To share, scan the QR Code with your phone."
+msgstr "A megosztáshoz olvassa be a QR kódot a telefonjával."
+
+#: Startapp.class:676
+msgid "CPU temperature : +"
+msgstr "Processzor hőmérséklete: +"
+
+#: Startapp.class:755
+msgid "notify-send --icon=app4deepin-onoff --app-name='Control Center Tray' \"CCT Eyes Protect : The long break will begin in 5 seconds\""
+msgstr "értesítés-küldés --ikon=app4deepin-onoff --app-name='Tálcai Vezérlőközpont' \"Szemek Védelme : A hosszú szünet 5 másodperc mulva kezdődik\""
+
+#: Wifiinfo.form:107
+msgid "Chanel :"
+msgstr "Csatorna:"
+
+#: Wifiinfo.form:114
+msgid "Security :"
+msgstr "Biztonság:"
+
+#: Wifiinfo.form:121
+msgid "Signal :"
+msgstr "Jel:"
+
+#: Wifiinfo.form:128
+msgid "Rate :"
+msgstr "Arány:"
+
+#: Wifiinfo.form:135
+msgid "SSID :"
+msgstr "SSID:"
+
+#: Wifiinfo.form:142
+msgid "Frequence :"
+msgstr "Frekvencia:"
+
+#: Wifiinfo.form:163
+msgid "Rate Max :"
+msgstr "Maximális arány:"
+
+#: safeeyefull.class:26
+msgid "It's time to take a break.\nSit back in your seat and relax."
+msgstr "Itt az ideje, hogy tartson egy kis szünetet.\nDőljön hátra, és lazítson."
+
+#: safeeyefull.form:51
+msgid "Skip"
+msgstr "Kihagyás"
+
