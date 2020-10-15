@@ -19,7 +19,7 @@ msgstr "https://app4deepin.com"
 
 #: About.form:77
 msgid "Use dynamic wallpaper on Deepin"
-msgstr "Folosiți tapet dinamic pe Deepin"
+msgstr "Folosiți imagine de fundal dinamic pe Deepin"
 
 #: FMain.form:38
 msgid "Menu1"
@@ -47,7 +47,7 @@ msgstr "Aplică"
 
 #: FMain.form:119
 msgid "Choose dynamic wallpaper"
-msgstr "Alegeți tapet dinamic"
+msgstr "Alegeți imagine de fundal dinamic"
 
 #: FMain.form:127
 msgid "Activate"
@@ -55,7 +55,7 @@ msgstr "Activați"
 
 #: FMain.form:165
 msgid "Wall Changer is installed !\n\nThey can't work together at the same time.\n\nPlease delete it before to use Dynamic Wall."
-msgstr Schimbătorul de tapet este instalat!\n\Nu pot funcționa împreună în același timp.\n\nVă rugăm să îl ștergeți înainte de a utiliza Dynamic Wall."
+msgstr Wall Changer este instalat!\n\Nu pot funcționa împreună în același timp.\n\nVă rugăm să îl ștergeți înainte de a utiliza Dynamic Wall."
 
 #: FMain.class:29
 msgid "Addon installed"
