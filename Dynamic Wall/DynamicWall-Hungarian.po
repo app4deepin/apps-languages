@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DynamicWall 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:32 UTC\n"
-"Last-Translator: david <david@david-PC>\n"
+"Last-Translator: Bajza Béla\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -92,3 +92,4 @@ msgstr "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
 #: FMain.class:68
 msgid "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
 msgstr "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
+
