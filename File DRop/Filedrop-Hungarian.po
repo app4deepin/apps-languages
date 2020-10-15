@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Filetransfert 3.13.0\n"
 "PO-Revision-Date: 2020-10-09 08:32 UTC\n"
-"Last-Translator: david <david@david-PC>\n"
+"Last-Translator: Bajza Béla\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -139,7 +139,7 @@ msgstr "Beállítások"
 
 #: start.form:47
 msgid "Changelog"
-msgstr "Fejlesztői napló"
+msgstr "Fejlesztési napló"
 
 #: start.form:51
 msgid "Report a bug"
@@ -168,3 +168,4 @@ msgstr "Többszörös fájlok vagy mappák küldése"
 #: start.form:156
 msgid "Please check your network connection"
 msgstr "Kérjük ellenőrizze a hálózati kapcsolatát"
+
