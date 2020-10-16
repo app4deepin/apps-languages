@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WallChanger 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:32 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:33
+msgid "Wall Changer"
+msgstr "Wall Changer"
+
+#: About.form:58
+msgid "A new wallpaper every day"
+msgstr "Μια νέα ταπετσαρία κάθε μέρα"
+
+#: About.form:75
+msgid "Based on Bing desktop wallpaper changer (link)"
+msgstr "Βασισμένο στο Bing desktop wallpaper changer (link)"
+
+#: About.form:91
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:36
+msgid "Menu1"
+msgstr "Μενού1"
+
+#: FMain.form:40
+msgid "Changelog"
+msgstr "Αλλαγή αρχείου καταγραφής"
+
+#: FMain.form:44
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+#: FMain.form:51
+msgid "About"
+msgstr "Σχετικά με"
+
+#: FMain.form:55
+msgid "Quit"
+msgstr "Έξοδος"
+
+#: FMain.form:75
+msgid "Max size of wallpapers folder : "
+msgstr "Μέγιστο μέγεθος φακέλου ταπετσαριών : "
+
+#: FMain.form:115
+msgid "Wall Changer - Settings"
+msgstr "Wall Changer - Ρυθμίσεις"
+
+#: FMain.form:124
+msgid "Delete downloaded wallpapers"
+msgstr "Διαγράψτε τις ταπετσαρίες που έχετε κατεβάσει"
+
+#: FMain.form:125 Suppress.form:40
+msgid "DELETE"
+msgstr "ΔΙΑΓΡΑΦΉ"
+
+#: FMain.form:132
+msgid "Bing Wallpaper - area : "
+msgstr "Bing Wallpaper - περιοχή : "
+
+#: FMain.form:139
+msgid "Auto (Default)"
+msgstr "Αυτόματο (Προεπιλογή)"
+
+#: FMain.form:139
+msgid "Canada"
+msgstr "Καναδάς"
+
+#: FMain.form:139
+msgid "China"
+msgstr "Κίνα"
+
+#: FMain.form:139
+msgid "France"
+msgstr "Γαλιά"
+
+#: FMain.form:139
+msgid "Germany"
+msgstr "Γερμανία"
+
+#: FMain.form:139
+msgid "India"
+msgstr "Ινδία"
+
+#: FMain.form:139
+msgid "Japan"
+msgstr "Ιαπωνία"
+
+#: FMain.form:139
+msgid "Spain"
+msgstr "Ισπανία"
+
+#: FMain.form:139
+msgid "Switzerland"
+msgstr "Ελβετία"
+
+#: FMain.form:139
+msgid "UK"
+msgstr "Βρετανία"
+
+#: FMain.form:139
+msgid "US"
+msgstr "ΗΠΑ"
+
+#: FMain.form:155
+msgid "Apply new settings"
+msgstr "Εφαρμογή νέας ρύθμισης"
+
+#: FMain.form:156
+msgid "APPLY"
+msgstr "ΙΣΧΥΟΥΝ"
+
+#: FMain.form:162
+msgid "View wallpaper folder"
+msgstr "Προβολή φακέλου ταπετσαρίας"
+
+#: FMain.form:174
+msgid "Applying new zone "
+msgstr "Εφαρμογή νέας ζώνης"
+
+#: FMain.class:25
+msgid "~/Pictures/Wall-Changer"
+msgstr "~/Pictures/Wall-Changer"
+
+#: FMain.class:28 Suppress.class:12
+msgid "Downloaded wallpaper : "
+msgstr "Λήψη ταπετσαρίας : "
+
+#: Suppress.form:54
+msgid "Please confirm the deletion of the downloaded wallpapers."
+msgstr "Επιβεβαιώστε τη διαγραφή των ταπετσαριών που έχετε κατεβάσει."
+
+#: Suppress.form:75
+msgid "Close"
+msgstr "Κλείσε"
+
+#: Suppress.class:6
+msgid " wallpapers will be deleted !"
+msgstr " οι ταπετσαρίες θα διαγραφούν !"
+
+#: Suppress.class:25
+msgid "Wallpaper deleted !"
+msgstr "Η ταπετσαρία διαγράφηκε !"
