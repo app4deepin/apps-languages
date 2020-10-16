@@ -1,0 +1,299 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:31 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:60 FMain.form:50
+msgid "Weather"
+msgstr "Καιρός"
+
+#: .project:2
+msgid "Weather App for Deepin v20"
+msgstr "Εφαρμογή καιρού για Deepin v20"
+
+#: About.form:17 FMain.form:84
+msgid "About"
+msgstr "Σχετικά με"
+
+#: About.form:50
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:86
+msgid "Weather app for Deepin"
+msgstr "Εφαρμογή καιρού για Deepin"
+
+#: FMain.form:57
+msgid "Menu1"
+msgstr "Μενού1"
+
+#: FMain.form:61
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: FMain.form:65
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: FMain.form:72
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+#: FMain.form:76
+msgid "Changelog"
+msgstr "Αλλαγή αρχείου καταγραφής"
+
+#: FMain.form:80 Helper.form:30
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: FMain.form:88
+msgid "Quit"
+msgstr "Έξοδος"
+
+#: FMain.form:110
+msgid "pm 2.5"
+msgstr "μμ 2.5"
+
+#: FMain.form:181
+msgid "Humidity"
+msgstr "Υγρασία"
+
+#: FMain.form:209
+msgid "Wind (km/h)"
+msgstr "Άνεμος (km/h)"
+
+#: FMain.form:270
+msgid "Sorry, we are running out of queries to the weather service at the moment.\n\nPlease try later"
+msgstr "Δυστυχώς, προς το παρόν εξαντλούνται τα αιτήματα για την υπηρεσία καιρού.\n\nΔοκιμάστε αργότερα"
+
+#: FMain.class:71
+msgid "Refreshing data ..."
+msgstr "Ανανέωση δεδομένων ..."
+
+#: FMain.class:84
+msgid "Refreshing data for the first launch"
+msgstr "Ανανέωση δεδομένων για την πρώτη εκτόξευση"
+
+#: FMain.class:87
+msgid "Refreshing data for the first launch ."
+msgstr "Ανανέωση δεδομένων για την πρώτη εκτόξευση ."
+
+#: FMain.class:91
+msgid "Refreshing data for the first launch .."
+msgstr "Ανανέωση δεδομένων για την πρώτη εκτόξευση .."
+
+#: FMain.class:95
+msgid "Refreshing data for the first launch ..."
+msgstr "Ανανέωση δεδομένων για την πρώτη εκτόξευση ..."
+
+#: FMain.class:99
+msgid "Refreshing data for the first launch ...."
+msgstr "Ανανέωση δεδομένων για την πρώτη εκτόξευση ...."
+
+#: FMain.class:242
+msgid "Good"
+msgstr "Καλός"
+
+#: FMain.class:249
+msgid "Moderate"
+msgstr "Μέτριος"
+
+#: FMain.class:256
+msgid "Unhealthy for Sensitive Groups"
+msgstr "Ανθυγιεινή για ευαίσθητες ομάδες"
+
+#: FMain.class:263
+msgid "Unhealthy"
+msgstr "Ανθυγιεινός"
+
+#: FMain.class:270
+msgid "Very Unhealthy"
+msgstr "Πολύ ανθυγιεινό"
+
+#: FMain.class:277
+msgid "Hazardous"
+msgstr "Επικίνδυνος"
+
+#: FMain.class:299
+msgid "Clear"
+msgstr "Καθαρός"
+
+#: FMain.class:306
+msgid "Sunny"
+msgstr "Ηλιοφάνεια"
+
+#: FMain.class:313
+msgid "Partly cloudy"
+msgstr "Μερικώς συννεφιασμένος"
+
+#: FMain.class:321
+msgid "Cloudy"
+msgstr "Συννεφιασμένος"
+
+#: FMain.class:329
+msgid "Overcast"
+msgstr "Νεφελώδης"
+
+#: FMain.class:337
+msgid "Mist"
+msgstr "Ομίχλη"
+
+#: FMain.class:345
+msgid "Patchy rain possible"
+msgstr "Υπάρχει πιθανότητα βροχής σε ορισμένα μέρη"
+
+#: FMain.class:353
+msgid "Patchy snow possible"
+msgstr "Υπάρχει πιθανότητα χιονιού σε ορισμένα μέρη"
+
+#: FMain.class:361
+msgid "Patchy freezing drizzle possible"
+msgstr "Πιθανότητα παγωμένο ψιλόβροχο σε ορισμένα μέρη"
+
+#: FMain.class:369
+msgid "Thundery outbreaks possible"
+msgstr "Πιθανές βροντές"
+
+#: FMain.class:377
+msgid "Blowing snow"
+msgstr "Ανυψούμενο χιόνι"
+
+#: FMain.class:385
+msgid "Blizzard"
+msgstr "Χιονοθύελλα"
+
+#: FMain.class:393
+msgid "Freezing fog"
+msgstr "Παγωμένη ομίχλη"
+
+#: FMain.class:401
+msgid "Fog"
+msgstr "Ομίχλη"
+
+#: FMain.class:409
+msgid "Patchy light rain"
+msgstr "Πιθανότητα ελαφριά βροχή"
+
+#: FMain.class:417
+msgid "Heavy rain"
+msgstr "Δυνατή βροχή"
+
+#: FMain.class:425
+msgid "Moderate freezing rain"
+msgstr "Μέτρια παγωμένη βροχή"
+
+#: FMain.class:433
+msgid "Moderate sleet"
+msgstr "Μέτριο χιονόνερο"
+
+#: FMain.class:441
+msgid "Moderate snow"
+msgstr "Μέτριο χιόνι"
+
+#: FMain.class:449
+msgid "Heavy snow"
+msgstr "Δυνατό χιόνι"
+
+#: FMain.class:457
+msgid "Γρήγορη Light rain shower"
+msgstr "Μπόρα Ψιλοβρόχι"
+
+#: FMain.class:465
+msgid "Heavy rain shower"
+msgstr "Μπόρα Δυνατή βροχή"
+
+#: FMain.class:473
+msgid "Moderate sleet shower"
+msgstr "Μπόρα μέτριο χιονόνερο"
+
+#: FMain.class:481
+msgid "Heavy snow shower"
+msgstr "Μπόρα δυνατό χιόνι"
+
+#: FMain.class:489
+msgid "Moderate rain with thunder"
+msgstr "Μέτρια βροχή με βροντή"
+
+#: FMain.class:497
+msgid "Moderate snow with thunder"
+msgstr "Μέτριο χιόνι με βροντές"
+
+#: FMain.class:996
+msgid "please"
+msgstr "Παρακαλώ"
+
+#: FMain.class:2762 Setting.class:179
+msgid "Loading new data with the new settings..."
+msgstr "Φόρτωση νέων δεδομένων με τις νέες ρυθμίσεις...."
+
+#: Helper.form:36
+msgid "When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\nYou can change weather location in setting."
+msgstr "Κατά την εκκίνηση της εφαρμογής, θα δείτε τον τοπικό καιρό σας με ένα πλήρες σύνολο πρόσθετων πληροφοριών, όπως υγρασία, άνεμος (km/h), κατεύθυνση ανέμου και ποιότητα αέρα.\nΜπορείτε να αλλάξετε την τοποθεσία του καιρού στη ρύθμιση."
+
+#: Helper.form:42
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: Helper.form:49
+msgid "Weather data update"
+msgstr "Ενημέρωση δεδομένων καιρού"
+
+#: Helper.form:55
+msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
+msgstr "Τα δεδομένα καιρού για το κύριο παράθυρο και το γραφικό στοιχείο ενημερώνονται κάθε 30, 45 λεπτά ή 1 ώρα όπως εσείς επιλέγετε στη ρύθμιση."
+
+#: Helper.form:60
+msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
+msgstr "Μπορείτε να ενημερώσετε με μη αυτόματο τρόπο τα δεδομένα κάνοντας κλικ στο κουμπί Ανανέωση στο κύριο παράθυρο ή στο γραφικό στοιχείο της επιφάνειας εργασίας."
+
+#: Setting.form:47
+msgid "Your city"
+msgstr "Η πόλη σας"
+
+#: Setting.form:60
+msgid "30 minutes"
+msgstr "30 λεπτά"
+
+#: Setting.form:60
+msgid "45 minutes"
+msgstr "45 λεπτά"
+
+#: Setting.form:60
+msgid "1 hour"
+msgstr "1 ώρα"
+
+#: Setting.form:60
+msgid "3 hours"
+msgstr "3 ώρες"
+
+#: Setting.form:60
+msgid "6 hours"
+msgstr "6 ώρες"
+
+#: Setting.form:60
+msgid "12 hours"
+msgstr "12 ώρες"
+
+#: Setting.form:67
+msgid "Frequency of updating weather data:"
+msgstr "Συχνότητα ενημέρωσης δεδομένων καιρού:"
+
+#: Setting.form:74
+msgid "Localisation auto"
+msgstr "Αυτόματος εντοπισμός"
+
+#: Setting.form:100
+msgid "Show desktop Widget"
+msgstr "Εμφάνιση γραφικού στοιχείου."
+ "
+
+#: Setting.form:107
+msgid "Show tray icon"
+msgstr "Εμφάνιση εικονιδίου στο tray"
