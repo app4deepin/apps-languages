@@ -1,0 +1,270 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Web2App 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:58
+msgid "Web 2 App"
+msgstr "Web 2 App"
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:77
+msgid "Run websites as if they were apps"
+msgstr "Εκτελέστε ιστότοπους σαν να ήταν εφαρμογές"
+
+#: FMain.form:50
+msgid "Menu1"
+msgstr "Μενού1"
+
+#: FMain.form:54
+msgid "Delete WebApp"
+msgstr "Διαγραφή WebApp"
+
+#: FMain.form:58
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+#: FMain.form:65
+msgid "Donate"
+msgstr "Δωρεές"
+
+#: FMain.form:69
+msgid "Changelog"
+msgstr "Αλλαγή αρχείου καταγραφής"
+
+#: FMain.form:73
+msgid "About"
+msgstr "Σχετικά με"
+
+#: FMain.form:101
+msgid "Link "
+msgstr "Σύνδεσμος "
+
+#: FMain.form:107
+msgid "App icon"
+msgstr "Εικονίδιο εφαρμογής"
+
+#: FMain.form:113
+msgid "Enter the app name"
+msgstr "Εισαγάγετε το όνομα της εφαρμογής"
+
+#: FMain.form:142
+msgid "Only Letters and numbers"
+msgstr "Μόνο γράμματα και αριθμοί"
+
+#: FMain.form:150
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: FMain.form:156
+msgid "Choose"
+msgstr "Επιλογή"
+
+#: FMain.form:164
+msgid "-"
+msgstr "-"
+
+#: FMain.form:164
+msgid "Internet"
+msgstr "Διαδίκτυο"
+
+#: FMain.form:164
+msgid "Chat"
+msgstr "Ομιλία"
+
+#: FMain.form:164
+msgid "Music"
+msgstr "Μουσική"
+
+#: FMain.form:164
+msgid "Video"
+msgstr "Βίντεο"
+
+#: FMain.form:164
+msgid "Graphics"
+msgstr "Γραφικά"
+
+#: FMain.form:164
+msgid "Office"
+msgstr "Γραφείο"
+
+#: FMain.form:164
+msgid "Development"
+msgstr "Ανάπτυξη"
+
+#: FMain.form:164
+msgid "System"
+msgstr "Σύστημα"
+
+#: FMain.form:164
+msgid "Others"
+msgstr "Τα υπόλοιπα"
+
+#: FMain.form:227
+msgid "Invalid character"
+msgstr "Μη έγκυρος χαρακτήρας"
+
+#: FMain.form:234
+msgid "* Web2App use Chrome technology to use Widevine DRM."
+msgstr "* Το Web2App χρησιμοποιεί τεχνολογία Chrome για να χρησιμοποιήσει το Widevine DRM."
+
+#: FMain.form:240
+msgid "Widevine plugin (for Netflix, Amazon Prime Video...) *"
+msgstr "Πρόσθετο Widevine (για Netflix, Amazon Prime Video ...) *"
+
+#: FMain.form:248
+msgid "CREATE"
+msgstr "ΔΗΜΙΟΥΡΓΊΑ"
+
+#: FMain.form:268
+msgid "Invalid character : / , \" '"
+msgstr "Μη έγκυρος χαρακτήρας : / , \" '"
+
+#: FMain.form:275
+msgid "without https:// (ex : app4deepin.com)"
+msgstr "χωρίς https:// (ex : app4deepin.com)"
+
+#: FMain.class:101 gerer.class:51
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: FMain.class:102
+msgid " Please give a name for the shortcut"
+msgstr " Δώστε ένα όνομα για τη συντόμευση"
+
+#: FMain.class:105
+msgid " Please give select a Appimage or executable"
+msgstr " Παρακαλώ επιλέξτε Appimage ή εκτελέσιμο"
+
+#: FMain.class:108
+msgid " Please give select an icon"
+msgstr " Παρακαλώ επιλέξτε ένα εικονίδιο"
+
+#: FMain.class:490
+msgid "Can't copy & paste a link !"
+msgstr "Δεν είναι δυνατή η αντιγραφή και επικόλληση ενός συνδέσμου !"
+
+#: FMain.class:496
+msgid "Info"
+msgstr "Πληροφορίες"
+
+#: FMain.class:497
+msgid " Please enter a name for the webapp !"
+msgstr " Εισαγάγετε ένα όνομα για την εφαρμογή ιστού !"
+
+#: FMain.class:503
+msgid " A webapp already exist with this name !"
+msgstr "Υπάρχει ήδη μια εφαρμογή ιστού με αυτό το όνομα !"
+
+#: Help.form:45
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: Help.form:51
+msgid "The AppImage file will be moved automatically to an application folder which has been specially created to group your AppImages."
+msgstr "Το αρχείο AppImage θα μετακινηθεί αυτόματα σε ένα φάκελο εφαρμογής που έχει δημιουργηθεί ειδικά για την ομαδοποίηση των AppImages σας."
+
+#: Help.form:58
+msgid "3 - Choose an icon"
+msgstr "3 - Επιλέξτε ένα εικονίδιο"
+
+#: Help.form:64
+msgid "Choose an image (PNG, JPG or SVG). The icon will be copied automatically to an icon folder which has been specially created your icons."
+msgstr "Επιλέξτε μια εικόνα (PNG, JPG ή SVG).  Το εικονίδιο θα αντιγραφεί αυτόματα σε ένα φάκελο εικονιδίων που έχει δημιουργηθεί ειδικά για τα εικονίδια σας."
+
+#: Help.form:71
+msgid "1 - Type a name for the shortcut"
+msgstr "1 - Πληκτρολογήστε ένα όνομα για τη συντόμευση"
+
+#: Help.form:78
+msgid "2 - Choose the AppImage file"
+msgstr "2 - Επιλέξτε το αρχείο AppImage"
+
+#: Help.form:85
+msgid "4 - Select a category and clic create button"
+msgstr "4 - Επιλέξτε μια κατηγορία και κάντε κλικ στο κουμπί δημιουργίας"
+
+#: Help.form:92
+msgid "1 - Manage your applications"
+msgstr "1 - Διαχειριστείτε τις εφαρμογές σας"
+
+#: Help.form:98
+msgid "You can manage your installed AppImage application by going to the menu at the top right. You will be able to see the installed applications and delete the one that you no longer use."
+msgstr "Μπορείτε να διαχειριστείτε την εγκατεστημένη εφαρμογή AppImage μεταβαίνοντας στο μενού επάνω δεξιά.  Θα μπορείτε να δείτε τις εγκατεστημένες εφαρμογές και να διαγράψετε αυτήν που δεν χρησιμοποιείτε πλέον."
+
+#: Help.form:105
+msgid "Create a shorcut"
+msgstr ""
+
+#: Help.form:112
+msgid "Manage your applications"
+msgstr "Δημιουργήστε μια συντόμευση"
+
+#: Help.form:119
+msgid "2 - Update your applications"
+msgstr "2 - Ενημερώστε τις εφαρμογές σας"
+
+#: Help.form:125
+msgid "if your appimage does not update by itself and you have to download the new version, you will have to delete the installed one before creating a new shortcut for the new version."
+msgstr "εάν η εφαρμογή σας δεν ενημερώνεται από μόνη της και πρέπει να κατεβάσετε τη νέα έκδοση, θα πρέπει να διαγράψετε την εγκατεστημένη πριν δημιουργήσετε μια νέα συντόμευση για τη νέα έκδοση."
+
+#: appcreated.form:53
+msgid "Shortcut created !"
+msgstr "Δημιουργήθηκε συντόμευση !"
+
+#: appcreated.form:70
+msgid "New shortcut"
+msgstr Νέα συντόμευση""
+
+#: appcreated.form:79
+msgid "Quit"
+msgstr "Έξοδος"
+
+#: donate.form:56
+msgid "Thank you for your support"
+msgstr "Σας ευχαριστούμε για την υποστήριξή σας"
+
+#: gerer.form:56
+msgid "Applications folder"
+msgstr "Φάκελος εφαρμογών"
+
+#: gerer.form:66
+msgid "DELETE"
+msgstr "ΔΙΑΓΡΑΦΉ"
+
+#: gerer.class:13
+msgid " webapp installed"
+msgstr " εγκατεστημένη εφαρμογή ιστού"
+
+#: gerer.class:21
+msgid " webapps installed"
+msgstr " εγκατεστημένες εφαρμογές ιστού"
+
+#: gerer.class:52
+msgid " Please select an app for deleting"
+msgstr " Επιλέξτε μια εφαρμογή για διαγραφή"
+
+#: gerer.class:62
+msgid "Done"
+msgstr "Ολοκληρώθηκε"
+
+#: gerer.class:63
+msgid " webApp deleted"
+msgstr " η εφαρμογή ιστού διαγράφηκε"
+
+#: imageselect.form:28
+msgid "Select"
+msgstr "Επιλογή"
+
+#: imageselect.form:34
+msgid "Cancel"
+msgstr "Ακύρωση"
