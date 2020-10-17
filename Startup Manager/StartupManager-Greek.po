@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StartupManager 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:30 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:57 FMain.form:178
+msgid "Startup Manager"
+msgstr "Διαχειριστής εκκίνησης"
+
+#: About.form:47
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:54
+msgid "Menu1"
+msgstr "Μενού1"
+
+#: FMain.form:58
+msgid "Changelog"
+msgstr "Αλλαγή αρχείου καταγραφής"
+
+#: FMain.form:62
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+#: FMain.form:66
+msgid "Donate"
+msgstr "Δωρεές"
+
+#: FMain.form:73
+msgid "About"
+msgstr "Σχετικά με"
+
+#: FMain.form:118
+msgid "Name"
+msgstr "Όνομα"
+
+#: FMain.form:129
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: FMain.form:145
+msgid "Command"
+msgstr "Εντολή"
+
+#: FMain.form:151
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: FMain.form:158
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: FMain.form:184
+msgid "Terminal"
+msgstr "Τερματικό"
+
+#: FMain.form:206
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: FMain.form:232
+msgid "Save"
+msgstr "Σώσει"
+
+#: FMain.form:239
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: FMain.form:254
+msgid "User"
+msgstr "Χρήστης"
+
+#: FMain.form:263
+msgid "System "
+msgstr "Σύστημα"
+
+#: FMain.form:279
+msgid "Unlock"
+msgstr "Ξεκλείδωμα"
+
+#: FMain.class:124
+msgid "Select an item before !"
+msgstr "Επιλέξτε ένα στοιχείο πριν !"
+
+#: FMain.class:143
+msgid "Delete this item"
+msgstr "Διαγραφή αυτού του αντικειμένου"
+
+#: FMain.class:145
+msgid "Are you sure ?"
+msgstr "Είστε σίγουροι ?"
+
+#: FMain.class:145
+msgid "Ok"
+msgstr "Οκ"
+
+#: FMain.class:145 SelectDesktop.form:40 Selectcommand.form:40
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: FMain.class:317
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+#: FMain.class:319
+msgid "Please take care with this items !"
+msgstr "Προσέξτε με αυτά τα αντικείμενα !"
+
+#: SelectDesktop.form:34 Selectcommand.form:34
+msgid "Select"
+msgstr "Επιλογή"
+
+#: Selectcommand.class:12
+msgid "/"
+msgstr "/"
