@@ -1,0 +1,534 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OnOff 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:28 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:35 Startapp.form:22
+msgid "Control Center Tray"
+msgstr "Control Center Tray"
+
+#: About.form:44
+msgid "Version : 0.9.0-BETA"
+msgstr "Εκδοχή : 0.9.0-BETA"
+
+#: About.form:73
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: AssistSettings.class:21
+msgid "Choose your shortcuts"
+msgstr "Επιλέξτε τις συντομεύσεις σας"
+
+#: AssistSettings.form:150
+msgid "Shortcut Assist appearance"
+msgstr "Εμφάνιση Shortcut Assist"
+
+#: Batteryinfo.class:53
+msgid "State : charging"
+msgstr "Κατάσταση : φόρτιση"
+
+#: Batteryinfo.class:56
+msgid "State : discharging"
+msgstr "Κατάσταση : εκφόρτιση"
+
+#: Batteryinfo.class:59
+msgid "State : Not available"
+msgstr "Κατάσταση : Μη διαθέσιμο"
+
+#: Batteryinfo.class:64
+msgid "Design capacity : "
+msgstr "Ικανότητα σχεδιασμού : "
+
+#: Batteryinfo.class:65
+msgid "Current capacity : "
+msgstr "Τρέχουσα χωρητικότητα : "
+
+#: Batteryinfo.class:66
+msgid "Energy : "
+msgstr "Ενεργητικότητα : "
+
+#: Batteryinfo.class:67
+msgid "Energy Full : "
+msgstr "Πλήρης ενέργεια : "
+
+#: Batteryinfo.class:68
+msgid "Health : "
+msgstr "Υγεία : "
+
+#: Batteryinfo.class:69
+msgid "Voltage : "
+msgstr "Τάση : "
+
+#: Batteryinfo.class:72
+msgid "Time to full : "
+msgstr "Ώρα να γεμίσει : "
+
+#: Batteryinfo.class:74
+msgid "Time to empty : "
+msgstr "Ώρα να αδειάσει : "
+
+#: Batteryinfo.class:78
+msgid "Technology : Not available"
+msgstr "Τεχνολογία : Μη διαθέσιμο"
+
+#: Batteryinfo.class:80
+msgid "Technology : "
+msgstr "Τεχνολογία: "
+
+#: Batteryinfo.class:142
+msgid "Battery level : "
+msgstr "Επίπεδο μπαταρίας : "
+
+#: Batteryinfo.form:52
+msgid "Capacity :"
+msgstr "Χωρητικότητα :"
+
+#: Batteryinfo.form:59
+msgid "Size :"
+msgstr "Μέγεθος :"
+
+#: Batteryinfo.form:66
+msgid "Voltage :"
+msgstr "Τάση :"
+
+#: Batteryinfo.form:73
+msgid "Energy :"
+msgstr "Ενέργεια :"
+
+#: Batteryinfo.form:80
+msgid "Energy full :"
+msgstr "Πλήρης ενέργεια :"
+
+#: Batteryinfo.form:87
+msgid "Technology :"
+msgstr "Τεχνολογία :"
+
+#: Batteryinfo.form:94
+msgid "State :"
+msgstr "Κατάσταση :"
+
+#: Batteryinfo.form:108
+msgid "Battery level :"
+msgstr "Επίπεδο μπαταρίας :"
+
+#: Batteryinfo.form:121
+msgid "Time to empty :"
+msgstr "Ώρα να αδειάσει :"
+
+#: Batteryinfo.form:145 OnOff.form:450 OnOff2.form:391 OnOff3.form:398
+msgid "Mouse"
+msgstr "Ποντίκι"
+
+#: CpuInfo.class:11
+msgid "cat /proc/cpuinfo | grep -i '^model name' | head -1 | sed 's/model name:*.//' | sed 's/:*.//' | sed 's/@.*//'"
+msgstr "cat /proc/cpuinfo | grep -i '^model name' | head -1 | sed 's/model name:*.//' | sed 's/:*.//' | sed 's/@.*//'"
+
+#: CpuInfo.class:34
+msgid "CPU : "
+msgstr "ΕΠΕΞΕΡΓΑΣΤΗΣ : "
+
+#: CpuInfo.class:35
+msgid "Max : "
+msgstr "Μέγ : "
+
+#: CpuInfo.class:36
+msgid "Min : "
+msgstr "Ελάχ : "
+
+#: CpuInfo.form:54
+msgid "Core 0 : -"
+msgstr "Πυρήνας 0 : -"
+
+#: CpuInfo.form:61
+msgid "Core 1 : -"
+msgstr "Πυρήνας 1 : -"
+
+#: CpuInfo.form:68
+msgid "Core 2 : -"
+msgstr "Πυρήνας 2 : -"
+
+#: CpuInfo.form:75
+msgid "Core 3 : -"
+msgstr "Πυρήνας 3 : -"
+
+#: CpuInfo.form:82
+msgid "Core 4 : -"
+msgstr "Πυρήνας 4 : -"
+
+#: CpuInfo.form:89
+msgid "Core 5 : -"
+msgstr "Πυρήνας 5 : -"
+
+#: CpuInfo.form:96
+msgid "Core 6 : -"
+msgstr "Πυρήνας 6 : -"
+
+#: CpuInfo.form:103
+msgid "Core 7 : -"
+msgstr "Πυρήνας 7 : -"
+
+#: CpuInfo.form:114
+msgid "CPU"
+msgstr "ΕΠΕΞΕΡΓΑΣΤΗΣ"
+
+#: CpuInfo.form:121
+msgid "CPU Max"
+msgstr "Επεξ Μέγ"
+
+#: CpuInfo.form:128
+msgid "CPU Mini"
+msgstr "Επεξ Ελάχ"
+
+#: FMain.class:61
+msgid "notify-send --icon=app4deepin-eyesafe \"Eyes Protect : The long break will begin in 5 seconds\""
+msgstr "notify-send --icon=app4deepin-eyesafe \"Eyes Protect : The long break will begin in 5 seconds\""
+
+#: FMain.form:25 Options.form:74 Safeeyessettings.form:70 Startapp.form:30
+msgid "Menu1"
+msgstr "Μενού1"
+
+#: FMain.form:29
+msgid "Setting"
+msgstr "Ρυθμίσεις"
+
+#: FMain.form:33 Options.form:93 Safeeyessettings.form:78 Startapp.form:52
+msgid "About"
+msgstr "Σχετικά με"
+
+#: FMain.form:37 Startapp.form:56
+msgid "Quit"
+msgstr "Έξοδος"
+
+#: FMain.form:43
+msgid "Eyes Protect"
+msgstr "Προστασία των ματιών"
+
+#: OnOff.class:214 OnOff2.class:212 OnOff3.class:212 Startapp.class:228
+msgid "On"
+msgstr "Ενεργό"
+
+#: OnOff.class:244 OnOff2.class:242 OnOff3.class:242 Startapp.class:249
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: OnOff.class:252 OnOff2.class:250 OnOff3.class:250 Options.form:327 Startapp.class:236
+msgid "Light"
+msgstr "Ανοικτό"
+
+#: OnOff.class:276 OnOff2.class:274 OnOff3.class:274 Startapp.class:243
+msgid "Auto"
+msgstr "Αυτόματο"
+
+#: OnOff.class:387 OnOff2.class:383 OnOff3.class:383
+msgid "Lock screen"
+msgstr "Κλείδωμα οθόνης"
+
+#: OnOff.class:440 OnOff2.class:436 OnOff3.class:436
+msgid "Do Not Disturb"
+msgstr "Μην ενοχλείτε"
+
+#: OnOff.class:564 OnOff2.class:560 OnOff3.class:560
+msgid "Night Shift"
+msgstr "Βραδινή βάρδια"
+
+#: OnOff.class:625 OnOff2.class:621 OnOff3.class:621
+msgid "File Drop"
+msgstr "File Drop"
+
+#: OnOff.class:682 OnOff2.class:678 OnOff3.class:678
+msgid "Eye Safe"
+msgstr "Eye Safe"
+
+#: OnOff.class:1054 OnOff2.class:1045 OnOff3.class:1045
+msgid "Send file"
+msgstr "Αποστολή αρχείου"
+
+#: OnOff.class:1064 OnOff2.class:1055 OnOff3.class:1055
+msgid "Receive file"
+msgstr "Λήψη αρχείου"
+
+#: OnOff.class:1089 OnOff2.class:1081 OnOff3.class:1081
+msgid "Eyes Safe settings"
+msgstr "Ρυθμίσεις Eyes Safe"
+
+#: OnOff.class:1101 OnOff2.class:1093 OnOff3.class:1093
+msgid "Battery info : click here"
+msgstr "Πληροφορίες μπαταρίας : κάντε κλικ εδώ"
+
+#: OnOff.class:1137 OnOff2.class:1129 OnOff3.class:1129
+msgid "No update available."
+msgstr "Δεν υπάρχει διαθέσιμη ενημέρωση."
+
+#: OnOff.class:1140 OnOff2.class:1132 OnOff3.class:1132
+msgid " update available."
+msgstr "υπάρχει διαθέσιμη ενημέρωση."
+
+#: OnOff.form:152 OnOff2.form:147 OnOff3.form:147
+msgid "Wifi"
+msgstr "Wifi"
+
+#: OnOff.form:160
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: OnOff.form:168
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: OnOff.form:183 OnOff2.form:155 OnOff3.form:155 Startapp.class:199
+msgid "Off"
+msgstr "Ανενεργό"
+
+#: OnOff.form:349
+msgid "Sound"
+msgstr "Ήχος"
+
+#: OnOff.form:365
+msgid "Display"
+msgstr "Οθόνη"
+
+#: OnOff.form:473 OnOff2.form:414 OnOff3.form:421
+msgid "Computer"
+msgstr "Υπολογιστή"
+
+#: OnOff.form:497 OnOff2.form:438 OnOff3.form:591
+msgid "Auto mode"
+msgstr "Αυτόματη λειτουργία"
+
+#: OnOff.form:635 OnOff2.form:584 OnOff3.form:566
+msgid "Share Wifi"
+msgstr "Μοιραστείτε Wifi"
+
+#: OnOff.form:652 OnOff2.form:601 OnOff3.form:608
+msgid "Wifi info"
+msgstr "Πληροφορίες WiFi"
+
+#: Options.form:78 Safeeyessettings.form:74 Startapp.form:41
+msgid "Changelog"
+msgstr "Αλλαγή αρχείου καταγραφής"
+
+#: Options.form:82 Startapp.form:45
+msgid "Report a bug"
+msgstr "Αναφορά σφάλματος"
+
+#: Options.form:86 Safeeyessettings.form:110
+msgid "Donate"
+msgstr "Δωρεές"
+
+#: Options.form:116
+msgid "Hide dock wifi & bluetooth icons"
+msgstr "Απόκρυψη εικονιδίων σύνδεσης WiFi και Bluetooth"
+
+#: Options.form:125
+msgid "Hide dock Sound icon"
+msgstr "Απόκρυψη εικονιδίου ήχου"
+
+#: Options.form:161
+msgid "On power plug"
+msgstr "Στο βύσμα τροφοδοσίας"
+
+#: Options.form:169
+msgid "On battery"
+msgstr "Με μπαταρία"
+
+#: Options.form:199
+msgid "Battery charge notification"
+msgstr "Ειδοποίηση φόρτισης μπαταρίας"
+
+#: Options.form:215
+msgid "Show notification when battery reaches the minimum level of 25% and maximum of 85%. This helps maintain a better battery life."
+msgstr "Εμφάνιση ειδοποίησης όταν η μπαταρία φτάσει στο ελάχιστο επίπεδο 25% και το μέγιστο 85%. Αυτό βοηθά στη διατήρηση καλύτερης διάρκειας ζωής της μπαταρίας."
+
+#: Options.form:223
+msgid "Display brightness"
+msgstr "Φωτεινότητα οθόνης"
+
+#: Options.form:253
+msgid "Mi Air Earphone popup"
+msgstr "Αναδυόμενο ακουστικό Mi Air"
+
+#: Options.form:290
+msgid "System update notification"
+msgstr "Ειδοποίηση ενημέρωσης συστήματος"
+
+#: Options.form:298
+msgid "SOON"
+msgstr "ΣΥΝΤΟΜΑ"
+
+#: Options.form:307
+msgid "Control Center appearance"
+msgstr "Εμφάνιση Κέντρου Ελέγχου"
+
+#: Options.form:315
+msgid "Dock"
+msgstr "Dock"
+
+#: Options.form:321 Safeeyessettings.form:296
+msgid "Default"
+msgstr "Προκαθορισμένο"
+
+#: Options.form:333
+msgid "Sidebar"
+msgstr "Πλευρική γραμμή"
+
+#: Options.form:354
+msgid "Animated icons"
+msgstr "Κινούμενα εικονίδια"
+
+#: Options.form:385
+msgid "Show CPU Temp icon"
+msgstr "Εμφάνιση εικονιδίου Θερμοκρασία Επεξεργαστή"
+
+#: Options.form:408
+msgid "Show a notification when CPU reaches this temp limit."
+msgstr "Εμφάνιση ειδοποίησης όταν ο Επεξεργαστής φτάσει αυτό το όριο θερμοκρασίας."
+
+#: Options.form:421
+msgid "°C"
+msgstr "°C"
+
+#: Options.form:430
+msgid "Shorcut Assist"
+msgstr "Βοήθεια συντόμευσης"
+
+#: Safeeyes.form:51
+msgid "1 - Roll your eyes\n<br><br>\n2 - Tightly close your eyes\n<br><br>\n3 - Rotate your eyes in clockwise direction"
+msgstr "1 - Γυρίστε τα μάτια σας\n<br><br>\n2 - Κλείστε καλά τα μάτια σας\n<br><br>\n3 - Περιστρέψτε τα μάτια σας προς τα δεξιά"
+
+#: Safeeyessettings.form:158 Startapp.form:34
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: Safeeyessettings.form:203
+msgid "Short break duration"
+msgstr "Διάρκεια μικρού διαλείμματος"
+
+#: Safeeyessettings.form:215
+msgid "Wechat Pay"
+msgstr "Wechat Pay"
+
+#: Safeeyessettings.form:222
+msgid "AliPay"
+msgstr "AliPay"
+
+#: Safeeyessettings.form:230
+msgid "For donation with Paypal, click here"
+msgstr "Για δωρεά με Paypal, κάντε κλικ εδώ"
+
+#: Safeeyessettings.form:255
+msgid "Thank you for your support"
+msgstr "Σας ευχαριστούμε για την υποστήριξή σας"
+
+#: Safeeyessettings.form:286
+msgid "Play a relaxing sound"
+msgstr "Παίξτε έναν χαλαρωτικό ήχο"
+
+#: Safeeyessettings.form:296
+msgid "Beach"
+msgstr "Παραλία"
+
+#: Safeeyessettings.form:296
+msgid "Drizzle"
+msgstr "Ψιλοβρέχει"
+
+#: Safeeyessettings.form:296
+msgid "Forest"
+msgstr "Δάσος"
+
+#: Safeeyessettings.form:296
+msgid "Stove fire"
+msgstr "Σόμπα φωτιά"
+
+#: Safeeyessettings.form:296
+msgid "Summer night"
+msgstr "Καλοκαιρινή νύχτα"
+
+#: Safeeyessettings.form:304
+msgid "Background"
+msgstr "Φόντο"
+
+#: Safeeyessettings.form:320
+msgid "Long break"
+msgstr "Μεγάλο διάλειμμα"
+
+#: Safeeyessettings.form:338
+msgid "(mini 10s - max 30s)"
+msgstr "(ελάχ 10" - μεγ 30")"
+
+#: Safeeyessettings.form:352
+msgid "(no way to skip breaks)"
+msgstr "(δεν υπάρχει τρόπος παράλειψης διαλειμμάτων)"
+
+#: Safeeyessettings.form:370
+msgid "(mini 60s - max 120s)"
+msgstr "(ελάχ 60" - μεγ 120")"
+
+#: Safeeyessettings.form:379
+msgid "Duration"
+msgstr "Διάρκεια"
+
+#: Safeeyessettings.form:388
+msgid "Strict break"
+msgstr "Αυστηρό διάλειμμα"
+
+#: Safeeyessettings.form:411
+msgid "Try sound"
+msgstr "Δοκιμάστε τον ήχο"
+
+#: Safeeyessettings.form:446
+msgid "The whole purpose of Eyes Safe is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI."
+msgstr "Ολόκληρος ο σκοπός του Eyes Safe σας υπενθυμίζει να κάνετε διαλείμματα ενώ εργάζεστε στον υπολογιστή για μεγάλο χρονικό διάστημα. Η οθόνη διακοπής σας ζητά να κάνετε κάποιες ασκήσεις που θα μειώσουν το RSI σας."
+
+#: Sharewifi.form:42
+msgid "To share, scan the QR Code with your phone."
+msgstr "Για κοινή χρήση, σαρώστε τον κωδικό QR με το τηλέφωνό σας."
+
+#: Startapp.class:676
+msgid "CPU temperature : +"
+msgstr "Θερμοκρασία Επεξεργαστής : +"
+
+#: Startapp.class:755
+msgid "notify-send --icon=app4deepin-onoff --app-name='Control Center Tray' \"CCT Eyes Protect : The long break will begin in 5 seconds\""
+msgstr "notify-send --icon = app4deepin-onoff --app-name='Control Center Tray' \"CCT Eyes Protect : Το μεγάλο διάλειμμα θα ξεκινήσει σε 5 δευτερόλεπτα\""
+
+#: Wifiinfo.form:107
+msgid "Chanel :"
+msgstr "Κανάλι :"
+
+#: Wifiinfo.form:114
+msgid "Security :"
+msgstr "Ασφάλεια :"
+
+#: Wifiinfo.form:121
+msgid "Signal :"
+msgstr "Σήμα :"
+
+#: Wifiinfo.form:128
+msgid "Rate :"
+msgstr "Τάξη :"
+
+#: Wifiinfo.form:135
+msgid "SSID :"
+msgstr "SSID :"
+
+#: Wifiinfo.form:142
+msgid "Frequence :"
+msgstr "Συχνότητα :"
+
+#: Wifiinfo.form:163
+msgid "Rate Max :"
+msgstr "Μέγιστο ποσοστό"
+
+#: safeeyefull.class:26
+msgid "It's time to take a break.\nSit back in your seat and relax."
+msgstr "Ήρθε η ώρα να κάνετε ένα διάλειμμα. \nΚαθίστε στο κάθισμά σας και χαλαρώστε."
+
+#: safeeyefull.form:51
+msgid "Skip"
+msgstr "Παραλείψει"
