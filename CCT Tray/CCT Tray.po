@@ -536,4 +536,3 @@ msgstr ""
 #: safeeyefull.class:26
 msgid "It's time to take a break.\nSit back in your seat and relax."
 msgstr ""
-
