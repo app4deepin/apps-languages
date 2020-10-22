@@ -1,0 +1,539 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OnOff 3.13.0\n"
+"PO-Revision-Date: 2020-10-22 13:33 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:35 Startapp.form:23
+msgid "Control Center Tray"
+msgstr ""
+
+#: About.form:44
+msgid "Version : 0.9.5-BETA"
+msgstr ""
+
+#: About.form:73
+msgid "https://app4deepin.com"
+msgstr ""
+
+#: AssistSettings.form:150
+msgid "Shortcut Assist appearance"
+msgstr ""
+
+#: AssistSettings.class:21
+msgid "Choose your shortcuts"
+msgstr ""
+
+#: Batteryinfo.form:52
+msgid "Capacity :"
+msgstr ""
+
+#: Batteryinfo.form:59
+msgid "Size :"
+msgstr ""
+
+#: Batteryinfo.form:66
+msgid "Voltage :"
+msgstr ""
+
+#: Batteryinfo.form:73
+msgid "Energy :"
+msgstr ""
+
+#: Batteryinfo.form:80
+msgid "Energy full :"
+msgstr ""
+
+#: Batteryinfo.form:87
+msgid "Technology :"
+msgstr ""
+
+#: Batteryinfo.form:94
+msgid "State :"
+msgstr ""
+
+#: Batteryinfo.form:108
+msgid "Battery level :"
+msgstr ""
+
+#: Batteryinfo.form:121
+msgid "Time to empty :"
+msgstr ""
+
+#: Batteryinfo.form:145 OnOff.form:450 OnOff2.form:391 OnOff3.form:398
+msgid "Mouse"
+msgstr ""
+
+#: Batteryinfo.class:53
+msgid "State : charging"
+msgstr ""
+
+#: Batteryinfo.class:56
+msgid "State : discharging"
+msgstr ""
+
+#: Batteryinfo.class:59
+msgid "State : Not available"
+msgstr ""
+
+#: Batteryinfo.class:64
+msgid "Design capacity : "
+msgstr ""
+
+#: Batteryinfo.class:65
+msgid "Current capacity : "
+msgstr ""
+
+#: Batteryinfo.class:66
+msgid "Energy : "
+msgstr ""
+
+#: Batteryinfo.class:67
+msgid "Energy Full : "
+msgstr ""
+
+#: Batteryinfo.class:68
+msgid "Health : "
+msgstr ""
+
+#: Batteryinfo.class:69
+msgid "Voltage : "
+msgstr ""
+
+#: Batteryinfo.class:72
+msgid "Time to full : "
+msgstr ""
+
+#: Batteryinfo.class:74
+msgid "Time to empty : "
+msgstr ""
+
+#: Batteryinfo.class:78
+msgid "Technology : Not available"
+msgstr ""
+
+#: Batteryinfo.class:80
+msgid "Technology : "
+msgstr ""
+
+#: Batteryinfo.class:142
+msgid "Battery level : "
+msgstr ""
+
+#: CpuInfo.form:151
+msgid "CPU"
+msgstr ""
+
+#: CpuInfo.form:159
+msgid "CPU Max"
+msgstr ""
+
+#: CpuInfo.form:167
+msgid "CPU Mini"
+msgstr ""
+
+#: CpuInfo.form:182
+msgid "CPU Core 1"
+msgstr ""
+
+#: CpuInfo.form:190
+msgid "CPU Core 2"
+msgstr ""
+
+#: CpuInfo.form:198
+msgid "CPU Core 3"
+msgstr ""
+
+#: CpuInfo.form:206
+msgid "CPU Core 4"
+msgstr ""
+
+#: CpuInfo.form:214
+msgid "CPU Core 5"
+msgstr ""
+
+#: CpuInfo.form:222
+msgid "CPU Core 6"
+msgstr ""
+
+#: CpuInfo.form:230
+msgid "CPU Core 7"
+msgstr ""
+
+#: CpuInfo.form:238
+msgid "CPU Core 8"
+msgstr ""
+
+#: CpuInfo.form:250
+msgid "CPU frequency"
+msgstr ""
+
+#: CpuInfo.form:258
+msgid "CPU frequency Max"
+msgstr ""
+
+#: CpuInfo.form:266
+msgid "CPU frequency Mini"
+msgstr ""
+
+#: CpuInfo.form:280
+msgid "%"
+msgstr ""
+
+#: FMain.form:25 Options.form:77 Safeeyessettings.form:70 Startapp.form:31
+msgid "Menu1"
+msgstr ""
+
+#: FMain.form:29
+msgid "Setting"
+msgstr ""
+
+#: FMain.form:33 Options.form:96 Safeeyessettings.form:78 Startapp.form:53
+msgid "About"
+msgstr ""
+
+#: FMain.form:37 Startapp.form:57
+msgid "Quit"
+msgstr ""
+
+#: FMain.form:43
+msgid "Eyes Protect"
+msgstr ""
+
+#: FMain.class:61
+msgid "notify-send --icon=app4deepin-eyesafe \"Eyes Protect : The long break will begin in 5 seconds\""
+msgstr ""
+
+#: OnOff.form:152 OnOff2.form:147 OnOff3.form:147
+msgid "Wifi"
+msgstr ""
+
+#: OnOff.form:160
+msgid "Bluetooth"
+msgstr ""
+
+#: OnOff.form:168
+msgid "Appearance"
+msgstr ""
+
+#: OnOff.form:183 OnOff2.form:155 OnOff3.form:155 Startapp.class:217
+msgid "Off"
+msgstr ""
+
+#: OnOff.form:349
+msgid "Sound"
+msgstr ""
+
+#: OnOff.form:365
+msgid "Display"
+msgstr ""
+
+#: OnOff.form:473 OnOff2.form:414 OnOff3.form:421
+msgid "Computer"
+msgstr ""
+
+#: OnOff.form:497 OnOff2.form:438 OnOff3.form:591
+msgid "Auto mode"
+msgstr ""
+
+#: OnOff.form:635 OnOff2.form:584 OnOff3.form:566
+msgid "Share Wifi"
+msgstr ""
+
+#: OnOff.form:652 OnOff2.form:601 OnOff3.form:608
+msgid "Wifi info"
+msgstr ""
+
+#: OnOff.class:214 OnOff2.class:212 OnOff3.class:212 Startapp.class:246
+msgid "On"
+msgstr ""
+
+#: OnOff.class:244 OnOff2.class:242 OnOff3.class:242 Startapp.class:267
+msgid "Dark"
+msgstr ""
+
+#: OnOff.class:252 OnOff2.class:250 OnOff3.class:250 Options.form:323 Startapp.class:254
+msgid "Light"
+msgstr ""
+
+#: OnOff.class:276 OnOff2.class:274 OnOff3.class:274 Startapp.class:261
+msgid "Auto"
+msgstr ""
+
+#: OnOff.class:387 OnOff2.class:383 OnOff3.class:383
+msgid "Lock screen"
+msgstr ""
+
+#: OnOff.class:440 OnOff2.class:436 OnOff3.class:436
+msgid "Do Not Disturb"
+msgstr ""
+
+#: OnOff.class:564 OnOff2.class:560 OnOff3.class:560
+msgid "Night Shift"
+msgstr ""
+
+#: OnOff.class:625 OnOff2.class:621 OnOff3.class:621
+msgid "File Drop"
+msgstr ""
+
+#: OnOff.class:682 OnOff2.class:678 OnOff3.class:678
+msgid "Eye Safe"
+msgstr ""
+
+#: OnOff.class:1054 OnOff2.class:1045 OnOff3.class:1045
+msgid "Send file"
+msgstr ""
+
+#: OnOff.class:1064 OnOff2.class:1055 OnOff3.class:1055
+msgid "Receive file"
+msgstr ""
+
+#: OnOff.class:1089 OnOff2.class:1081 OnOff3.class:1081
+msgid "Eyes Safe settings"
+msgstr ""
+
+#: OnOff.class:1101 OnOff2.class:1093 OnOff3.class:1093
+msgid "Battery info : click here"
+msgstr ""
+
+#: OnOff.class:1137 OnOff2.class:1129 OnOff3.class:1129
+msgid "No update available."
+msgstr ""
+
+#: OnOff.class:1140 OnOff2.class:1132 OnOff3.class:1132
+msgid " update available."
+msgstr ""
+
+#: Options.form:81 Safeeyessettings.form:74 Startapp.form:42
+msgid "Changelog"
+msgstr ""
+
+#: Options.form:85 Startapp.form:46
+msgid "Report a bug"
+msgstr ""
+
+#: Options.form:89 Safeeyessettings.form:110
+msgid "Donate"
+msgstr ""
+
+#: Options.form:119
+msgid "Hide wifi icon"
+msgstr ""
+
+#: Options.form:128
+msgid "Hide dock Sound icon"
+msgstr ""
+
+#: Options.form:164
+msgid "On power plug"
+msgstr ""
+
+#: Options.form:172
+msgid "On battery"
+msgstr ""
+
+#: Options.form:202
+msgid "Battery charge notification"
+msgstr ""
+
+#: Options.form:211
+msgid "Show notification when battery reaches the minimum level of 25% and maximum of 85%. This helps maintain a better battery life."
+msgstr ""
+
+#: Options.form:219
+msgid "Display brightness"
+msgstr ""
+
+#: Options.form:249
+msgid "Mi Air Earphone popup"
+msgstr ""
+
+#: Options.form:286
+msgid "System update notification"
+msgstr ""
+
+#: Options.form:294
+msgid "SOON"
+msgstr ""
+
+#: Options.form:303
+msgid "Control Center appearance"
+msgstr ""
+
+#: Options.form:311
+msgid "Dock"
+msgstr ""
+
+#: Options.form:317 Safeeyessettings.form:296
+msgid "Default"
+msgstr ""
+
+#: Options.form:329
+msgid "Sidebar"
+msgstr ""
+
+#: Options.form:350
+msgid "Animated icons"
+msgstr ""
+
+#: Options.form:381
+msgid "Show CPU Temp icon"
+msgstr ""
+
+#: Options.form:404
+msgid "Show a notification when CPU reaches this temp limit."
+msgstr ""
+
+#: Options.form:418
+msgid "°C"
+msgstr ""
+
+#: Options.form:427
+msgid "Shorcut Assist"
+msgstr ""
+
+#: Options.form:472
+msgid "Hide bluetooth icon"
+msgstr ""
+
+#: Safeeyes.form:51
+msgid "1 - Roll your eyes\n<br><br>\n2 - Tightly close your eyes\n<br><br>\n3 - Rotate your eyes in clockwise direction"
+msgstr ""
+
+#: Safeeyessettings.form:158 Startapp.form:35
+msgid "Settings"
+msgstr ""
+
+#: Safeeyessettings.form:203
+msgid "Short break duration"
+msgstr ""
+
+#: Safeeyessettings.form:215
+msgid "Wechat Pay"
+msgstr ""
+
+#: Safeeyessettings.form:222
+msgid "AliPay"
+msgstr ""
+
+#: Safeeyessettings.form:230
+msgid "For donation with Paypal, click here"
+msgstr ""
+
+#: Safeeyessettings.form:255
+msgid "Thank you for your support"
+msgstr ""
+
+#: Safeeyessettings.form:286
+msgid "Play a relaxing sound"
+msgstr ""
+
+#: Safeeyessettings.form:296
+msgid "Beach"
+msgstr ""
+
+#: Safeeyessettings.form:296
+msgid "Drizzle"
+msgstr ""
+
+#: Safeeyessettings.form:296
+msgid "Forest"
+msgstr ""
+
+#: Safeeyessettings.form:296
+msgid "Stove fire"
+msgstr ""
+
+#: Safeeyessettings.form:296
+msgid "Summer night"
+msgstr ""
+
+#: Safeeyessettings.form:304
+msgid "Background"
+msgstr ""
+
+#: Safeeyessettings.form:320
+msgid "Long break"
+msgstr ""
+
+#: Safeeyessettings.form:338
+msgid "(mini 10s - max 30s)"
+msgstr ""
+
+#: Safeeyessettings.form:352
+msgid "(no way to skip breaks)"
+msgstr ""
+
+#: Safeeyessettings.form:370
+msgid "(mini 60s - max 120s)"
+msgstr ""
+
+#: Safeeyessettings.form:379
+msgid "Duration"
+msgstr ""
+
+#: Safeeyessettings.form:388
+msgid "Strict break"
+msgstr ""
+
+#: Safeeyessettings.form:411
+msgid "Try sound"
+msgstr ""
+
+#: Safeeyessettings.form:446
+msgid "The whole purpose of Eyes Safe is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI."
+msgstr ""
+
+#: Sharewifi.form:42
+msgid "To share, scan the QR Code with your phone."
+msgstr ""
+
+#: Startapp.class:777
+msgid "notify-send --icon=app4deepin-onoff --app-name='Control Center Tray' \"CCT Eyes Protect : The long break will begin in 5 seconds\""
+msgstr ""
+
+#: Startapp.class:871
+msgid "CPU temperature : +"
+msgstr ""
+
+#: Wifiinfo.form:108
+msgid "Chanel :"
+msgstr ""
+
+#: Wifiinfo.form:115
+msgid "Security :"
+msgstr ""
+
+#: Wifiinfo.form:122
+msgid "Signal :"
+msgstr ""
+
+#: Wifiinfo.form:129
+msgid "Rate :"
+msgstr ""
+
+#: Wifiinfo.form:136
+msgid "SSID :"
+msgstr ""
+
+#: Wifiinfo.form:143
+msgid "Frequence :"
+msgstr ""
+
+#: Wifiinfo.form:164
+msgid "Rate Max :"
+msgstr ""
+
+#: safeeyefull.form:51
+msgid "Skip"
+msgstr ""
+
+#: safeeyefull.class:26
+msgid "It's time to take a break.\nSit back in your seat and relax."
+msgstr ""
+
