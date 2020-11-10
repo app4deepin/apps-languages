@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DynamicWall 3.13.0\n"
+"PO-Revision-Date: 2020-11-09 14:05+0200\n"
+"Last-Translator: Kimmo Kujansuu\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:58
+msgid "Dynamic Wall"
+msgstr "Dynaaminen tausta"
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:77
+msgid "Use dynamic wallpaper on Deepin"
+msgstr "Käytä liikkuvaa taustaa deepin:ssä"
+
+#: FMain.form:38
+msgid "Menu1"
+msgstr "Valikko1"
+
+#: FMain.form:42
+msgid "Changelog"
+msgstr "Muutosloki"
+
+#: FMain.form:46
+msgid "Report a bug"
+msgstr "Raportoi virhe"
+
+#: FMain.form:53
+msgid "About"
+msgstr "Tietoja"
+
+#: FMain.form:57
+msgid "Quit"
+msgstr "Sulje"
+
+#: FMain.form:111
+msgid "Apply"
+msgstr "Käytä"
+
+#: FMain.form:119
+msgid "Choose dynamic wallpaper"
+msgstr "Valitse liikkuva taustakuva"
+
+#: FMain.form:127
+msgid "Activate"
+msgstr "Aktivoi"
+
+#: FMain.form:165
+msgid ""
+"Wall Changer is installed !\n"
+"\n"
+"They can't work together at the same time.\n"
+"\n"
+"Please delete it before to use Dynamic Wall."
+msgstr ""
+"Staattinen taustakuvan vaihtaja on asennettu !\n"
+"\n"
+"Nämä eivät toimi samaan aikaan.\n"
+"\n"
+"Poista se ennen liikkuvan taustan käyttöä."
+
+#: FMain.class:29
+msgid "Addon installed"
+msgstr "Lisäosa asennettu"
+
+#: FMain.class:37
+msgid "catalina.gif"
+msgstr "catalina.gif"
+
+#: FMain.class:41
+msgid "mojave.gif"
+msgstr "mojave.gif"
+
+#: FMain.class:45
+msgid "earth.gif"
+msgstr "earth.gif"
+
+#: FMain.class:49
+msgid "firewatch.gif"
+msgstr "firewatch.gif"
+
+#: FMain.class:56
+msgid "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+
+#: FMain.class:60
+msgid "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+
+#: FMain.class:64
+msgid "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+
+#: FMain.class:68
+msgid "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"

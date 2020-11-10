@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 3.13.0\n"
+"PO-Revision-Date: 2020-11-09 18:04+0200\n"
+"Last-Translator: Kimmo Kujansuu\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:60 FMain.form:50
+msgid "Weather"
+msgstr "Sää"
+
+#: .project:2
+msgid "Weather App for Deepin v20"
+msgstr "Sää sovellus Deepin V20"
+
+#: About.form:17 FMain.form:84
+msgid "About"
+msgstr "Tietoja"
+
+#: About.form:50
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:86
+msgid "Weather app for Deepin"
+msgstr "Sää Deepin V20"
+
+#: FMain.form:57
+msgid "Menu1"
+msgstr "Valikko1"
+
+#: FMain.form:61
+msgid "Settings"
+msgstr "Asetukset"
+
+#: FMain.form:65
+msgid "Refresh"
+msgstr "Virkistä"
+
+#: FMain.form:72
+msgid "Report a bug"
+msgstr "Raportoi virhe"
+
+#: FMain.form:76
+msgid "Changelog"
+msgstr "Muutosloki"
+
+#: FMain.form:80 Helper.form:30
+msgid "Help"
+msgstr "Ohje"
+
+#: FMain.form:88
+msgid "Quit"
+msgstr "Sulje"
+
+#: FMain.form:110
+msgid "pm 2.5"
+msgstr "pm 2.5"
+
+#: FMain.form:181
+msgid "Humidity"
+msgstr "Kosteus"
+
+#: FMain.form:209
+msgid "Wind (km/h)"
+msgstr "Tuuli (km/h)"
+
+#: FMain.form:270
+msgid ""
+"Sorry, we are running out of queries to the weather service at the moment.\n"
+"\n"
+"Please try later"
+msgstr ""
+"Kyselyt sääpalveluun ovat tällä hetkellä ruuhkassa.\n"
+"\n"
+"Yritä myöhemmin"
+
+#: FMain.class:71
+msgid "Refreshing data ..."
+msgstr "Päivitetään tietoja ..."
+
+#: FMain.class:84
+msgid "Refreshing data for the first launch"
+msgstr "Päivitetään tietoja käynnistystä varten"
+
+#: FMain.class:87
+msgid "Refreshing data for the first launch ."
+msgstr "Päivitetään tietoja käynnistystä varten ."
+
+#: FMain.class:91
+msgid "Refreshing data for the first launch .."
+msgstr "Päivitetään tietoja käynnistystä varten .."
+
+#: FMain.class:95
+msgid "Refreshing data for the first launch ..."
+msgstr "Päivitetään tietoja käynnistystä varten ..."
+
+#: FMain.class:99
+msgid "Refreshing data for the first launch ...."
+msgstr "Päivitetään tietoja käynnistystä varten ...."
+
+#: FMain.class:242
+msgid "Good"
+msgstr "Hyvä"
+
+#: FMain.class:249
+msgid "Moderate"
+msgstr "Kohtalainen"
+
+#: FMain.class:256
+msgid "Unhealthy for Sensitive Groups"
+msgstr "Epäterveellinen herkille"
+
+#: FMain.class:263
+msgid "Unhealthy"
+msgstr "Epäterveellinen"
+
+#: FMain.class:270
+msgid "Very Unhealthy"
+msgstr "Erittäin epäterveellinen"
+
+#: FMain.class:277
+msgid "Hazardous"
+msgstr "Vaarallinen"
+
+#: FMain.class:299
+msgid "Clear"
+msgstr "Kirkas"
+
+#: FMain.class:306
+msgid "Sunny"
+msgstr "Aurinkoinen"
+
+#: FMain.class:313
+msgid "Partly cloudy"
+msgstr "Puolipilvistä"
+
+#: FMain.class:321
+msgid "Cloudy"
+msgstr "Pilvistä"
+
+#: FMain.class:329
+msgid "Overcast"
+msgstr "Pilvinen"
+
+#: FMain.class:337
+msgid "Mist"
+msgstr "Sumu"
+
+#: FMain.class:345
+msgid "Patchy rain possible"
+msgstr "Mahdollisesti sadetta"
+
+#: FMain.class:353
+msgid "Patchy snow possible"
+msgstr "Mahdollinen lumisade"
+
+#: FMain.class:361
+msgid "Patchy freezing drizzle possible"
+msgstr "Mahdollisesti Jäätävää tihkua"
+
+#: FMain.class:369
+msgid "Thundery outbreaks possible"
+msgstr "Mahdollisesti ukkosta"
+
+#: FMain.class:377
+msgid "Blowing snow"
+msgstr "Puuskittaista lumisadetta"
+
+#: FMain.class:385
+msgid "Blizzard"
+msgstr "Myrsky"
+
+#: FMain.class:393
+msgid "Freezing fog"
+msgstr "Jäätyvä sumu"
+
+#: FMain.class:401
+msgid "Fog"
+msgstr "Sumua"
+
+#: FMain.class:409
+msgid "Patchy light rain"
+msgstr "Kohtalaista sadetta"
+
+#: FMain.class:417
+msgid "Heavy rain"
+msgstr "Rankkasade"
+
+#: FMain.class:425
+msgid "Moderate freezing rain"
+msgstr "Kohtalainen jäätävä sade"
+
+#: FMain.class:433
+msgid "Moderate sleet"
+msgstr "Kohtalainen räntä"
+
+#: FMain.class:441
+msgid "Moderate snow"
+msgstr "Kohtalainen lumisade"
+
+#: FMain.class:449
+msgid "Heavy snow"
+msgstr "Rankka lumisade"
+
+#: FMain.class:457
+msgid "Light rain shower"
+msgstr "Kevyitä sadekuuroja"
+
+#: FMain.class:465
+msgid "Heavy rain shower"
+msgstr "Runsas vesisade"
+
+#: FMain.class:473
+msgid "Moderate sleet shower"
+msgstr "Kohtalainen räntäsade"
+
+#: FMain.class:481
+msgid "Heavy snow shower"
+msgstr "Runsas lumisade"
+
+#: FMain.class:489
+msgid "Moderate rain with thunder"
+msgstr "Sadetta ukkosen mahdollisuus"
+
+#: FMain.class:497
+msgid "Moderate snow with thunder"
+msgstr "Ukkosen mahdollisuus rakeilla"
+
+#: FMain.class:996
+msgid "please"
+msgstr "Ole hyvä"
+
+#: FMain.class:2762 Setting.class:179
+msgid "Loading new data with the new settings..."
+msgstr "Ladataan uusia tietoja uusilla asetuksilla..."
+
+#: Helper.form:36
+msgid ""
+"When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\n"
+"You can change weather location in setting."
+msgstr ""
+"Kun käynnistät sovelluksen, näet paikallisen sään ja täydelliset lisätiedot, kuten kosteuden, tuulen (km/h), tuulen suunnan ja ilmanlaadun.\n"
+"Voit muuttaa sään sijaintia asetuksista."
+
+#: Helper.form:42
+msgid "Location"
+msgstr "Sijainti"
+
+#: Helper.form:49
+msgid "Weather data update"
+msgstr "Säätietojen päivitys"
+
+#: Helper.form:55
+msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
+msgstr "Säätiedot päivitetään 30, 45 minuutin tai 1 tunnin välein valintasi mukaan asetuksista."
+
+#: Helper.form:60
+msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
+msgstr "Voit päivittää tiedot manuaalisesti napsauttamalla Päivitä-painiketta."
+
+#: Setting.form:47
+msgid "Your city"
+msgstr "Sinun paikkakunta"
+
+#: Setting.form:60
+msgid "30 minutes"
+msgstr "30 minuuttia"
+
+#: Setting.form:60
+msgid "45 minutes"
+msgstr "45 minuuttia"
+
+#: Setting.form:60
+msgid "1 hour"
+msgstr "1 tunti"
+
+#: Setting.form:60
+msgid "3 hours"
+msgstr "3 tuntia"
+
+#: Setting.form:60
+msgid "6 hours"
+msgstr "6 tuntia"
+
+#: Setting.form:60
+msgid "12 hours"
+msgstr "12 tuntia"
+
+#: Setting.form:67
+msgid "Frequency of updating weather data:"
+msgstr "Säätietojen päivitysväli:"
+
+#: Setting.form:74
+msgid "Localisation auto"
+msgstr "Paikannus automaattinen"
+
+#: Setting.form:100
+msgid "Show desktop Widget"
+msgstr "Näytä sovelma työpöydällä"
+
+#: Setting.form:107
+msgid "Show tray icon"
+msgstr "Näytä valikon kuvake"

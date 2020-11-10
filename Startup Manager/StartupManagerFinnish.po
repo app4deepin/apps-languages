@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StartupManager 3.13.0\n"
+"PO-Revision-Date: 2020-11-09 13:47+0200\n"
+"Last-Translator: Kimmo Kujansuu\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:57 FMain.form:178
+msgid "Startup Manager"
+msgstr "Käynnistyksen hallinta"
+
+#: About.form:47
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:54
+msgid "Menu1"
+msgstr "Valikko1"
+
+#: FMain.form:58
+msgid "Changelog"
+msgstr "Muutosloki"
+
+#: FMain.form:62
+msgid "Report a bug"
+msgstr "Raportoi virhe"
+
+#: FMain.form:66
+msgid "Donate"
+msgstr "Lahjoita"
+
+#: FMain.form:73
+msgid "About"
+msgstr "Tietoja"
+
+#: FMain.form:118
+msgid "Name"
+msgstr "Nimi"
+
+#: FMain.form:129
+msgid "Comment"
+msgstr "Kommentti"
+
+#: FMain.form:145
+msgid "Command"
+msgstr "Komento"
+
+#: FMain.form:151
+msgid "Add"
+msgstr "Lisää"
+
+#: FMain.form:158
+msgid "Remove"
+msgstr "Poista"
+
+#: FMain.form:184
+msgid "Terminal"
+msgstr "Pääte"
+
+#: FMain.form:206
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: FMain.form:232
+msgid "Save"
+msgstr "Tallenna"
+
+#: FMain.form:239
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: FMain.form:254
+msgid "User"
+msgstr "Käyttäjä"
+
+#: FMain.form:263
+msgid "System "
+msgstr "Järjestelmä"
+
+#: FMain.form:279
+msgid "Unlock"
+msgstr "Avaa lukitus"
+
+#: FMain.class:124
+msgid "Select an item before !"
+msgstr "Valitse kohde ensin !"
+
+#: FMain.class:143
+msgid "Delete this item"
+msgstr "Poista tämä kohde"
+
+#: FMain.class:145
+msgid "Are you sure ?"
+msgstr "Oletko varma ?"
+
+#: FMain.class:145
+msgid "Ok"
+msgstr "Ok"
+
+#: FMain.class:145 SelectDesktop.form:40 Selectcommand.form:40
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: FMain.class:317
+msgid "Warning"
+msgstr "Varoitus"
+
+#: FMain.class:319
+msgid "Please take care with this items !"
+msgstr "Ole varovainen näiden kanssa !"
+
+#: SelectDesktop.form:34 Selectcommand.form:34
+msgid "Select"
+msgstr "Valitse"
+
+#: Selectcommand.class:12
+msgid "/"
+msgstr "/"
