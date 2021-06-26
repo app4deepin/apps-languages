@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 3.13.0\n"
+"PO-Revision-Date: 2021-06-26 14:35+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: .project:1 About.form:60 FMain.form:50
+msgid "Weather"
+msgstr "Weer"
+
+#: .project:2
+msgid "Weather App for Deepin v20"
+msgstr "Weerprogramma voor Deepin 20"
+
+#: About.form:17 FMain.form:84
+msgid "About"
+msgstr "Over"
+
+#: About.form:50
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:86
+msgid "Weather app for Deepin"
+msgstr "Weerprogramma voor Deepin"
+
+#: FMain.form:57
+msgid "Menu1"
+msgstr "Menu1"
+
+#: FMain.form:61
+msgid "Settings"
+msgstr "Instellingen"
+
+#: FMain.form:65
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+#: FMain.form:72
+msgid "Report a bug"
+msgstr "Bug melden"
+
+#: FMain.form:76
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: FMain.form:80 Helper.form:30
+msgid "Help"
+msgstr "Hulp"
+
+#: FMain.form:88
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: FMain.form:110
+msgid "pm 2.5"
+msgstr "pm 2.5"
+
+#: FMain.form:181
+msgid "Humidity"
+msgstr "Luchtvochtigheid"
+
+#: FMain.form:209
+msgid "Wind (km/h)"
+msgstr "Windsnelheid (km/u)"
+
+#: FMain.form:270
+msgid ""
+"Sorry, we are running out of queries to the weather service at the moment.\n"
+"\n"
+"Please try later"
+msgstr ""
+"Het maximaal aantal opvragingen bij de weerdienst is bereikt.\n"
+"\n"
+"Probeer het later opnieuw."
+
+#: FMain.class:71
+msgid "Refreshing data ..."
+msgstr "Bezig met vernieuwen…"
+
+#: FMain.class:84
+msgid "Refreshing data for the first launch"
+msgstr "Bezig met vernieuwen na eerste opstart…"
+
+#: FMain.class:87
+msgid "Refreshing data for the first launch ."
+msgstr "Bezig met vernieuwen na eerste opstart…"
+
+#: FMain.class:91
+msgid "Refreshing data for the first launch .."
+msgstr "Bezig met vernieuwen na eerste opstart…"
+
+#: FMain.class:95
+msgid "Refreshing data for the first launch ..."
+msgstr "Bezig met vernieuwen na eerste opstart…"
+
+#: FMain.class:99
+msgid "Refreshing data for the first launch ...."
+msgstr "Bezig met vernieuwen na eerste opstart…"
+
+#: FMain.class:242
+msgid "Good"
+msgstr "Goed"
+
+#: FMain.class:249
+msgid "Moderate"
+msgstr "Matig"
+
+#: FMain.class:256
+msgid "Unhealthy for Sensitive Groups"
+msgstr "Ongeschikt voor mensen met een aandoening"
+
+#: FMain.class:263
+msgid "Unhealthy"
+msgstr "Ongeschikt"
+
+#: FMain.class:270
+msgid "Very Unhealthy"
+msgstr "Erg ongeschikt"
+
+#: FMain.class:277
+msgid "Hazardous"
+msgstr "Gevaarlijk"
+
+#: FMain.class:299
+msgid "Clear"
+msgstr "Onbewolkt"
+
+#: FMain.class:306
+msgid "Sunny"
+msgstr "Zonnig"
+
+#: FMain.class:313
+msgid "Partly cloudy"
+msgstr "Deels bewolkt"
+
+#: FMain.class:321
+msgid "Cloudy"
+msgstr "Bewolkt"
+
+#: FMain.class:329
+msgid "Overcast"
+msgstr "Erg bewolkt"
+
+#: FMain.class:337
+msgid "Mist"
+msgstr "Mistig"
+
+#: FMain.class:345
+msgid "Patchy rain possible"
+msgstr "Motregen mogelijk"
+
+#: FMain.class:353
+msgid "Patchy snow possible"
+msgstr "Motsneeuw mogelijk"
+
+#: FMain.class:361
+msgid "Patchy freezing drizzle possible"
+msgstr "Natte sneeuw mogelijk"
+
+#: FMain.class:369
+msgid "Thundery outbreaks possible"
+msgstr "Onweer mogelijk"
+
+#: FMain.class:377
+msgid "Blowing snow"
+msgstr "Stuifsneeuw"
+
+#: FMain.class:385
+msgid "Blizzard"
+msgstr "Sneeuwstorm"
+
+#: FMain.class:393
+msgid "Freezing fog"
+msgstr "Koude mist"
+
+#: FMain.class:401
+msgid "Fog"
+msgstr "Mist"
+
+#: FMain.class:409
+msgid "Patchy light rain"
+msgstr "Motregen"
+
+#: FMain.class:417
+msgid "Heavy rain"
+msgstr "Regenbui"
+
+#: FMain.class:425
+msgid "Moderate freezing rain"
+msgstr "Lichte natte sneeuw"
+
+#: FMain.class:433
+msgid "Moderate sleet"
+msgstr "Lichte hagelbui"
+
+#: FMain.class:441
+msgid "Moderate snow"
+msgstr "Lichte sneeuwbui"
+
+#: FMain.class:449
+msgid "Heavy snow"
+msgstr "Sneeuwbui"
+
+#: FMain.class:457
+msgid "Light rain shower"
+msgstr "Miezer"
+
+#: FMain.class:465
+msgid "Heavy rain shower"
+msgstr "Regenbui"
+
+#: FMain.class:473
+msgid "Moderate sleet shower"
+msgstr "Lichte hagelbui"
+
+#: FMain.class:481
+msgid "Heavy snow shower"
+msgstr "Sneeuwbui"
+
+#: FMain.class:489
+msgid "Moderate rain with thunder"
+msgstr "Lichte regenbui met onweer"
+
+#: FMain.class:497
+msgid "Moderate snow with thunder"
+msgstr "Lichte sneeuwbui met onweer"
+
+#: FMain.class:996
+msgid "please"
+msgstr "…"
+
+#: FMain.class:2762 Setting.class:179
+msgid "Loading new data with the new settings..."
+msgstr "Bezig met laden van nieuwe informatie…"
+
+#: Helper.form:36
+msgid ""
+"When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\n"
+"You can change weather location in setting."
+msgstr ""
+"Na het opstarten zie je het weer in jouw omgeving: temperatuur, luchtvochtigheid, windsnelheid (km/u), -richting en luchtkwaliteit.\n"
+"Je kunt je locatie aanpassen in de instellingen."
+
+#: Helper.form:42
+msgid "Location"
+msgstr "Locatie"
+
+#: Helper.form:49
+msgid "Weather data update"
+msgstr "Weerinformatie bijwerken"
+
+#: Helper.form:55
+msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
+msgstr "De weerinformatie en widget wordt, afhankelijk van je instellingen, elke 30 minuten of vaker bijgewerkt."
+
+#: Helper.form:60
+msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
+msgstr "Ook kun je handmatig bijwerken door op de knop ‘Vernieuwen’ te klikken."
+
+#: Setting.form:47
+msgid "Your city"
+msgstr "Mijn locatie"
+
+#: Setting.form:60
+msgid "30 minutes"
+msgstr "30 minuten"
+
+#: Setting.form:60
+msgid "45 minutes"
+msgstr "45 minuten"
+
+#: Setting.form:60
+msgid "1 hour"
+msgstr "1 uur"
+
+#: Setting.form:60
+msgid "3 hours"
+msgstr "3 uur"
+
+#: Setting.form:60
+msgid "6 hours"
+msgstr "6 uur"
+
+#: Setting.form:60
+msgid "12 hours"
+msgstr "12 uur"
+
+#: Setting.form:67
+msgid "Frequency of updating weather data:"
+msgstr "Weerinformatie bijwerken, elke:"
+
+#: Setting.form:74
+msgid "Localisation auto"
+msgstr "Automatisch bepalen"
+
+#: Setting.form:100
+msgid "Show desktop Widget"
+msgstr "Bureaubladwidget tonen"
+
+#: Setting.form:107
+msgid "Show tray icon"
+msgstr "Systeemvakpictogram tonen"

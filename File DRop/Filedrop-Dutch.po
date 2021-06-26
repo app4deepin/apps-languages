@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Filetransfert 3.13.0\n"
+"PO-Revision-Date: 2021-06-25 18:21+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: .project:1
+msgid "File Drop"
+msgstr "Bestandsoverdracht"
+
+#: About.form:64
+msgid "Send or receive file to your phone with wifi"
+msgstr "Verstuur en ontvang bestanden via wifi"
+
+#: About.form:87
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:105
+msgid ""
+"Based on qrcp software : <p>\n"
+"https://github.com/claudiodangelis/qrcp"
+msgstr ""
+"Gebaseerd op qrcp: <p>\n"
+"https://github.com/claudiodangelis/qrcp"
+
+#: Aide.form:40
+msgid "Send 1 file"
+msgstr "1 bestand versturen"
+
+#: Aide.form:47
+msgid "Receive file(s)"
+msgstr "Bestand(en) ontvangen"
+
+#: Aide.form:54
+msgid "Send files or folders"
+msgstr "Bestanden of mappen versturen"
+
+#: Aide.form:61
+msgid "Zip files or folders"
+msgstr "ZIP-bestanden of mappen"
+
+#: Aide.form:68 start.form:39
+msgid "How to send or receive"
+msgstr "Hoe verstuur of ontvang ik bestanden?"
+
+#: Aide.form:104
+msgid "Click on Send icon and Drag and drop the file to drop zone. When it's done, scan the QR Code with your phone. Check the transfer on your phone."
+msgstr "Klik op het pictogram ‘Versturen’ en sleep het bestand naar het neerzetvak. De voortgang wordt op je telefoon getoond. Nadien kun je de qr-code scannen met je telefoon."
+
+#: Aide.form:111
+msgid "Click on Receive icon and scan the QR Code with your phone. Select on your phone the files to send to your computer"
+msgstr "Klik op het pictogram ‘Ontvangen’ en scan de qr-code met je telefoon. Selecteer op je telefoon de te versturen bestanden."
+
+#: Aide.form:118
+msgid "Click on Multi-Send icon. Drag and Drop your files or folders. When done, clic on Send button and scan the QR Code with your phone. You will receive a ZIP file. Check the transfer on your phone."
+msgstr "Klik op het pictogram ‘Meerdere versturen’ en sleep je bestanden of mappen naar het neerzetvak. Klik daarna op de knop ‘Versturen’ en scan de qr-code met je telefoon. De voortgang wordt op je telefoon getoond."
+
+#: Aide.form:125
+msgid "Before sending your file or folder, you can tell File Drop to compress (ZIP) them."
+msgstr "Voorafgaand aan het versturen kun je aangeven of je wilt dat alles wordt ingepakt (zip)."
+
+#: MultiSend.form:86 Send.form:204 start.form:98
+msgid "Send"
+msgstr "Versturen"
+
+#: MultiSend.form:111 start.form:114
+msgid "Multi-Send"
+msgstr "Meerdere versturen"
+
+#: MultiSend.form:128
+msgid ">>   Drag one file or folder at a time   <<"
+msgstr ">>   Versleep één bestand of map tegelijk   <<"
+
+#: MultiSend.form:136
+msgid "Files/Folders will be compressed (ZIP) before sent."
+msgstr "Bestanden/Mappen worden ingepakt met zip voordat ze worden verstuurd."
+
+#: MultiSend.form:167
+msgid ""
+"1 - Turn the wifi on your phone \n"
+"\n"
+"2 - Scan the QR code\n"
+"\n"
+"3 - Check the transfer on your phone"
+msgstr ""
+"1 Schakel wifi in op je te telefoon;\n"
+"\n"
+"2 Scan de qr-code;\n"
+"\n"
+"3 Bekijk de voortgang op je telefoon."
+
+#: MultiSend.form:182
+msgid "FileDrop is preparing your zip file "
+msgstr "Bezig met voorbereiden van zip-bestand… "
+
+#: MultiSend.class:9
+msgid "Files/Folders to send : "
+msgstr "Te versturen bestanden/mappen: "
+
+#: Option.form:34
+msgid "Allways compress the file (ZIP) before sending it"
+msgstr "Altijd inpakken (zip) alvorens te versturen"
+
+#: Option.form:40
+msgid "Show File Drop Widget"
+msgstr "Neerzetvak tonen"
+
+#: Receive.form:143 Send.form:122
+msgid ""
+"1 - Turn the wifi on your phone \n"
+"\n"
+"2 - Scan the QR code"
+msgstr ""
+"1 Schakel wifi in op je te telefoon;\n"
+"\n"
+"2 Scan de qr-code."
+
+#: Receive.form:172
+msgid ""
+"Receiving your files ...\n"
+"\n"
+"Wait for the confirmation message on your phone."
+msgstr ""
+"Bezig met ontvangen van bestanden…\n"
+"\n"
+"Wacht op het bevestigingsbericht op je telefoon."
+
+#: Receive.form:179
+msgid "Open folder"
+msgstr "Map openen"
+
+#: Receive.form:209 start.form:106
+msgid "Receive"
+msgstr "Ontvangen"
+
+#: Send.form:99
+msgid "Drop your file here"
+msgstr "Sleep een bestand hierheen"
+
+#: Send.form:133
+msgid "Compress the file (ZIP) before sending it"
+msgstr "Inpakken (zip) alvorens te versturen"
+
+#: Send.class:194
+msgid "cut -c8- /tmp/filetmp.rtf | tr -d '\\n' > /tmp/filetmp2.rtf"
+msgstr "cut -c8- /tmp/filetmp.rtf | tr -d '\\n' > /tmp/filetmp2.rtf"
+
+#: start.form:29
+msgid "FileDrop"
+msgstr "Bestandsoverdracht"
+
+#: start.form:35
+msgid "Menu1"
+msgstr "Menu1"
+
+#: start.form:43
+msgid "Settings"
+msgstr "Instellingen"
+
+#: start.form:47
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: start.form:51
+msgid "Report a bug"
+msgstr "Bug melden"
+
+#: start.form:58
+msgid "About"
+msgstr "Over"
+
+#: start.form:62
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: start.form:125
+msgid "Send file"
+msgstr "Bestand versturen"
+
+#: start.form:131
+msgid "Receive file"
+msgstr "Bestand ontvangen"
+
+#: start.form:137
+msgid "Send multiple files or folders"
+msgstr "Meerdere bestanden/mappen versturen"
+
+#: start.form:156
+msgid "Please check your network connection"
+msgstr "Controleer je internetverbinding"
