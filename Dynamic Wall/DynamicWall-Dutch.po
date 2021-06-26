@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DynamicWall 3.13.0\n"
+"PO-Revision-Date: 2021-06-25 17:31+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: .project:1 About.form:58
+msgid "Dynamic Wall"
+msgstr "Dynamische achtergrond"
+
+#: About.form:48
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:77
+msgid "Use dynamic wallpaper on Deepin"
+msgstr "Toon een dynamische bureaubladachtergrond op Deepin"
+
+#: FMain.form:38
+msgid "Menu1"
+msgstr "Menu1"
+
+#: FMain.form:42
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: FMain.form:46
+msgid "Report a bug"
+msgstr "Bug melden"
+
+#: FMain.form:53
+msgid "About"
+msgstr "Over"
+
+#: FMain.form:57
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: FMain.form:111
+msgid "Apply"
+msgstr "Toepassen"
+
+#: FMain.form:119
+msgid "Choose dynamic wallpaper"
+msgstr "Kies een dynamische achtergrond"
+
+#: FMain.form:127
+msgid "Activate"
+msgstr "Inschakelen"
+
+#: FMain.form:165
+msgid ""
+"Wall Changer is installed !\n"
+"\n"
+"They can't work together at the same time.\n"
+"\n"
+"Please delete it before to use Dynamic Wall."
+msgstr ""
+"Achtergrondvoorstelling is geïnstalleerd!\n"
+"\n"
+"Deze twee programma's kunnen niet tegelijkertijd werken.\n"
+"\n"
+"Verwijder dat programma zodat je een dynamische achtergrond kunt instellen."
+
+#: FMain.class:29
+msgid "Addon installed"
+msgstr "De uitbreiding is geïnstalleerd"
+
+#: FMain.class:37
+msgid "catalina.gif"
+msgstr "catalina.gif"
+
+#: FMain.class:41
+msgid "mojave.gif"
+msgstr "mojave.gif"
+
+#: FMain.class:45
+msgid "earth.gif"
+msgstr "earth.gif"
+
+#: FMain.class:49
+msgid "firewatch.gif"
+msgstr "firewatch.gif"
+
+#: FMain.class:56
+msgid "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Moon/gif.gif"
+
+#: FMain.class:60
+msgid "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Monument_Valley/gif.gif"
+
+#: FMain.class:64
+msgid "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Affinity/gif.gif"
+
+#: FMain.class:68
+msgid "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"
+msgstr "/usr/share/dynamicwall/Addon/Earth_2/gif.gif"

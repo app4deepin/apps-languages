@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WallChanger 3.13.0\n"
+"PO-Revision-Date: 2021-06-25 18:32+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: .project:1 About.form:33
+msgid "Wall Changer"
+msgstr "Achtergrondvoorstelling"
+
+#: About.form:58
+msgid "A new wallpaper every day"
+msgstr "Elke dag een andere achtergrond"
+
+#: About.form:75
+msgid "Based on Bing desktop wallpaper changer (link)"
+msgstr "Gebaseerd op Bing desktop wallpaper changer (link)"
+
+#: About.form:91
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:36
+msgid "Menu1"
+msgstr "Menu1"
+
+#: FMain.form:40
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: FMain.form:44
+msgid "Report a bug"
+msgstr "Bug melden"
+
+#: FMain.form:51
+msgid "About"
+msgstr "Over"
+
+#: FMain.form:55
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: FMain.form:75
+msgid "Max size of wallpapers folder : "
+msgstr "Max. grootte van achtergrondenmap: "
+
+#: FMain.form:115
+msgid "Wall Changer - Settings"
+msgstr "Achtergrondvoorstelling - Instellingen"
+
+#: FMain.form:124
+msgid "Delete downloaded wallpapers"
+msgstr "Opgehaalde achtergronden verwijderen"
+
+#: FMain.form:125 Suppress.form:40
+msgid "DELETE"
+msgstr "VERWIJDEREN"
+
+#: FMain.form:132
+msgid "Bing Wallpaper - area : "
+msgstr "Bing-achtergronden - Land: "
+
+#: FMain.form:139
+msgid "Auto (Default)"
+msgstr "Automatisch (standaard)"
+
+#: FMain.form:139
+msgid "Canada"
+msgstr "Canada"
+
+#: FMain.form:139
+msgid "China"
+msgstr "China"
+
+#: FMain.form:139
+msgid "France"
+msgstr "Frankrijk"
+
+#: FMain.form:139
+msgid "Germany"
+msgstr "Duitsland"
+
+#: FMain.form:139
+msgid "India"
+msgstr "India"
+
+#: FMain.form:139
+msgid "Japan"
+msgstr "Japan"
+
+#: FMain.form:139
+msgid "Spain"
+msgstr "Spanje"
+
+#: FMain.form:139
+msgid "Switzerland"
+msgstr "Zwitserland"
+
+#: FMain.form:139
+msgid "UK"
+msgstr "VK"
+
+#: FMain.form:139
+msgid "US"
+msgstr "VS"
+
+#: FMain.form:155
+msgid "Apply new settings"
+msgstr "Nieuwe instellingen toepassen"
+
+#: FMain.form:156
+msgid "APPLY"
+msgstr "TOEPASSEN"
+
+#: FMain.form:162
+msgid "View wallpaper folder"
+msgstr "Achtergrondenmap openen"
+
+#: FMain.form:174
+msgid "Applying new zone "
+msgstr "Bezig met toepassen… "
+
+#: FMain.class:25
+msgid "~/Pictures/Wall-Changer"
+msgstr "~/Afbeeldingen/Achtergrondvoorstelling"
+
+#: FMain.class:28 Suppress.class:12
+msgid "Downloaded wallpaper : "
+msgstr "Opgehaalde achtergrond: "
+
+#: Suppress.form:54
+msgid "Please confirm the deletion of the downloaded wallpapers."
+msgstr "Bevestig het verwijderen van de opgehaalde achtergronden."
+
+#: Suppress.form:75
+msgid "Close"
+msgstr "Sluiten"
+
+#: Suppress.class:6
+msgid " wallpapers will be deleted !"
+msgstr " achtergronden zullen worden verwijderd."
+
+#: Suppress.class:25
+msgid "Wallpaper deleted !"
+msgstr "De achtergronden zijn verwijderd."

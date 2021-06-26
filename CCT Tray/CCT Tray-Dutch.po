@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OnOff 3.13.0\n"
+"PO-Revision-Date: 2021-06-25 17:28+0200\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: .project:1 About.form:35 Startapp.form:25
+msgid "Control Center Tray"
+msgstr "Snelle instellingen"
+
+#: About.form:44
+msgid "Version : 0.9.95-BETA"
+msgstr "Versie: 0.9.95-BETA"
+
+#: About.form:66
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: AssistSettings.form:157
+msgid "Shortcut Assist appearance"
+msgstr "Sneltoetshulp"
+
+#: AssistSettings.class:22
+msgid "Choose your shortcuts"
+msgstr "Kies je sneltoetsen"
+
+#: Batteryinfo.form:52
+msgid "Capacity :"
+msgstr "Capaciteit:"
+
+#: Batteryinfo.form:59
+msgid "Size :"
+msgstr "Omvang:"
+
+#: Batteryinfo.form:66
+msgid "Voltage :"
+msgstr "Voltage:"
+
+#: Batteryinfo.form:73
+msgid "Energy :"
+msgstr "Energie:"
+
+#: Batteryinfo.form:80
+msgid "Energy full :"
+msgstr "Opgeladen:"
+
+#: Batteryinfo.form:87
+msgid "Technology :"
+msgstr "Technologie:"
+
+#: Batteryinfo.form:94
+msgid "State :"
+msgstr "Status:"
+
+#: Batteryinfo.form:108
+msgid "Battery level :"
+msgstr "Accuniveau:"
+
+#: Batteryinfo.form:121
+msgid "Time to empty :"
+msgstr "Resterend:"
+
+#: Batteryinfo.form:145 OnOff3.form:373
+msgid "Mouse"
+msgstr "Muis"
+
+#: Batteryinfo.class:53
+msgid "State : charging"
+msgstr "Status: bezig met opladen"
+
+#: Batteryinfo.class:56
+msgid "State : discharging"
+msgstr "Status: bezig met ontladen"
+
+#: Batteryinfo.class:59
+msgid "State : Not available"
+msgstr "Status: niet beschikbaar"
+
+#: Batteryinfo.class:64
+msgid "Design capacity : "
+msgstr "Capaciteit volgens ontwerp: "
+
+#: Batteryinfo.class:65
+msgid "Current capacity : "
+msgstr "Huidige capaciteit: "
+
+#: Batteryinfo.class:66
+msgid "Energy : "
+msgstr "Energie: "
+
+#: Batteryinfo.class:67
+msgid "Energy Full : "
+msgstr "Opgeladen: "
+
+#: Batteryinfo.class:68
+msgid "Health : "
+msgstr "Gezondheid: "
+
+#: Batteryinfo.class:69
+msgid "Voltage : "
+msgstr "Voltage: "
+
+#: Batteryinfo.class:72
+msgid "Time to full : "
+msgstr "Opgeladen over: "
+
+#: Batteryinfo.class:74
+msgid "Time to empty : "
+msgstr "Resterend: "
+
+#: Batteryinfo.class:78
+msgid "Technology : Not available"
+msgstr "Technologie: niet beschikbaar"
+
+#: Batteryinfo.class:80
+msgid "Technology : "
+msgstr "Technologie: "
+
+#: Batteryinfo.class:142
+msgid "Battery level : "
+msgstr "Accuniveau: "
+
+#: Cleaner.form:60
+msgid "Apply new settings"
+msgstr "Nieuwe instellingen toepassen"
+
+#: Cleaner.form:61
+msgid "Clean"
+msgstr "Opruimen"
+
+#: Cleaner.class:37 Startapp.class:712
+msgid "You can clean "
+msgstr "Je kunt "
+
+#: Cleaner.class:37 Startapp.class:712
+msgid " files)"
+msgstr " bestanden opruimen"
+
+#: Cleaner.class:76
+msgid "Clean !"
+msgstr "Opruimen!"
+
+#: FMain.form:25 Options.form:78 Safeeyessettings.form:70 Startapp.form:33
+msgid "Menu1"
+msgstr "Menu1"
+
+#: FMain.form:29
+msgid "Setting"
+msgstr "Instelling"
+
+#: FMain.form:33 Options.form:97 Safeeyessettings.form:78 Startapp.form:55
+msgid "About"
+msgstr "Over"
+
+#: FMain.form:37 Startapp.form:59
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: FMain.form:43
+msgid "Eyes Protect"
+msgstr "Oogbescherming"
+
+#: FMain.class:61
+msgid "notify-send --icon=app4deepin-eyesafe \"Eyes Protect : The long break will begin in 5 seconds\""
+msgstr "notify-send --icon=app4deepin-eyesafe \"Oogbescherming: de lange pauze begint over 5 seconds\""
+
+#: FileDrop.form:47
+msgid "FileDrop"
+msgstr "Bestandsoverdracht"
+
+#: FileDrop.form:54 Options.form:457
+msgid "Close"
+msgstr "Sluiten"
+
+#: FileDrop.class:14 OnOff.class:750 OnOff3.class:875
+msgid "Send file"
+msgstr "Bestand versturen"
+
+#: FileDrop.class:25 OnOff.class:760 OnOff3.class:885
+msgid "Receive file"
+msgstr "Bestand ontvangen"
+
+#: OnOff.form:156 OnOff3.form:142 Options.form:400
+msgid "Wifi"
+msgstr "Wifi"
+
+#: OnOff.form:164 Options.form:400
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: OnOff.form:172
+msgid "Appearance"
+msgstr "Vormgeving"
+
+#: OnOff.form:187 OnOff3.form:150 Startapp.class:134
+msgid "Off"
+msgstr "Uit"
+
+#: OnOff.form:333
+msgid "Sound"
+msgstr "Geluid"
+
+#: OnOff.form:349
+msgid "Display"
+msgstr "Weergave"
+
+#: OnOff.form:427 OnOff3.form:566
+msgid "Auto mode"
+msgstr "Automatisch"
+
+#: OnOff.form:550 OnOff3.form:541
+msgid "Share Wifi"
+msgstr "Wifi-netwerk delen"
+
+#: OnOff.form:567 OnOff3.form:583
+msgid "Wifi info"
+msgstr "Wifi-netwerkinformatie"
+
+#: OnOff.class:208 OnOff3.class:200 Startapp.class:154
+msgid "On"
+msgstr "Aan"
+
+#: OnOff.class:232 OnOff3.class:224 Startapp.class:173
+msgid "Dark"
+msgstr "Donker"
+
+#: OnOff.class:240 OnOff3.class:232 Startapp.class:160
+msgid "Light"
+msgstr "Licht"
+
+#: OnOff.class:264 OnOff3.class:256 Startapp.class:167
+msgid "Auto"
+msgstr "Automatisch"
+
+#: OnOff.class:375 OnOff3.class:365
+msgid "Lock screen"
+msgstr "Scherm vergrendelen"
+
+#: OnOff.class:401 OnOff3.class:385
+msgid "Do Not Disturb"
+msgstr "Niet storen"
+
+#: OnOff.class:510
+msgid "Night Shift"
+msgstr "Nachtmodus"
+
+#: OnOff.class:537 OnOff3.class:543
+msgid "File Drop"
+msgstr "Bestandsoverdracht"
+
+#: OnOff.class:584 OnOff3.class:583
+msgid "Eye Safe"
+msgstr "Oogbescherming"
+
+#: OnOff.class:779 OnOff3.class:904
+msgid "Eyes Safe settings"
+msgstr "Oogbeschermingsinstellingen"
+
+#: OnOff.class:791
+msgid "Battery info"
+msgstr "Accu-informatie"
+
+#: OnOff.class:827 OnOff3.class:952
+msgid "No update available."
+msgstr "Er zijn geen updates beschikbaar."
+
+#: OnOff.class:830 OnOff3.class:955
+msgid " update available."
+msgstr " updates beschikbaar."
+
+#: OnOff.class:887
+msgid "Cleaner"
+msgstr "Opruimen"
+
+#: OnOff3.form:396
+msgid "Computer"
+msgstr "Computer"
+
+#: OnOff3.class:916
+msgid "Battery info : click here"
+msgstr "Accu-informatie: klik hier"
+
+#: Options.form:82 Safeeyessettings.form:74 Startapp.form:44
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: Options.form:86 Startapp.form:48
+msgid "Report a bug"
+msgstr "Bug melden"
+
+#: Options.form:90 Safeeyessettings.form:110
+msgid "Donate"
+msgstr "Doneren"
+
+#: Options.form:162
+msgid "Hide dock Sound icon"
+msgstr "Geluidspictogram op dock verbergen"
+
+#: Options.form:184
+msgid "On power plug"
+msgstr "Bij aansluiten op netstroom"
+
+#: Options.form:214
+msgid "Battery charge notification"
+msgstr "Oplaadmelding"
+
+#: Options.form:222
+msgid "Display brightness"
+msgstr "Schermhelderheid"
+
+#: Options.form:255
+msgid "System update notification"
+msgstr "Systeemupdate-meldingen"
+
+#: Options.form:264
+msgid "Theme"
+msgstr "Thema"
+
+#: Options.form:272
+msgid "Hide icons "
+msgstr "Pictogrammen verbergen "
+
+#: Options.form:281
+msgid "CPU temperature indicator"
+msgstr "CPU-temperatuurindicator"
+
+#: Options.form:304
+msgid "Show a notification when CPU reaches this temp limit."
+msgstr "Toont een melding als de cpu het volgende temperatuurniveau bereikt."
+
+#: Options.form:318
+msgid "°C"
+msgstr "°C"
+
+#: Options.form:327
+msgid "Shortcut Assist"
+msgstr "Sneltoetshulp"
+
+#: Options.form:379
+msgid "Cleaner notification"
+msgstr "Opruimmelding"
+
+#: Options.form:393
+msgid "Notification when files reached :"
+msgstr "Melding tonen bij x aantal bestanden:"
+
+#: Options.form:400
+msgid "-"
+msgstr "-"
+
+#: Options.form:400
+msgid "Wifi / Bluetooth"
+msgstr "Wifi/Bluetooth"
+
+#: Options.form:409
+msgid "Auto clean"
+msgstr "Automatisch opruimen"
+
+#: Options.form:423
+msgid "Show notification when battery reaches the minimum level of 25% and maximum of 85%. This helps maintain a better battery life."
+msgstr "Toont een melding als het accuniveau minimaal 25% en maximaal 85% bereikt. Hierdoor wordt de accuduur verbeterd."
+
+#: Options.form:432
+msgid "Clipboard icon"
+msgstr "Klembordpictogram"
+
+#: Options.form:479 Safeeyessettings.form:296
+msgid "Default"
+msgstr "Standaard"
+
+#: Options.form:479
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: Options.form:487
+msgid "On battery"
+msgstr "Op accu"
+
+#: Safeeyes.form:53
+msgid "Already 1 hour past!"
+msgstr "Je bent al 1 uur bezig!"
+
+#: Safeeyes.form:60
+msgid "Take a short break for your eyes."
+msgstr "Neem een korte pauze om je ogen te ontlasten."
+
+#: Safeeyessettings.form:158 Startapp.form:37
+msgid "Settings"
+msgstr "Instellingen"
+
+#: Safeeyessettings.form:203
+msgid "Short break duration"
+msgstr "Duur van korte pauze"
+
+#: Safeeyessettings.form:215
+msgid "Wechat Pay"
+msgstr "Wechat Pay"
+
+#: Safeeyessettings.form:222
+msgid "AliPay"
+msgstr "AliPay"
+
+#: Safeeyessettings.form:230
+msgid "For donation with Paypal, click here"
+msgstr "Klik hier om te doneren via PayPal"
+
+#: Safeeyessettings.form:255
+msgid "Thank you for your support"
+msgstr "Bedankt voor je ondersteuning"
+
+#: Safeeyessettings.form:286
+msgid "Play a relaxing sound"
+msgstr "Kalmerend geluid afspelen"
+
+#: Safeeyessettings.form:296
+msgid "Beach"
+msgstr "Strand"
+
+#: Safeeyessettings.form:296
+msgid "Drizzle"
+msgstr "Motregen"
+
+#: Safeeyessettings.form:296
+msgid "Forest"
+msgstr "Bos"
+
+#: Safeeyessettings.form:296
+msgid "Stove fire"
+msgstr "Haardvuur"
+
+#: Safeeyessettings.form:296
+msgid "Summer night"
+msgstr "Zomeravond"
+
+#: Safeeyessettings.form:304
+msgid "Background"
+msgstr "Achtergrond"
+
+#: Safeeyessettings.form:320
+msgid "Long break"
+msgstr "Lange pauze"
+
+#: Safeeyessettings.form:338
+msgid "(mini 10s - max 30s)"
+msgstr "(min. 10 sec. - max. 30 sec.)"
+
+#: Safeeyessettings.form:352
+msgid "(no way to skip breaks)"
+msgstr "(pauzes niet overslaan)"
+
+#: Safeeyessettings.form:370
+msgid "(mini 60s - max 120s)"
+msgstr "(min. 60 sec. - max. 120 sec.)"
+
+#: Safeeyessettings.form:379
+msgid "Duration"
+msgstr "Duur"
+
+#: Safeeyessettings.form:388
+msgid "Strict break"
+msgstr "Gedwongen pauze"
+
+#: Safeeyessettings.form:411
+msgid "Try sound"
+msgstr "Geluid voorvertonen"
+
+#: Safeeyessettings.form:446
+msgid "The whole purpose of Eyes Safe is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI."
+msgstr "Het doel van oogbescherming is om er voor te zorgen dat je pauzes neemt als je langere tijd achter je computer zit. Daarnaast toont het pauzescherm oefeningen die je kunt doen om RSI-klachten te verminderen."
+
+#: Sharewifi.form:42
+msgid "To share, scan the QR Code with your phone."
+msgstr "Scan de qr-code met je telefoon om het netwerk te delen."
+
+#: Startapp.form:100
+msgid "Cleaning"
+msgstr "Opruimen"
+
+#: Startapp.form:106
+msgid "Clipboard"
+msgstr "Klembord"
+
+#: Startapp.class:577
+msgid "notify-send --icon=app4deepin-onoff --app-name='Control Center Tray' \"CCT Eyes Protect : The long break will begin in 5 seconds\""
+msgstr "notify-send --icon=app4deepin-onoff --app-name='Control Center Tray' \"Oogbescherming: de lange pauze begint over 5 seconden\""
+
+#: Startapp.class:635
+msgid "CPU temperature : +"
+msgstr "CPU-temperatuur: +"
+
+#: Wifiinfo.form:107
+msgid "Chanel :"
+msgstr "Kanaal:"
+
+#: Wifiinfo.form:114
+msgid "Security :"
+msgstr "Beveiliging:"
+
+#: Wifiinfo.form:121
+msgid "Signal :"
+msgstr "Signaalsterkte:"
+
+#: Wifiinfo.form:128
+msgid "Rate :"
+msgstr "Snelheid:"
+
+#: Wifiinfo.form:135
+msgid "SSID :"
+msgstr "SSID:"
+
+#: Wifiinfo.form:142
+msgid "Frequence :"
+msgstr "Frequentie:"
+
+#: Wifiinfo.form:163
+msgid "Rate Max :"
+msgstr "Max.snelheid:"
+
+#: safeeyefull.form:40
+msgid "Skip"
+msgstr "Overslaan"
+
+#: safeeyefull.class:26
+msgid ""
+"It's time to take a break.\n"
+"Sit back in your seat and relax."
+msgstr ""
+"Het is tijd om te pauzeren.\n"
+"Leun achterover en rust lekker uit."
