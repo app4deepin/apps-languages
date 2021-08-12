@@ -363,7 +363,7 @@ msgstr "自动清理"
 
 #: Options.form:423
 msgid "Show notification when battery reaches the minimum level of 25% and maximum of 85%. This helps maintain a better battery life."
-msgstr "当电量到达最低25%或者最大超过85%是提示，这会非常有助于保持电池的使用寿命"
+msgstr "当电量到达最低25%或者最大超过85%的时候提示，这将会非常有助于保持电池的使用寿命"
 
 #: Options.form:432
 msgid "Clipboard icon"
@@ -387,7 +387,7 @@ msgstr "已经过去1小时了！"
 
 #: Safeeyes.form:60
 msgid "Take a short break for your eyes."
-msgstr "让眼睛休息一下吧"
+msgstr "让眼睛小憩一下吧"
 
 #: Safeeyessettings.form:158 Startapp.form:37
 msgid "Settings"
@@ -395,7 +395,7 @@ msgstr "设置"
 
 #: Safeeyessettings.form:203
 msgid "Short break duration"
-msgstr "小息持续时间"
+msgstr "小憩持续时间"
 
 #: Safeeyessettings.form:215
 msgid "Wechat Pay"
@@ -443,7 +443,7 @@ msgstr "背景"
 
 #: Safeeyessettings.form:320
 msgid "Long break"
-msgstr "长息"
+msgstr "长休息"
 
 #: Safeeyessettings.form:338
 msgid "(mini 10s - max 30s)"
@@ -467,11 +467,11 @@ msgstr "严格休息"
 
 #: Safeeyessettings.form:411
 msgid "Try sound"
-msgstr "常识音乐"
+msgstr "尝试音乐"
 
 #: Safeeyessettings.form:446
 msgid "The whole purpose of Eyes Safe is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI."
-msgstr "护眼模式用于当你长时间用电脑工作的时候提示你休息一下，屏幕会询问你要不要做些运动，但这可能会减少你的RSI"
+msgstr "当你长时间用电脑工作的时，“护眼”会提示你休息一下，屏幕将会显示询问你要不要做些运动，但这可能会减少你的RSI"
 
 #: Sharewifi.form:42
 msgid "To share, scan the QR Code with your phone."
@@ -527,5 +527,5 @@ msgstr "跳过"
 
 #: safeeyefull.class:26
 msgid "It's time to take a break.\nSit back in your seat and relax."
-msgstr "改休息一下了。\n 坐回椅子上放松一下吧。"
+msgstr "该休息一下了。\n 坐回椅子上放松一下吧。"
 
