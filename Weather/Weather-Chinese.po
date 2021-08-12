@@ -1,0 +1,299 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:31 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:60 FMain.form:50
+msgid "Weather"
+msgstr "天气"
+
+#: .project:2
+msgid "Weather App for Deepin v20"
+msgstr "Deepin V20专属天气应用"
+
+#: About.form:17 FMain.form:84
+msgid "About"
+msgstr "关于"
+
+#: About.form:50
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:86
+msgid "Weather app for Deepin"
+msgstr "Deepin 专属天气应用"
+
+#: FMain.form:57
+msgid "Menu1"
+msgstr "菜单"
+
+#: FMain.form:61
+msgid "Settings"
+msgstr "设置"
+
+#: FMain.form:65
+msgid "Refresh"
+msgstr "刷新"
+
+#: FMain.form:72
+msgid "Report a bug"
+msgstr "问题反馈"
+
+#: FMain.form:76
+msgid "Changelog"
+msgstr "更新日志"
+
+#: FMain.form:80 Helper.form:30
+msgid "Help"
+msgstr "帮助"
+
+#: FMain.form:88
+msgid "Quit"
+msgstr "退出"
+
+#: FMain.form:110
+msgid "pm 2.5"
+msgstr "pm 2.5"
+
+#: FMain.form:181
+msgid "Humidity"
+msgstr "湿度"
+
+#: FMain.form:209
+msgid "Wind (km/h)"
+msgstr "风速 (km/h)"
+
+#: FMain.form:270
+msgid "Sorry, we are running out of queries to the weather service at the moment.\n\nPlease try later"
+msgstr "抱歉，我们当前天气的资源查询服务出现问题。\n\n请稍后重试。"
+
+#: FMain.class:71
+msgid "Refreshing data ..."
+msgstr "正在刷新数据 ..."
+
+#: FMain.class:84
+msgid "Refreshing data for the first launch"
+msgstr "正在为首次启动刷新数据"
+
+#: FMain.class:87
+msgid "Refreshing data for the first launch ."
+msgstr "正在为首次启动刷新数据 ."
+
+#: FMain.class:91
+msgid "Refreshing data for the first launch .."
+msgstr "正在为首次启动刷新数据 .."
+
+#: FMain.class:95
+msgid "Refreshing data for the first launch ..."
+msgstr "正在为首次启动刷新数据 ..."
+
+#: FMain.class:99
+msgid "Refreshing data for the first launch ...."
+msgstr "正在为首次启动刷新数据 ...."
+
+#: FMain.class:242
+msgid "Good"
+msgstr "好"
+
+#: FMain.class:249
+msgid "Moderate"
+msgstr "中等"
+
+#: FMain.class:256
+msgid "Unhealthy for Sensitive Groups"
+msgstr "对敏感人群不太健康"
+
+#: FMain.class:263
+msgid "Unhealthy"
+msgstr "不健康"
+
+#: FMain.class:270
+msgid "Very Unhealthy"
+msgstr "极度不健康"
+
+#: FMain.class:277
+msgid "Hazardous"
+msgstr "危险"
+
+#: FMain.class:299
+msgid "Clear"
+msgstr "清洁"
+
+#: FMain.class:306
+msgid "Sunny"
+msgstr "晴天"
+
+#: FMain.class:313
+msgid "Partly cloudy"
+msgstr "局部多云"
+
+#: FMain.class:321
+msgid "Cloudy"
+msgstr "多云"
+
+#: FMain.class:329
+msgid "Overcast"
+msgstr "阴天"
+
+#: FMain.class:337
+msgid "Mist"
+msgstr "薄雾"
+
+#: FMain.class:345
+msgid "Patchy rain possible"
+msgstr "可能有零星小雨"
+
+#: FMain.class:353
+msgid "Patchy snow possible"
+msgstr "可能有零星小雪"
+
+#: FMain.class:361
+msgid "Patchy freezing drizzle possible"
+msgstr "可能有零星的冻雨"
+
+#: FMain.class:369
+msgid "Thundery outbreaks possible"
+msgstr "可能有雷暴"
+
+#: FMain.class:377
+msgid "Blowing snow"
+msgstr "飘雪"
+
+#: FMain.class:385
+msgid "Blizzard"
+msgstr "暴雪"
+
+#: FMain.class:393
+msgid "Freezing fog"
+msgstr "冰雾"
+
+#: FMain.class:401
+msgid "Fog"
+msgstr "雾"
+
+#: FMain.class:409
+msgid "Patchy light rain"
+msgstr "零星小雨"
+
+#: FMain.class:417
+msgid "Heavy rain"
+msgstr "大雨"
+
+#: FMain.class:425
+msgid "Moderate freezing rain"
+msgstr "中冻雨"
+
+#: FMain.class:433
+msgid "Moderate sleet"
+msgstr "中雨夹雪"
+
+#: FMain.class:441
+msgid "Moderate snow"
+msgstr "中雪"
+
+#: FMain.class:449
+msgid "Heavy snow"
+msgstr "大雪"
+
+#: FMain.class:457
+msgid "Light rain shower"
+msgstr "小阵雨"
+
+#: FMain.class:465
+msgid "Heavy rain shower"
+msgstr "大阵雨"
+
+#: FMain.class:473
+msgid "Moderate sleet shower"
+msgstr "中阵雨夹雪"
+
+#: FMain.class:481
+msgid "Heavy snow shower"
+msgstr "大阵雪"
+
+#: FMain.class:489
+msgid "Moderate rain with thunder"
+msgstr "中雨伴雷"
+
+#: FMain.class:497
+msgid "Moderate snow with thunder"
+msgstr "中雪伴雷"
+
+#: FMain.class:996
+msgid "please"
+msgstr "请"
+
+#: FMain.class:2762 Setting.class:179
+msgid "Loading new data with the new settings..."
+msgstr "等待新设置的新数据"
+
+#: Helper.form:36
+msgid "When you launch the app, you'll see your local weather with a full set of additional information such as humidity, wind (km/h), wind direction and air quality.\nYou can change weather location in setting."
+msgstr "当你启动应用，将会看到你本地的天气和一些附加的信息，例如：湿度、风速(km/h)、风向和空气质量。\n你可以在设置改变天气本地位置。"
+
+#: Helper.form:42
+msgid "Location"
+msgstr "位置"
+
+#: Helper.form:49
+msgid "Weather data update"
+msgstr "天气数据更新"
+
+#: Helper.form:55
+msgid "The weather data for main window and the widget is updated every 30, 45 minutes or 1 hour like you choose on setting."
+msgstr "主页和小工具的天气数据按照个人在设置选择的喜好，于每30分钟、45分钟或者1个小时被更新"
+
+#: Helper.form:60
+msgid "You can update manually the data by clicking the Refresh button in the main window or on the desktop widget."
+msgstr "你可以手动按主页或者小工具的刷新按钮更新"
+
+#: Setting.form:47
+msgid "Your city"
+msgstr "你的城市"
+
+#: Setting.form:60
+msgid "30 minutes"
+msgstr "30分钟"
+
+#: Setting.form:60
+msgid "45 minutes"
+msgstr "45分钟"
+
+#: Setting.form:60
+msgid "1 hour"
+msgstr "1个小时"
+
+#: Setting.form:60
+msgid "3 hours"
+msgstr "3个小时"
+
+#: Setting.form:60
+msgid "6 hours"
+msgstr "6个小时"
+
+#: Setting.form:60
+msgid "12 hours"
+msgstr "12小时"
+
+#: Setting.form:67
+msgid "Frequency of updating weather data:"
+msgstr "更新天气数据频率："
+
+#: Setting.form:74
+msgid "Localisation auto"
+msgstr "自动定位"
+
+#: Setting.form:100
+msgid "Show desktop Widget"
+msgstr "显示桌面小工具"
+
+#: Setting.form:107
+msgid "Show tray icon"
+msgstr "显示托盘图标"
+

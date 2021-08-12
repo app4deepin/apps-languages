@@ -1,0 +1,151 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WallChanger 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:32 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1 About.form:33
+msgid "Wall Changer"
+msgstr "壁纸更换"
+
+#: About.form:58
+msgid "A new wallpaper every day"
+msgstr "每天一张新壁纸"
+
+#: About.form:75
+msgid "Based on Bing desktop wallpaper changer (link)"
+msgstr "基于必应的壁纸更换（连接）"
+
+#: About.form:91
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: FMain.form:36
+msgid "Menu1"
+msgstr "菜单"
+
+#: FMain.form:40
+msgid "Changelog"
+msgstr "更新日志"
+
+#: FMain.form:44
+msgid "Report a bug"
+msgstr "问题反馈"
+
+#: FMain.form:51
+msgid "About"
+msgstr "关于"
+
+#: FMain.form:55
+msgid "Quit"
+msgstr "退出"
+
+#: FMain.form:75
+msgid "Max size of wallpapers folder : "
+msgstr "壁纸文件夹最大空间："
+
+#: FMain.form:115
+msgid "Wall Changer - Settings"
+msgstr "壁纸更换 - 设置"
+
+#: FMain.form:124
+msgid "Delete downloaded wallpapers"
+msgstr "删除已经下载的壁纸"
+
+#: FMain.form:125 Suppress.form:40
+msgid "DELETE"
+msgstr "删除"
+
+#: FMain.form:132
+msgid "Bing Wallpaper - area : "
+msgstr "必应壁纸 - 区域："
+
+#: FMain.form:139
+msgid "Auto (Default)"
+msgstr "自动（默认）"
+
+#: FMain.form:139
+msgid "Canada"
+msgstr "加拿大"
+
+#: FMain.form:139
+msgid "China"
+msgstr "中国"
+
+#: FMain.form:139
+msgid "France"
+msgstr "法国"
+
+#: FMain.form:139
+msgid "Germany"
+msgstr "德国"
+
+#: FMain.form:139
+msgid "India"
+msgstr "印度"
+
+#: FMain.form:139
+msgid "Japan"
+msgstr "日本"
+
+#: FMain.form:139
+msgid "Spain"
+msgstr "西班牙"
+
+#: FMain.form:139
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: FMain.form:139
+msgid "UK"
+msgstr "英国"
+
+#: FMain.form:139
+msgid "US"
+msgstr "美国"
+
+#: FMain.form:155
+msgid "Apply new settings"
+msgstr "应用新设置"
+
+#: FMain.form:156
+msgid "APPLY"
+msgstr "应用"
+
+#: FMain.form:162
+msgid "View wallpaper folder"
+msgstr "查看壁纸文件夹"
+
+#: FMain.form:174
+msgid "Applying new zone "
+msgstr "应用新空间"
+
+#: FMain.class:25
+msgid "~/Pictures/Wall-Changer"
+msgstr "~/Pictures/Wall-Changer"
+
+#: FMain.class:28 Suppress.class:12
+msgid "Downloaded wallpaper : "
+msgstr "已下载的壁纸："
+
+#: Suppress.form:54
+msgid "Please confirm the deletion of the downloaded wallpapers."
+msgstr "请确定删除的已下载壁纸。"
+
+#: Suppress.form:75
+msgid "Close"
+msgstr "关闭"
+
+#: Suppress.class:6
+msgid " wallpapers will be deleted !"
+msgstr " 壁纸将被删除！"
+
+#: Suppress.class:25
+msgid "Wallpaper deleted !"
+msgstr "壁纸删掉咯！"
+

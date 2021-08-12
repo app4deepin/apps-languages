@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Filetransfert 3.13.0\n"
+"PO-Revision-Date: 2020-10-09 08:32 UTC\n"
+"Last-Translator: david <david@david-PC>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1
+msgid "File Drop"
+msgstr "File Drop"
+
+#: About.form:64
+msgid "Send or receive file to your phone with wifi"
+msgstr "用WIFI发送或接收文件到你的手机上"
+
+#: About.form:87
+msgid "https://app4deepin.com"
+msgstr "https://app4deepin.com"
+
+#: About.form:105
+msgid "Based on qrcp software : <p>\nhttps://github.com/claudiodangelis/qrcp"
+msgstr "基于qrcp软件：<p>\nhttps://github.com/claudiodangelis/qrcp"
+
+#: Aide.form:40
+msgid "Send 1 file"
+msgstr "发送 1 个文件"
+
+#: Aide.form:47
+msgid "Receive file(s)"
+msgstr "接收的文件"
+
+#: Aide.form:54
+msgid "Send files or folders"
+msgstr "发送文件或文件夹"
+
+#: Aide.form:61
+msgid "Zip files or folders"
+msgstr "Zip压缩文件或文件夹"
+
+#: Aide.form:68 start.form:39
+msgid "How to send or receive"
+msgstr "如何发送或接收"
+
+#: Aide.form:104
+msgid "Click on Send icon and Drag and drop the file to drop zone. When it's done, scan the QR Code with your phone. Check the transfer on your phone."
+msgstr "点击“发送”图标然后把文件拖动到指定区域，当这些动作完成时，用你的手机扫描二维码获取这些文件。"
+
+#: Aide.form:111
+msgid "Click on Receive icon and scan the QR Code with your phone. Select on your phone the files to send to your computer"
+msgstr "点击“接收”图标然后用手机设备扫描二维码，在手机里面选择你要发送到电脑的文件。"
+
+#: Aide.form:118
+msgid "Click on Multi-Send icon. Drag and Drop your files or folders. When done, clic on Send button and scan the QR Code with your phone. You will receive a ZIP file. Check the transfer on your phone."
+msgstr "点击“多项发送”图标，然后把文件或者文件夹拖动到指定区域，当这些动作完成时，点击发送按钮然后用手机扫描二维码，将会收到自动生成的zip的压缩文件。"
+
+#: Aide.form:125
+msgid "Before sending your file or folder, you can tell File Drop to compress (ZIP) them."
+msgstr "发送文件或者文件夹之前，你可以先让File Drop把它们压缩成Zip包。"
+
+#: MultiSend.form:86 Send.form:204 start.form:98
+msgid "Send"
+msgstr "发送"
+
+#: MultiSend.form:111 start.form:114
+msgid "Multi-Send"
+msgstr "多项发送"
+
+#: MultiSend.form:128
+msgid ">>   Drag one file or folder at a time   <<"
+msgstr ">>   一次性拖拉文件或者文件夹   <<"
+
+#: MultiSend.form:136
+msgid "Files/Folders will be compressed (ZIP) before sent."
+msgstr "文件/文件夹 在发送前将会被压缩成Zip包。"
+
+#: MultiSend.form:167
+msgid "1 - Turn the wifi on your phone \n\n2 - Scan the QR code\n\n3 - Check the transfer on your phone"
+msgstr "1 - 手机打开WiFi \n\n2- 扫描二维码 \n\n3 - 检查手机的发送情况"
+
+#: MultiSend.form:182
+msgid "FileDrop is preparing your zip file "
+msgstr "FileDrop 将会准备好你的zip文件。"
+
+#: MultiSend.class:9
+msgid "Files/Folders to send : "
+msgstr "文件/文件夹发送到："
+
+#: Option.form:34
+msgid "Allways compress the file (ZIP) before sending it"
+msgstr "总是在发送文件之前压缩（zip）"
+
+#: Option.form:40
+msgid "Show File Drop Widget"
+msgstr "显示File Drop小工具"
+
+#: Receive.form:143 Send.form:122
+msgid "1 - Turn the wifi on your phone \n\n2 - Scan the QR code"
+msgstr "1 - 手机打开WiFi \n\n2- 扫描二维码"
+
+#: Receive.form:172
+msgid "Receiving your files ...\n\nWait for the confirmation message on your phone."
+msgstr "正在接收你的文件 ... \n\n请等到手机上的确认信息。"
+
+#: Receive.form:179
+msgid "Open folder"
+msgstr "打开文件夹"
+
+#: Receive.form:209 start.form:106
+msgid "Receive"
+msgstr "接收"
+
+#: Send.form:99
+msgid "Drop your file here"
+msgstr "拖拉文件到此处"
+
+#: Send.form:133
+msgid "Compress the file (ZIP) before sending it"
+msgstr "发送文件之前压缩（zip）"
+
+#: Send.class:194
+msgid "cut -c8- /tmp/filetmp.rtf | tr -d '\\n' > /tmp/filetmp2.rtf"
+msgstr "cut -c8- /tmp/filetmp.rtf | tr -d '\\n' > /tmp/filetmp2.rtf"
+
+#: start.form:29
+msgid "FileDrop"
+msgstr "FileDrop"
+
+#: start.form:35
+msgid "Menu1"
+msgstr "菜单"
+
+#: start.form:43
+msgid "Settings"
+msgstr "设置"
+
+#: start.form:47
+msgid "Changelog"
+msgstr "更新日志"
+
+#: start.form:51
+msgid "Report a bug"
+msgstr "反馈问题"
+
+#: start.form:58
+msgid "About"
+msgstr "关于"
+
+#: start.form:62
+msgid "Quit"
+msgstr "退出"
+
+#: start.form:125
+msgid "Send file"
+msgstr "发送文件"
+
+#: start.form:131
+msgid "Receive file"
+msgstr "接收文件"
+
+#: start.form:137
+msgid "Send multiple files or folders"
+msgstr "发送多文件或文件夹"
+
+#: start.form:156
+msgid "Please check your network connection"
+msgstr "请检查你的网络连接"
+
